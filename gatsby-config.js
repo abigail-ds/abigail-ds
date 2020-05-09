@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Abigails Driving School`,
+    description: `The only english and spanish language driving school provider in the Richmond metropolitan area`,
     author: `@gatsbyjs`,
   },
   plugins: [
