@@ -1,0 +1,340 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: "Home"
+    label: "Home"
+    folder: "content/home"
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "home-content", name: "body", widget: "markdown" }
+  - name: "Hogar"
+    label: "Hogar"
+    folder: "content/hogar"
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title-es",
+          name: "title-es",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "hogar-content", name: "body", widget: "markdown" }
+  - name: "About"
+    label: "About"
+    folder: "content/about"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "about-content", name: "body", widget: "markdown" }
+  - name: "Acerca de"
+    label: "Acerca de"
+    folder: "content/acerca-de"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title-es",
+          name: "title-es",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "acerca-de-content", name: "body", widget: "markdown" }
+  - name: "Drivers Improvement"
+    label: "Drivers Improvement"
+    folder: "content/drivers-improvement"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "improvement-title", name: "string", widget: "string" }
+      - { label: "improvement-content", name: "body", widget: "markdown" }
+  - name: "Mejora de conductores"
+    label: "Mejora de conductores"
+    folder: "content/mejora-de-conductores"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - {
+          label: "mejora-de-conductores-title",
+          name: "string",
+          widget: "string",
+        }
+      - {
+          label: "mejora-de-conductores-content",
+          name: "body",
+          widget: "markdown",
+        }
+  - name: "Courses"
+    label: "Courses"
+    folder: "content/courses"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "description", name: "body", widget: "markdown" }
+  - name: "Cursos"
+    label: "Cursos"
+    folder: "content/cursos"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title-es",
+          name: "title-es",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "cursos-content", name: "body", widget: "markdown" }
+  - name: "Registration"
+    label: "Registration"
+    folder: "content/register"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "register-content", name: "text", widget: "text" }
+      - {
+          label: "register-content-es",
+          name: "es-translate",
+          widget: "markdown",
+        }
+  - name: "FAQ"
+    label: "FAQ"
+    folder: "content/faq"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "faq-content", name: "body", widget: "markdown" }
+  - name: "Preguntas Frecuentes"
+    label: "Preguntas Frecuentes"
+    folder: "content/preguntas-frecuentes"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - {
+          label: "preguntas-frecuentes-content",
+          name: "body",
+          widget: "markdown",
+        }
+  - name: "Online Training"
+    label: "Online Training"
+    folder: "content/online-training"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "training-content", name: "body", widget: "markdown" }
+  - name: "Entrenamiento en linea"
+    label: "Entrenamiento en linea"
+    folder: "content/entrenamiento-en-linea"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - {
+          label: "entrenamiento-en-linea-content",
+          name: "body",
+          widget: "markdown",
+        }
+  - name: "News"
+    label: "News"
+    folder: "content/news"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "news-content", name: "body", widget: "markdown" }
+  - name: "Noticias"
+    label: "Noticias"
+    folder: "content/noticias"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "noticias-content", name: "body", widget: "markdown" }
+  - name: "Products"
+    label: "Products"
+    folder: "content/products"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "product-name", name: "string", widget: "string" }
+      - { label: "product-price", name: "price", widget: "number" }
+      - {
+          label: "product-sale",
+          name: "number",
+          widget: "number",
+          required: false,
+        }
+  - name: "Form"
+    label: "Form"
+    folder: "content/form"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "form-content", name: "body", widget: "markdown" }
+  - name: "fTranslate"
+    label: "fTranslate"
+    folder: "content/fTranslate"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title-es",
+          name: "title-es",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "f-translate-content", name: "body", widget: "markdown" }
+  - name: "Footer"
+    label: "Footer"
+    folder: "content/footer"
+    delete: true
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "English Phone Number", name: "en-phone", widget: "string" }
+      - { label: "Spanish Phone Number", name: "es-phone", widget: "string" }
+      - { label: "Contact Hours", name: "contact-hours", widget: "string" }
+      - { label: "Facebook link", name: "fb-link", widget: "string" }
