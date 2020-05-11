@@ -9,8 +9,8 @@ collections:
   - name: "Home"
     label: "Home"
     folder: "content/home"
-    create: true
-    delete: true
+    create: false
+    delete: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -25,8 +25,8 @@ collections:
   - name: "Hogar"
     label: "Hogar"
     folder: "content/hogar"
-    create: true
-    delete: true
+    create: false
+    delete: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -41,8 +41,8 @@ collections:
   - name: "About"
     label: "About"
     folder: "content/about"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -57,8 +57,8 @@ collections:
   - name: "Acerca de"
     label: "Acerca de"
     folder: "content/acerca-de"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -73,8 +73,8 @@ collections:
   - name: "Drivers Improvement"
     label: "Drivers Improvement"
     folder: "content/drivers-improvement"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -90,8 +90,8 @@ collections:
   - name: "Mejora de conductores"
     label: "Mejora de conductores"
     folder: "content/mejora-de-conductores"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -147,8 +147,8 @@ collections:
   - name: "Registration"
     label: "Registration"
     folder: "content/register"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -168,8 +168,8 @@ collections:
   - name: "FAQ"
     label: "FAQ"
     folder: "content/faq"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -184,8 +184,8 @@ collections:
   - name: "Preguntas Frecuentes"
     label: "Preguntas Frecuentes"
     folder: "content/preguntas-frecuentes"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -204,8 +204,8 @@ collections:
   - name: "Online Training"
     label: "Online Training"
     folder: "content/online-training"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -220,8 +220,8 @@ collections:
   - name: "Entrenamiento en linea"
     label: "Entrenamiento en linea"
     folder: "content/entrenamiento-en-linea"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -240,8 +240,8 @@ collections:
   - name: "News"
     label: "News"
     folder: "content/news"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -256,8 +256,8 @@ collections:
   - name: "Noticias"
     label: "Noticias"
     folder: "content/noticias"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -295,8 +295,8 @@ collections:
   - name: "Form"
     label: "Form"
     folder: "content/form"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -311,8 +311,8 @@ collections:
   - name: "fTranslate"
     label: "fTranslate"
     folder: "content/fTranslate"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -327,8 +327,8 @@ collections:
   - name: "Footer"
     label: "Footer"
     folder: "content/footer"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
