@@ -2,8 +2,6 @@
 title: Drivers Improvement
 string: Eight-Hour Driver Improvement Clinic
 ---
-#### Eight-Hour Driver Improvement Clinic
-
 #### Program:
 
 Our driver improvement course uses the [National Traffic Safety Institute](https://ntsi.com/about-ntsi/)(NTSI) Defensive Driving Program. NTSI is one of the first defensive driving programs established in 1974. Abigail's Driving School follows NTSI's belief that values + attitude = behavior. It is through personal responsibility that has the potential to modify driving behaviors.
