@@ -160,8 +160,8 @@ export default props => (
               <option value="10-20-hours">10 to 20 Hours / Horas</option>
               <option value="20-hours">20+ Hours / Horas</option>
               <option value="20-hours">
-                Completed the 45h Journal- Teenagers / Completado el 45h
-                Journal- Teenagers
+                Completed The 45hr Journal – Teenagers / Completado La Revista
+                De 45 Horas – Adolescentes
               </option>
             </select>
             <label htmlFor="how-many-hours">
