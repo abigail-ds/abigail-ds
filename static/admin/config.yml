@@ -144,27 +144,6 @@ collections:
           hint: "title of node",
         }
       - { label: "cursos-content", name: "body", widget: "markdown" }
-  - name: "Registration"
-    label: "Registration"
-    folder: "content/register"
-    delete: true
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
-    editor:
-      preview: false
-    fields:
-      - {
-          label: "Title",
-          name: "title",
-          widget: "string",
-          hint: "title of node",
-        }
-      - { label: "register-content", name: "text", widget: "text" }
-      - {
-          label: "register-content-es",
-          name: "es-translate",
-          widget: "markdown",
-        }
   - name: "FAQ"
     label: "FAQ"
     folder: "content/faq"
