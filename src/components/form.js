@@ -221,7 +221,8 @@ export default props => (
       <div>
         <label htmlFor="signature">
           <h3>{props.termsTitle}</h3>
-          <div dangerouslySetInnerHTML={{ __html: props.agreement }} />
+          <div dangerouslySetInnerHTML={{ __html: props.agreementEn }} />
+          <div dangerouslySetInnerHTML={{ __html: props.agreementEs }} />
         </label>
         <input type="text" name="signature" id="signature" required />
         <p>Signature / Firma</p>
