@@ -42,7 +42,13 @@ const Registration = ({ intl }) => {
       />
 
       <Form
-        agreement={path.match("/en/") ? data.form.html : data.formEs.html}
+        agreement={
+          path.match("/en/registration/")
+            ? data.form.html
+            : path.match("/es/registration/")
+            ? data.formEs.html
+            : data.form.html
+        }
         courseTitle={intl.formatMessage({ id: "registration.course_title" })}
         courseInfoTitle={intl.formatMessage({
           id: "registration.student_info_title",
