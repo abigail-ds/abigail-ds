@@ -1,6 +1,6 @@
 ---
 title: "Teen Drivers Education  "
-string: Teen Drivers Education  | Educación para conductores adolescentes
+string: Teen Drivers Education Package | Educación para conductores adolescentes
 price: 450
 number: 0
 ---
