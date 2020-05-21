@@ -15,8 +15,8 @@ const Registration = ({ intl }) => {
         nodes {
           fileAbsolutePath
           frontmatter {
-            text
             string
+            price
             number
           }
         }
@@ -57,27 +57,27 @@ const Registration = ({ intl }) => {
         eraserSubmit={intl.formatMessage({ id: "registration.eraser_submit" })}
         productOne={[
           data.products.nodes[0].frontmatter.string,
-          data.products.nodes[0].frontmatter.text,
-          data.products.nodes[0].frontmatter.number,
+          data.products.nodes[0].frontmatter.price,
+          true ? data.products.nodes[0].frontmatter.number : " ",
         ]}
         productTwo={[
           data.products.nodes[1].frontmatter.string,
-          data.products.nodes[1].frontmatter.text,
+          data.products.nodes[1].frontmatter.price,
           data.products.nodes[1].frontmatter.number,
         ]}
         productThree={[
           data.products.nodes[2].frontmatter.string,
-          data.products.nodes[2].frontmatter.text,
+          data.products.nodes[2].frontmatter.price,
           data.products.nodes[2].frontmatter.number,
         ]}
         productFour={[
           data.products.nodes[3].frontmatter.string,
-          data.products.nodes[3].frontmatter.text,
+          data.products.nodes[3].frontmatter.price,
           data.products.nodes[3].frontmatter.number,
         ]}
         productFive={[
           data.products.nodes[4].frontmatter.string,
-          data.products.nodes[4].frontmatter.text,
+          data.products.nodes[4].frontmatter.price,
           data.products.nodes[4].frontmatter.number,
         ]}
       />
