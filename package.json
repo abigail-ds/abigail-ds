@@ -30,6 +30,7 @@
     "intl": "^1.2.5",
     "jquery": "^3.4.1",
     "materialize-css": "^1.0.0-rc.2",
+    "mkdirp": "^1.0.4",
     "netlify-cms-app": "^2.12.12",
     "netlify-identity-widget": "^1.6.0",
     "prop-types": "^15.7.2",

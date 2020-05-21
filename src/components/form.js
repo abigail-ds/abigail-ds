@@ -13,9 +13,9 @@ export default props => (
   >
     <input type="hidden" name="bot-field" />
     <input type="hidden" name="form-name" value="contact" />
-    <div>
-      <h3>{props.courseTitle}</h3>
-      <select name="products" id="products-select" required multiple>
+    <h3>{props.courseTitle}</h3>
+    <div className="section">
+      <select name="products" id="products" required multiple>
         <option selected="default">Select</option>
         <option value={props.productOne[0]}>
           {props.productOne[0]} | {props.productOne[1]} | {props.productOne[2]}
@@ -36,60 +36,101 @@ export default props => (
           {props.productFive[2]}
         </option>
       </select>
-      <label htmlFor="products-select">Products</label>
+      <label HTMLfor="products">Courses / Cursos</label>
+      <span className="required">*</span>
     </div>
 
-    <div className="section">
-      <h3>{props.courseInfoTitle}</h3>
-      <div>
-        <input type="text" name="student-name" id="student-name" />
-        <label htmlFor="student-name">
-          Student Name / Nombre del estudiante
-        </label>
-      </div>
-      <div>
-        <input type="text" name="parent-name" id="parent-name" />
-        <label htmlFor="parent-name">Parent Name / Nombre de los padres</label>
-      </div>
-      <div>
-        <input required type="email" name="email" id="email" />
-        <label htmlFor="email">email</label>
-      </div>
-    </div>
     <div>
-      <select
-        name="has-taken-drivers-ed"
-        id="has-taken-drivers-ed"
-        required
-        multiple
-      >
-        <option value="" selected="selected">
-          Select / Seleccione
-        </option>
-        <option value="yes">Yes / Si</option>
-        <option value="no">No</option>
-        <option value="not-applicable">Not Applicable / No aplica</option>
-      </select>
-      <label htmlFor="has-taken-drivers-ed">
-        Has the student taken in-class drivers education, and can you provide
-        proof of completion? **Only Teens <br /> ¿Ha tomado el estudiante
-        educación para conductores en su clase y puede proporcionarle
-                prueba de finalización? ** Solo adolescentes
-      </label>
-      <div>
-        <input type="text" name="student-cell" id="student-cell" />
-        <label htmlFor="student-cell">Student Cell / Estudiantes Celular</label>
+      <h3>{props.courseInfoTitle}</h3>
+      <div className="section">
+        <input type="text" name="student-name" id="student-name" required />
+        <label htmlFor="student-name">
+          Student Name/ Nombre del estudiante
+        </label>
+        <span className="required">*</span>
       </div>
-      <div>
-        <input type="text" name="parent-cell" id="parent-cell" />
-        <label htmlFor="parent-cell">Parent Cell / Padres Celular</label>
+
+      <div className="section">
+        <select name="identity-type" id="identity-type" required multiple>
+          <option value="" selected="selected">
+            Select / Seleccione
+          </option>
+          <option value="Learner´s Permit or Virginia Identification">
+            Learner´s Permit or Virginia Identification / Permiso de alumno o
+            identificación de Virginia
+          </option>
+          <option value="No Learner´s Permit or No Virginia Issued Identification">
+            No Learner´s Permit or No Virginia Issued Identification - Sin
+            permiso de estudiante o sin identificación emitida por Virginia
+          </option>
+          <option value="Other">Other/ Otros</option>
+        </select>
+        <label htmlFor="identity-type">
+          Identification Type/ Tipo de identificación
+        </label>
+        <span className="required">*</span>
       </div>
-      <div>
-        <input type="text" name="address-line-1" id="address-line-1" />
+
+      <div className="section">
+        <input type="date" name="date-issue" id="date-issue" required />
+        <label htmlFor="date-issue">Date Issued/Fecha de emisión</label>
+        <span className="required">*</span>
+      </div>
+
+      <div className="section">
+        <input type="date" name="date-exp" id="date-exp" required />
+        <label htmlFor="date-exp">
+          Date of Expiration/ Fecha de expiración
+        </label>
+        <span className="required">*</span>
+      </div>
+
+      <div className="section">
+        <input type="email" name="st-email" id="st-email" required />
+        <label htmlFor="st-email">
+          Student Email/ Correo electrónico del estudiante
+        </label>
+        <span className="required">*</span>
+      </div>
+
+      <div className="section">
+        <input type="tel" name="st-phone" id="st-phone" required />
+        <label htmlFor="st-phone">
+          Student Cell Phone Number / Número de teléfono celular del estudiante
+        </label>
+        <span className="required">*</span>
+      </div>
+
+      <div className="section">
+        <input type="text" name="pt-name" id="pt-name" />
+        <label htmlFor="pt-name">
+          Parent Name / if applicable- Nombre del Padre - si corresponde
+        </label>
+        <span className="required">*</span>
+      </div>
+
+      <div className="section">
+        <input required type="email" name="pt-email" id="pt-email" />
+        <label htmlFor="email">
+          Parent Email / Correo electrónico de los padres
+        </label>
+        <span className="required">*</span>
+      </div>
+
+      <div className="section">
+        <input required type="tel" name="pt-phone" id="pt-phone" />
+        <label htmlFor="pt-phone">
+          Parent Cell Phone Number / Número de teléfono celular para padres
+        </label>
+        <span className="required">*</span>
+      </div>
+
+      <div className="section">
+        <input type="text" name="address-line-1" id="address-line-1" required />
         <label htmlFor="address-line-1">Address 1 / Dirección 1</label>
-        <input type="text" name="address-line-2" id="address-line-2" />
+        <input type="text" name="address-line-2" id="address-line-2" required />
         <label htmlFor="address-line-2">Address 2 / Dirección 2</label>
-        <input type="text" name="city" id="city" />
+        <input type="text" name="city" id="city" required />
         <label htmlFor="city">City / Ciudad</label>
         <div className="section">
           <select className="state" id="state" name="state" required>
@@ -149,41 +190,30 @@ export default props => (
             <option value="WY">Wyoming</option>
           </select>
           <label htmlFor="state">State / Estado</label>
-          <div></div>
-          <div className="section">
-            <select id="how-many-hours" name="how-many-hours" required multiple>
-              <option value="" selected="selected">
-                Select / Seleccione
-              </option>
-              <option value="0-hours">0 Hours / Horas</option>
-              <option value="5-10-hours">5 to 10 Hours / Horas</option>
-              <option value="10-20-hours">10 to 20 Hours / Horas</option>
-              <option value="20-hours">20+ Hours / Horas</option>
-              <option value="20-hours">
-                Completed The 45hr Journal – Teenagers / Completado La Revista
-                De 45 Horas – Adolescentes
-              </option>
-            </select>
-            <label htmlFor="how-many-hours">
-              Please identify the number of hours you have driven so far? /
-              ¿Identifica el número de horas que ha conducido hasta ahora?
-            </label>
-          </div>
-        </div>
-        <div>
-          <select id="desired-times" name="desired-times" required>
-            <option selected="default">Select / Seleccione</option>
-            <option value="session-1">Session / Sesión 1: 6am - 10am</option>
-            <option value="session-2">Session / Sesión 2: 10am - 2pm</option>
-            <option value="session-3">Session / Sesión 3: 2pm - 6pm</option>
-            <option value="session-4">Session / Sesión 4: 6am - 6pm</option>
-            <option value="session-5">Flexible</option>
-          </select>
-          <label htmlFor="desired-times">
-            Desired Times / Tiempos Deseados
-          </label>
+          <span className="required">*</span>
         </div>
       </div>
+
+      <div className="section">
+        <select id="how-many-hours" name="how-many-hours" required multiple>
+          <option value="" selected="selected">
+            Select / Seleccione
+          </option>
+          <option value="0-hours">0 Hours / Horas</option>
+          <option value="5-10-hours">5 to 10 Hours / Horas</option>
+          <option value="10-20-hours">10 to 20 Hours / Horas</option>
+          <option value="20-hours">20+ Hours / Horas</option>
+          <option value="20-hours+">
+            Completed The 45hr Journal – Teenagers / Completado La Revista De 45
+            Horas – Adolescentes
+          </option>
+        </select>
+        <label htmlFor="how-many-hours">
+          Number of Hours Driven / Número de horas conducidas
+        </label>
+        <span className="required">*</span>
+      </div>
+
       <div className="section">
         <select id="days" name="days" required multiple>
           <option value="" selected="selected">
@@ -197,16 +227,65 @@ export default props => (
           <option value="saturday">Saturday / Sábado</option>
           <option value="sunday">Sunday / Domingo</option>
         </select>
-        <label htmlFor="days">Days / Dias</label>
+        <label htmlFor="days">
+          Desired Days of the Week / Dias deseados de la semana
+        </label>
+        <span className="required">*</span>
+      </div>
+
+      <div>
+        <select id="desired-times" name="desired-times" required>
+          <option selected="default">Select / Seleccione</option>
+          <option value="session-1">Session / Sesión 1: 6am - 10am</option>
+          <option value="session-2">Session / Sesión 2: 10am - 2pm</option>
+          <option value="session-3">Session / Sesión 3: 2pm - 6pm</option>
+          <option value="session-4">Session / Sesión 4: 6am - 6pm</option>
+          <option value="session-5">Flexible</option>
+        </select>
+        <label htmlFor="desired-times">Desired Times / Tiempos Deseados</label>
+        <span className="required">*</span>
+      </div>
+
+      {/*<div>
+       <select
+        name="has-taken-drivers-ed"
+        id="has-taken-drivers-ed"
+        required
+        multiple
+      >
+        <option value="" selected="selected">
+          Select / Seleccione
+        </option>
+        <option value="yes">Yes / Si</option>
+        <option value="no">No</option>
+        <option value="not-applicable">Not Applicable / No aplica</option>
+      </select>
+      <label htmlFor="has-taken-drivers-ed">
+        Has the student taken in-class drivers education, and can you provide
+        proof of completion? **Only Teens <br /> ¿Ha tomado el estudiante
+        educación para conductores en su clase y puede proporcionarle
+                prueba de finalización? ** Solo adolescentes
+      </label> */}
+      {/* <div>
+        <input type="text" name="student-cell" id="student-cell" />
+        <label htmlFor="student-cell">Student Cell / Estudiantes Celular</label>
       </div>
       <div>
-        <input type="text" name="reference" id="reference" />
+        <input type="text" name="parent-cell" id="parent-cell" />
+        <label htmlFor="parent-cell">Parent Cell / Padres Celular</label>
+      </div> 
+      </div>*/}
+
+      <div clasName="section">
+        <input type="text" name="reference" id="reference" required />
         <label htmlFor="reference">
           How did you hear about our school? | ¿Cómo se enteró de nuestra
           escuela?
         </label>
+        <span className="required">*</span>
       </div>
-      <div>
+
+      <div clasName="section">
         <h3>{props.coursePaymentOptionTitle}</h3>
         <select id="payment" name="payment" required>
           <option value="" selected="selected">
@@ -217,29 +296,36 @@ export default props => (
           <option value="cash">Card / Tarjeta</option>
         </select>
         <label htmlFor="payment">Payment / Pago</label>
+        <span className="required">*</span>
       </div>
-      <div>
-        <label htmlFor="signature">
+
+      <div clasName="section">
+        <label htmlFor="confirmed">
           <h3>{props.termsTitle}</h3>
-          <div dangerouslySetInnerHTML={{ __html: props.agreementEn }} />
-          <div dangerouslySetInnerHTML={{ __html: props.agreementEs }} />
+          <div dangerouslySetInnerHTML={{ __html: props.agreement }} />
         </label>
-        <input type="text" name="signature" id="signature" required />
-        <p>Signature / Firma</p>
+        <input type="text" name="confirmed" id="confirmed" required />
+        <p>
+          Signature / Firma <span className="required">*</span>
+        </p>
       </div>
-      <div>
+
+      <div clasName="section">
         <input type="date" name="date" id="date" required />
         <label htmlFor="date">Date / Fecha</label>
+        <span className="required">*</span>
       </div>
-    </div>
-    <div className="section">
-      <input
-        style={{ marginRight: "10px" }}
-        className="btn"
-        type="submit"
-        value={props.registrationSubmit}
-      />
-      <input className="btn" type="reset" value={props.eraserSubmit} />
+
+      <div className="section">
+        <input
+          style={{ marginRight: "10px" }}
+          className="btn"
+          type="submit"
+          value={props.registrationSubmit}
+        />
+        <input className="btn" type="reset" value={props.eraserSubmit} />
+        <span className="required">*</span>
+      </div>
     </div>
   </form>
 )

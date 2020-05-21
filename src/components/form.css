@@ -2,3 +2,7 @@
   color: #414042;
   font-size: 1rem;
 }
+
+.required {
+  color: red;
+}
