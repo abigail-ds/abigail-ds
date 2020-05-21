@@ -58,7 +58,7 @@ const Registration = ({ intl }) => {
         productOne={[
           data.products.nodes[0].frontmatter.string,
           data.products.nodes[0].frontmatter.price,
-          true ? data.products.nodes[0].frontmatter.number : " ",
+          data.products.nodes[0].frontmatter.number,
         ]}
         productTwo={[
           data.products.nodes[1].frontmatter.string,

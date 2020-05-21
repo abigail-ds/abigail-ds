@@ -251,8 +251,8 @@ collections:
   - name: "Products"
     label: "Products"
     folder: "content/products"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
