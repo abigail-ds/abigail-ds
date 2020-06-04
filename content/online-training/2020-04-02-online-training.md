@@ -1,7 +1,11 @@
 ---
 title: Online Training
 ---
+**APPROVAL PENDING**
+
 **Welcome to Virginia’s Driver Education Course**
+
+As we wait for DMV Approval - we want to to express our gratitude for partnering up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education .
 
 **Tech Support: 800 942 2050**
 
@@ -74,3 +78,7 @@ On the day of testing, you must bring the following to the test site:
 * Sunday 8 am To 12pm
 
 “DMV is committed to promoting transportation safety through the certification of quality driver training programs. If you have comments or concerns about this course, call our toll-free number: **1-877-885-5790**.”
+
+
+
+![](/assets/ndti-logo-docx.png)
