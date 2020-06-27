@@ -303,6 +303,71 @@ export default props => (
         <label htmlFor="confirmed">
           <h3>{props.termsTitle}</h3>
           <div dangerouslySetInnerHTML={{ __html: props.agreement }} />
+          <ol>
+            <li>
+              For every behind the wheel lesson, the student must drive at
+              minimum 1hr at home
+            </li>
+            <li>
+              Parents allow the enrolled student to drive the school’s vehicle
+              during behind the wheel lesson.
+            </li>
+            <li>
+              Fees are payable by cash, personal check, money order or credit
+              cards (processing fees apply for credit card) prior to
+              receipt/awarding of relevant certification.
+            </li>
+            <li>
+              Clients must <strong>pay $50 non-refundable</strong> deposit to
+              secure behind the wheel training slot upon booking.
+            </li>
+            <li>
+              At minimum, client must make an effort to pay at least 50% of
+              total cost of class prior to the 1st class
+            </li>
+            <li>
+              If applicable, behind the wheel instruction is conducted by
+              appointment only and the student may be charged regular school
+              rate of $40.00 for any appointment he/she does not meet or misses,
+              unless the school is given at least 24 hour notice. Student must
+              make up missed classes (instruction/in-car) within 7 days.
+            </li>
+            <li>
+              A refund of any fees or tuition will be provided, upon written
+              request, unless the school is capable or willing to perform its
+              part of the contract within a reasonable time period.
+            </li>
+            <li>
+              No Certification will be issued until all fees have been paid in
+              full.
+            </li>
+            <li>
+              The school will complete the course in a reasonable length of
+              time; however, it cannot be held responsible for delays caused by
+              mechanical failure, unsafe driving conditions due to bad weather
+              or any reason which it has no control. The school will give the
+              student as much notice as possible of any delays.
+            </li>
+            <li>
+              The instruction period does not guarantee that any student will
+              pass the state license examination or secure a license, nor does
+              the completed instruction guarantee employment of any kind.
+            </li>
+            <li>
+              <p>
+                Abigail’s Driving School reserves the right to refer certain
+                services to a third party if the school is unable to accommodate
+                a customer.
+              </p>
+              <p>
+                \ DMV is committed to promoting transportation safety through
+                the certification of quality driver training programs. If you
+                have comments or concerns about this course, call our toll-free
+                number: 1-877-885-5790 or email dmvclu@dmv.virginia.com
+                (2/2020).
+              </p>
+            </li>
+          </ol>
         </label>
         <input type="text" name="confirmed" id="confirmed" required />
         <p>
