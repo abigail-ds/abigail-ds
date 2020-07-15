@@ -36,7 +36,7 @@ export default props => (
           {props.productFive[2]}
         </option>
       </select>
-      <label HTMLfor="products">Courses / Cursos</label>
+      <label HTMLfor="products">Courses</label>
       <span className="required">*</span>
     </div>
 
