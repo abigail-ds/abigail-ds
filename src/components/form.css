@@ -6,3 +6,7 @@
 .required {
   color: red;
 }
+
+select {
+  height: auto !important;
+}
