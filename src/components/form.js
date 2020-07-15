@@ -133,8 +133,6 @@ export default props => (
       <div className="section">
         <input type="text" name="address-line-1" id="address-line-1" required />
         <label htmlFor="address-line-1">Home Address / Domicilio</label>
-        <input type="text" name="address-line-2" id="address-line-2" required />
-        <label htmlFor="address-line-2">Home Address 2 / Domicilio 2</label>
         <input type="text" name="city" id="city" required />
         <label htmlFor="city">City / Ciudad</label>
       </div>
