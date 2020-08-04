@@ -5,7 +5,7 @@ title: Online Training
 
 **Welcome to Virginia’s Driver Education Course**
 
-As we wait for DMV Approval - we want to to express our gratitude for partnering up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education .
+We have partnered up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education .
 
 To sign up please complete an [application](https://abigailsdrivingschool.com/en/registration). An invoice and email will be sent to you so you can access the program. 
 
@@ -80,7 +80,5 @@ On the day of testing, you must bring the following to the test site:
 * Sunday 8 am To 12pm
 
 “DMV is committed to promoting transportation safety through the certification of quality driver training programs. If you have comments or concerns about this course, call our toll-free number: **1-877-885-5790**.”
-
-
 
 ![](/assets/ndti-logo-docx.png)
