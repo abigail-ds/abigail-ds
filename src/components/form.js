@@ -48,7 +48,7 @@ export default props => (
         <span className="required">*</span>
       </div>
       <div className="section">
-        <input id="dob" type="date" required />
+        <input id="dob" type="date" name="dob" required />
         <label htmlfor="dob">Date of Birth</label>
         <span className="required">*</span>
       </div>
@@ -115,8 +115,10 @@ export default props => (
       <div className="section">
         <input type="text" name="address-line-1" id="address-line-1" required />
         <label htmlFor="address-line-1">Home Address</label>
+        <span className="required">*</span>
         <input type="text" name="city" id="city" required />
         <label htmlFor="city">City</label>
+        <span className="required">*</span>
       </div>
       <div className="section">
         <select className="state" id="state" name="state" required>
