@@ -1,8 +1,6 @@
 ---
 title: Online Training
 ---
-**APPROVAL PENDING**
-
 **Welcome to Virginia’s Driver Education Course**
 
 We have partnered up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education .
