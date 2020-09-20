@@ -115,8 +115,8 @@ collections:
   - name: "Courses"
     label: "Courses"
     folder: "content/courses"
-    delete: false
-    create: false
+    delete: true
+    create: true
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
@@ -131,8 +131,8 @@ collections:
   - name: "Cursos"
     label: "Cursos"
     folder: "content/cursos"
-    delete: false
-    create: false
+    delete: true
+    create: true
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false

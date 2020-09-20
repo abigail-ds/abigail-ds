@@ -35,6 +35,29 @@ const Services = ({ intl }) => {
     }
   `)
   const path = typeof window !== "undefined" ? window.location.pathname : ""
+
+  let enArr = data.courses.nodes
+  let esArr = data.coursesEs.nodes
+  let services
+
+  if (path.match("/en/")) {
+    services = enArr.map((ele, index) => {
+      return (
+        <div label={ele.frontmatter.title}>
+          <CourseInfo message={ele.html} />
+        </div>
+      )
+    })
+  } else {
+    services = esArr.map((ele, index) => {
+      return (
+        <div label={ele.frontmatter.title_es}>
+          <CourseInfo message={ele.html} />
+        </div>
+      )
+    })
+  }
+
   return (
     <Layout>
       <SEO
@@ -45,68 +68,7 @@ const Services = ({ intl }) => {
         pagetitle={intl.formatMessage({ id: "services.pagetitle" })}
         message={intl.formatMessage({ id: "services.message" })}
       />
-      <Accordion>
-        <div
-          label={
-            path.match("/en/")
-              ? data.courses.nodes[0].frontmatter.title
-              : data.coursesEs.nodes[0].frontmatter.title_es
-          }
-        >
-          <CourseInfo
-            message={
-              path.match("/en/")
-                ? data.courses.nodes[0].html
-                : data.coursesEs.nodes[0].html
-            }
-          />
-        </div>
-        <div
-          label={
-            path.match("/en/")
-              ? data.courses.nodes[1].frontmatter.title
-              : data.coursesEs.nodes[1].frontmatter.title_es
-          }
-        >
-          <CourseInfo
-            message={
-              path.match("/en/")
-                ? data.courses.nodes[1].html
-                : data.coursesEs.nodes[1].html
-            }
-          />
-        </div>
-        <div
-          label={
-            path.match("/en/")
-              ? data.courses.nodes[2].frontmatter.title
-              : data.coursesEs.nodes[2].frontmatter.title_es
-          }
-        >
-          <CourseInfo
-            message={
-              path.match("/en/")
-                ? data.courses.nodes[2].html
-                : data.coursesEs.nodes[2].html
-            }
-          />
-        </div>
-        <div
-          label={
-            path.match("/en/")
-              ? data.courses.nodes[3].frontmatter.title
-              : data.coursesEs.nodes[3].frontmatter.title_es
-          }
-        >
-          <CourseInfo
-            message={
-              path.match("/en/")
-                ? data.courses.nodes[3].html
-                : data.coursesEs.nodes[3].html
-            }
-          />
-        </div>
-      </Accordion>
+      <Accordion>{services}</Accordion>
     </Layout>
   )
 }
