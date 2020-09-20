@@ -1,15 +1,15 @@
 ---
 title: Online Training
 ---
-**APPROVAL PENDING**
-
 **Welcome to Virginia’s Driver Education Course**
 
 We have partnered up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education .
 
 To sign up please complete an [application](https://abigailsdrivingschool.com/en/registration). An invoice and email will be sent to you so you can access the program. 
 
-**Tech Support: 800 942 2050**
+**Fee:** Online class only - $175 
+
+**Tech Support:** 1-800 942 2050
 
 **Online support:** **Email:** abigailsinstructor@gmail.com
 

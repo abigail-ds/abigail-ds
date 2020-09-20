@@ -3,7 +3,7 @@ title: Entrenamiento en linea
 ---
  **Bienvenido al curso de educación vial de Virginia** 
 
- **Soporte técnico: 800942 2050** 
+ **Soporte técnico: 1-800-942-2050** 
 
  **Soporte en línea:**   **Correo electrónico:**  abigailsinstructor@gmail.com
 
@@ -63,8 +63,7 @@ El día de la prueba, debe llevar lo siguiente al sitio de prueba:
 * Sábado 8 am a 12 pm
 * Domingo de 8 a.m. a 12 p.m.
 
- **Horas de instrucción de prueba en línea:** 
-
+  **Horas de instrucción de prueba en línea:** 
 * Lunes 9 am a 5 pm
 * Martes 9 am a 5 pm
 * Miércoles 9 am a 5 pm
