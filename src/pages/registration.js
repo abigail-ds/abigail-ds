@@ -24,6 +24,9 @@ const Registration = ({ intl }) => {
       form: markdownRemark(fileAbsolutePath: { regex: "/form/" }) {
         html
       }
+      formEs: markdownRemark(fileAbsolutePath: { regex: "/fTranslate/" }) {
+        html
+      }
     }
   `)
   const path = typeof window !== "undefined" ? window.location.pathname : ""
@@ -37,7 +40,8 @@ const Registration = ({ intl }) => {
         lang={intl.locale}
         title={intl.formatMessage({ id: "registration.title" })}
       />
-      <Form googleForm={data.form.html} />
+
+      <Form googleForm={data.formEs.html} />
     </Layout>
   )
 }
