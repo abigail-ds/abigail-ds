@@ -24,9 +24,6 @@ const Registration = ({ intl }) => {
       form: markdownRemark(fileAbsolutePath: { regex: "/form/" }) {
         html
       }
-      formEs: markdownRemark(fileAbsolutePath: { regex: "/fTranslate/" }) {
-        html
-      }
     }
   `)
   const path = typeof window !== "undefined" ? window.location.pathname : ""
@@ -40,47 +37,7 @@ const Registration = ({ intl }) => {
         lang={intl.locale}
         title={intl.formatMessage({ id: "registration.title" })}
       />
-
-      <Form
-        agreement={data.form.html}
-        courseTitle={intl.formatMessage({ id: "registration.course_title" })}
-        courseInfoTitle={intl.formatMessage({
-          id: "registration.student_info_title",
-        })}
-        coursePaymentOptionTitle={intl.formatMessage({
-          id: "registration.payment_option_title",
-        })}
-        termsTitle={intl.formatMessage({ id: "registration.terms_title" })}
-        registrationSubmit={intl.formatMessage({
-          id: "registration.registration_submit",
-        })}
-        eraserSubmit={intl.formatMessage({ id: "registration.eraser_submit" })}
-        productOne={[
-          data.products.nodes[0].frontmatter.string,
-          data.products.nodes[0].frontmatter.price,
-          data.products.nodes[0].frontmatter.number,
-        ]}
-        productTwo={[
-          data.products.nodes[1].frontmatter.string,
-          data.products.nodes[1].frontmatter.price,
-          data.products.nodes[1].frontmatter.number,
-        ]}
-        productThree={[
-          data.products.nodes[2].frontmatter.string,
-          data.products.nodes[2].frontmatter.price,
-          data.products.nodes[2].frontmatter.number,
-        ]}
-        productFour={[
-          data.products.nodes[3].frontmatter.string,
-          data.products.nodes[3].frontmatter.price,
-          data.products.nodes[3].frontmatter.number,
-        ]}
-        productFive={[
-          data.products.nodes[4].frontmatter.string,
-          data.products.nodes[4].frontmatter.price,
-          data.products.nodes[4].frontmatter.number,
-        ]}
-      />
+      <Form googleForm={data.form.html} />
     </Layout>
   )
 }
