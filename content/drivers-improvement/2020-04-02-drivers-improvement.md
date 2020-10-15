@@ -21,3 +21,5 @@ Our driver improvement course uses the [National Traffic Safety Institute](https
 **Length of class for drivers aged 55 years and older:** Per Virginia Administrative Code 24VAC20-40-30 (B) the eight hours of class time can be divided over at least a two-day period for individuals 55 years and older. This will guarantee flexibility for your schedule and allow you to get time to digest and understand all the safety information learned.
 
 For details on the 8 hour driver improvement class read DMV's publication [A Different Kind of Crash Course DI Program](http://www.dmv.state.va.us/webdoc/pdf/dmv114.pdf)
+
+[Register Today!](http://my.setmore.com/bookingpage/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/cac2af1520531514551)
