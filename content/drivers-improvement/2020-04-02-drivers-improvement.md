@@ -22,4 +22,4 @@ Our driver improvement course uses the [National Traffic Safety Institute](https
 
 For details on the 8 hour driver improvement class read DMV's publication [A Different Kind of Crash Course DI Program](http://www.dmv.state.va.us/webdoc/pdf/dmv114.pdf)
 
-[Register Today!](https://abigailsdrivingschool.setmore.com/)
+###### **[Register Today!](https://abigailsdrivingschool.setmore.com/)**
