@@ -48,6 +48,7 @@ const DriversImprovement = ({ intl }) => {
         message={
           path.match("/en/") ? data.driversImp.html : data.driversImpEs.html
         }
+        path={path}
         title={
           path.match("/en/")
             ? data.driversImp.frontmatter.string
