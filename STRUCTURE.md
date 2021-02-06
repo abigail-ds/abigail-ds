@@ -12,3 +12,4 @@ Components:
 - Accordion
 - Forum
 - Contact Footer
+- New Driver's Manual Course Page
