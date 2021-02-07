@@ -52,8 +52,8 @@ const FooterRender = ({ props, intl }) => {
                 <span>
                   <b>{intl.formatMessage({ id: "contact.esPhone" })}: </b>
                 </span>
-                <a href={`tel:${data.footer.frontmatter.en_phone}`}>
-                  {data.footer.frontmatter.en_phone}
+                <a href={`tel:${data.footer.frontmatter.es_phone}`}>
+                  {data.footer.frontmatter.es_phone}
                 </a>
               </li>
               <li>

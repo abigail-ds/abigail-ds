@@ -156,14 +156,14 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-netlify-cms`,
+    // `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-material-ui`,
-    {
-      resolve: `gatsby-plugin-netlify-identity`,
-      options: {
-        url: `https://your-identity-instance-here.netlify.com/`, // required!
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-netlify-identity`,
+    //   options: {
+    //     url: `https://your-identity-instance-here.netlify.com/`, // required!
+    //   },
+    // },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
