@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby-plugin-intl"
 
 const CourseInfo = props => {
+  console.log(props.title)
   return (
     <div style={{ marginBottom: "20px" }}>
       <div dangerouslySetInnerHTML={{ __html: props.message }} />
