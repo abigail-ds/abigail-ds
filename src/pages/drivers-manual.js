@@ -8,10 +8,9 @@ import CardRender from "../components/CardRender"
 import CourseInfo from "../components/CourseInfo"
 
 const DriversManual = ({ intl }) => {
-  // NEEDS NEW QUERY
   const data = useStaticQuery(graphql`
     query {
-      driversImp: markdownRemark(
+      driversManual: markdownRemark(
         fileAbsolutePath: { regex: "/drivers-manual/" }
       ) {
         frontmatter {
@@ -21,7 +20,7 @@ const DriversManual = ({ intl }) => {
         id
         html
       }
-      driversImpEs: markdownRemark(
+      driversManualEs: markdownRemark(
         fileAbsolutePath: { regex: "/mejora-de-conductores/" }
       ) {
         frontmatter {
@@ -38,24 +37,25 @@ const DriversManual = ({ intl }) => {
     <Layout>
       <SEO
         lang={intl.locale}
-        title={intl.formatMessage({ id: "drivers_improvement.title" })}
+        title={intl.formatMessage({ id: "drivers_manual.title" })}
       />
       <CardRender
-        pagetitle={intl.formatMessage({ id: "drivers_improvement.pagetitle" })}
-        message={intl.formatMessage({ id: "drivers_improvement.message" })}
+        pagetitle={intl.formatMessage({ id: "drivers_manual.pagetitle" })}
       />
 
       {/* NEED TO UPDATE QUERY */}
       <CourseInfo
         style={{ marginBottom: "50px" }}
         message={
-          path.match("/en/") ? data.driversImp.html : data.driversImpEs.html
+          path.match("/en/")
+            ? data.driversManual.html
+            : data.driversManualEs.html
         }
         path={path}
         title={
           path.match("/en/")
-            ? data.driversImp.frontmatter.string
-            : data.driversImpEs.frontmatter.string
+            ? data.driversManual.frontmatter.string
+            : data.driversManualEs.frontmatter.string
         }
       />
     </Layout>

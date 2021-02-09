@@ -49,6 +49,8 @@ const CardRender = props => {
     heroImg = data.servicesHero.childImageSharp.fluid.src
   } else if (path.match("/drivers-improvement.*")) {
     heroImg = data.driversEdHero.childImageSharp.fluid.src
+  } else if (path.match("/drivers-manual.*")) {
+    heroImg = data.driversEdHero.childImageSharp.fluid.src
   } else if (path.match("/registration.*")) {
     heroImg = data.registrationHero.childImageSharp.fluid.src
   } else if (path.match("/online-training.*")) {
@@ -71,7 +73,7 @@ const CardRender = props => {
             }}
           >
             <h3>{props.pagetitle}</h3>
-            <p> {props.message}</p>
+            {/* <p> {props.message}</p> */}
           </Col>
           <Col m={12} s={12} style={{ padding: "0", lineHeight: "0" }}>
             <img

@@ -112,6 +112,48 @@ collections:
           name: "body",
           widget: "markdown",
         }
+  - name: "Drivers Manual Course"
+    label: "Drivers Manual Course"
+    folder: "content/drivers-manual"
+    delete: false
+    create: false
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "drivers-manual-title", name: "string", widget: "string" }
+      - { label: "drivers-manual-content", name: "body", widget: "markdown" }
+  - name: "Curso Manual de Conductores"
+    label: "Curso Manual de Conductores"
+    folder: "content/curso-manual-de-conductores"
+    delete: false
+    create: false
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          hint: "title of node",
+        }
+      - {
+          label: "curso-manual-de-conductores-title",
+          name: "string",
+          widget: "string",
+        }
+      - {
+          label: "curso-manual-de-conductores-content",
+          name: "body",
+          widget: "markdown",
+        }
   - name: "Courses"
     label: "Courses"
     folder: "content/courses"
