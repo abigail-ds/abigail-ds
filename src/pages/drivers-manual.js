@@ -11,7 +11,7 @@ const DriversManual = ({ intl }) => {
   const data = useStaticQuery(graphql`
     query {
       driversManual: markdownRemark(
-        fileAbsolutePath: { regex: "/drivers-manual/" }
+        fileAbsolutePath: { regex: "/virginia-drivers-manual/" }
       ) {
         frontmatter {
           title
