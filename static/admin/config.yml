@@ -115,8 +115,8 @@ collections:
   - name: "Virginia DMC"
     label: "Virginia DMC"
     folder: "content/drivers-manual"
-    delete: true
-    create: true
+    delete: false
+    create: false
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
