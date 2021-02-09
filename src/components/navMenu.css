@@ -5,7 +5,8 @@
 .nav-menu a {
   margin-left: 20px;
   opacity: 1;
-  font-size: 0.8rem;
+  font-weight: 700;
+  font-size: 0.7rem;
   color: #414042 !important;
 }
 

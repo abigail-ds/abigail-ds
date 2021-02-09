@@ -44,7 +44,7 @@ const Services = ({ intl }) => {
     services = enArr.map((ele, index) => {
       return (
         <div label={ele.frontmatter.title}>
-          <CourseInfo message={ele.html} />
+          <CourseInfo title={ele.frontmatter.title} message={ele.html} />
         </div>
       )
     })
@@ -52,7 +52,7 @@ const Services = ({ intl }) => {
     services = esArr.map((ele, index) => {
       return (
         <div label={ele.frontmatter.title_es}>
-          <CourseInfo message={ele.html} />
+          <CourseInfo title={ele.frontmatter.title_es} message={ele.html} />
         </div>
       )
     })
