@@ -1,5 +1,6 @@
 ---
 title: Driver's Manual Course
+string: Driver's Manual Course
 ---
 
 #### Virginia Driver's Manual Re-examination Course:
