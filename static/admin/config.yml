@@ -112,8 +112,8 @@ collections:
           name: "body",
           widget: "markdown",
         }
-  - name: "Drivers Manual Course"
-    label: "Drivers Manual Course"
+  - name: "Virginia Drivers Manual"
+    label: "Virginia Drivers Manual"
     folder: "content/drivers-manual"
     delete: false
     create: true

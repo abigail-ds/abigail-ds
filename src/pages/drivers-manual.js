@@ -21,7 +21,7 @@ const DriversManual = ({ intl }) => {
         html
       }
       driversManualEs: markdownRemark(
-        fileAbsolutePath: { regex: "/mejora-de-conductores/" }
+        fileAbsolutePath: { regex: "/curso-manual-de-conductores/" }
       ) {
         frontmatter {
           title
