@@ -1,6 +1,6 @@
 ---
-title: Driver's Manual Course
-string: Driver's Manual Course
+title: Virginia Driver's Manual
+string: Virginia Driver's Manual
 ---
 #### Virginia Driver's Manual Re-examination Course:
 
