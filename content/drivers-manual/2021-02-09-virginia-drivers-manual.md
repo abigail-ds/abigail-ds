@@ -12,4 +12,4 @@ If you fail the two-part knowledge exam three times, you must complete a Driver�
 
 **Course Details:** The eight-hour course is available to all persons at least 19 years or older and to persons under 19 if they previously completed the high-school driver education program. The course will go through the Virginia Driver’s Manual, through an interactive participation and short quizzes -we will help students gain the confidence and knowledge they need to pass their test at the DMV.
 
-**Schedule:** The Driver's Manual Course is held on the third Sunday of every month. The fee is $175. The course is for 8 hours and starts at 9am. Pre-registration is required. The fee is due at the time of registration
+**Schedule:** The Driver's Manual Course is held on the third Sunday of every month. The fee is $175. The course is for 8 hours and starts at 9am. Pre-registration is required. The fee is due at the time of registration. [Register TODAY](https://abigailsdrivingschool.setmore.com/)
