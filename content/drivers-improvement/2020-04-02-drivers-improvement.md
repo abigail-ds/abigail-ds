@@ -16,7 +16,7 @@ Our driver improvement course uses the [National Traffic Safety Institute](https
 
 **Under 21:** For those under the age of 21, you must take the driver improvement class after each infraction until you are over 21.
 
-**Cost:** The class is $80. Classes are held on Saturday mornings and upon request on weekdays and Sundays, same price call or text 804-256-3147.
+**Cost:** The class is $80. Classes are held on Saturday mornings (Spanish) and Sundays (English). [See schedule and registration](https://abigailsdrivingschool.setmore.com/). 
 
 **Length of class for drivers aged 55 years and older:** Per Virginia Administrative Code 24VAC20-40-30 (B) the eight hours of class time can be divided over at least a two-day period for individuals 55 years and older. This will guarantee flexibility for your schedule and allow you to get time to digest and understand all the safety information learned.
 
