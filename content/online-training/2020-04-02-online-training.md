@@ -5,9 +5,9 @@ title: Online Training
 
 We have partnered up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education .
 
-To sign up please complete an [application](https://abigailsdrivingschool.com/en/registration). An invoice and email will be sent to you so you can access the program. 
+To sign up please complete an [application](https://abigailsdrivingschool.com/en/registration). An invoice will be sent to you. Upon receipt of payment and/or deposit you will be granted access. 
 
-**Fee:** Online class only - $175 
+**Fee:** Online class only - $100 
 
 **Tech Support:** 1-800 942 2050
 
