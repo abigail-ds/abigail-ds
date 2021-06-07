@@ -5,7 +5,7 @@ title: Online Training
 
 We have partnered up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education .
 
-To sign up please complete an [application](https://abigailsdrivingschool.com/en/registration). An invoice will be sent to you. Upon receipt of payment and/or deposit you will be granted access. 
+To sign up please register at  [Virginia Online Driver Education](https://dev.nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23).
 
 **Fee:** Online class only - $100 
 
@@ -21,21 +21,26 @@ To sign up please complete an [application](https://abigailsdrivingschool.com/en
 
 #### Testing procedures:
 
+**Contact the school via email - [abigailsinstructor@gmail.com ](abigailsinstructor@gmail.com)to schedule the test.** 
+
 On the day of testing, you must bring the following to the test site:
 
 * Photo identification (DMV issued identification card, school issued identification card, valid passport or military identification)
+
+<!---->
+
 * Proof of completion of the on-line driver education course
+
+<!---->
+
 * A completed “Parental Consent for Online Driver Education Examination” ([dts62](http://www.safedrivingacademy.net/wp-content/uploads/2018/05/dts62.pdf)), if you are under age 18. You can download it from here.
 
-  *The online driver training school - Abigail´s Driving School- will provide a computer for testing.*
+*The online driver training school - Abigail´s Driving School- will provide a computer for testing.*
 
 #### Steps to Student Completion for the Virginia driver education course
 
-1. Abigail’s Driving School receives their **exclusive login**, **password credentials**, and **our driver education internet (DEI) portal** [http://portal.dei.training](http://portal.dei.training/)
-2. Login to your account. User/Email. Password
-3. Abigail’s Driving School will receive registration information from each student who selects to take online driver education.
-4. Abigail’s Driving School registers each student through their exclusive portal and clicks the **submit button** to initiate the process.
-5. The student immediately receives a **user name, password**, and **link** to enter the course: <http://www.usdrivertraining.com/login-va.php>
+1. You can register yourself directly at  [Virginia Online Driver Education](https://dev.nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23). 
+2. The student immediately receives a **user name, password**, and **link** to enter the course: <https://dev.nationaldrivertraining.com/login.php>
 
 *Virginia Driver Education Approved by the Department of Education. State Approved – Virginia Department of Motor Vehicle Approved Online Driver Education Course.*
 
@@ -57,7 +62,7 @@ On the day of testing, you must bring the following to the test site:
 
 **Online Testing Fee**
 
-**Price: $200 or $450 package for Behind the Wheel and Online Class to meet State Mandate.** 
+**Price: $100 or $450 package for Behind the Wheel and Online Class to meet State Mandate.** 
 
 **Online Testing Hours:**
 
