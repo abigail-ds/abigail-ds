@@ -1,14 +1,16 @@
 ---
 title: "Learner's Permit Study Session "
 ---
-Hay un examen de conocimientos de dos partes que se toma en una computadora en el DMV. El examen evalúa su conocimiento de las señales de tráfico, las leyes de vehículos motorizados y las técnicas de conducción segura.
+There is a two-part knowledge exam that is taken on a computer at the DMV. The exam tests your knowledge of traffic signs, motor vehicle laws and safe driving techniques.
 
-**Tres oportunidades:**  Tendrá tres oportunidades para realizar el examen.
 
-**Contenido del examen:**  Las preguntas del examen se toman de la información del Manual del conductor de Virginia. Las diez preguntas sobre señales de tráfico de la Parte uno deben responderse correctamente antes de poder realizar el examen de conocimientos generales de la Parte dos. Debe obtener al menos un 80% en la segunda parte.
+Exam questions are taken from information in the Virginia Driver's Manual. All ten traffic sign questions in Part One must be answered correctly before you can take the general knowledge exam in Part Two. You must score at least 80% on these questions to pass Part Two.
 
-**Clase:**  Ofrecemos tres horas de sesión de estudio privada / o con un grupo (no más de 5 alumnos). Para prepararse para el examen de conocimientos, ayudamos a los estudiantes a familiarizarse con toda la información necesaria en el Manual del conductor de Virginia y le damos la oportunidad de tomar varias pruebas de muestra.
 
-**Requisito previo:**  Esta clase está destinada a personas de 15 años y 6 meses. NO debe haber tomado la prueba del permiso de aprendizaje por tercera vez. Si tomó el examen por tercera vez, debe tomar el ["Manual del conductor - Clase de reexamen"](https://abigailsdrivingschool.com/es/drivers-manual)
+**Class** - we offer three hours of study session private/or with a group (no more than 5 students). To prepare for the knowledge exam, we help students familiarize all necessary information in the Virginia Driver's Manual and give you opportunity to take several sample tests. 
 
-**Tarifa:**  $ 100
+
+**Pre-requisite**: This class is intended for individuals that are 15 years & 6 months. You must NOT have taken the learner's permit test a third time. If you took the test a third time, you need to take the "Driver's Manual - Re-Examination Class." 
+
+
+**Fee:** $100
