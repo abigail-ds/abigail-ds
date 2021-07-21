@@ -11,4 +11,4 @@ Exam questions are taken from information in the Virginia Driver's Manual. All t
 
 **Fee:** $100
 
-\*\*Call or text **804-823-7731** to set up a schedule
+[Register Online ](https://abigailsdrivingschool.setmore.com/)
