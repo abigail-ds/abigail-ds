@@ -7,7 +7,7 @@ We have partnered up with [National Driver Training](https://www.nationaldrivert
 
 To sign up please register at  [Virginia Online Driver Education](https://dev.nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23).
 
-**Fee:** Online class only - $100 
+**Fee:** Online class only - $150
 
 **Tech Support:** 1-800 942 2050
 
