@@ -62,7 +62,7 @@ On the day of testing, you must bring the following to the test site:
 
 **Online Testing Fee**
 
-**Price: $100 or $450 package for Behind the Wheel and Online Class to meet State Mandate.** 
+**Price: $150 or $450 package for Behind the Wheel and Online Class to meet State Mandate.** 
 
 **Online Testing Hours:**
 
