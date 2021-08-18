@@ -18,6 +18,8 @@ Nuestro curso de mejora del conductor utiliza el [National Traffic Safety Instit
 
  **Costo:**  La clase es de $ 80. Las clases se imparten los sábados por la mañana y, previa solicitud, los días de semana y domingos, llame al mismo precio o envíe un mensaje de texto al 804-256-3147.
 
+##### **\*\*\*\***[Registrar aquí](https://abigailsdrivingschool.setmore.com/)
+
  **Duración de la clase para conductores mayores de 55 años:**  Según el Código Administrativo de Virginia 24VAC20-40-30 (B), las ocho horas de clase se pueden dividir durante al menos un período de dos días para las personas de 55 años o más. . Esto garantizará flexibilidad para su horario y le permitirá tener tiempo para digerir y comprender toda la información de seguridad aprendida.
 
 Para obtener detalles sobre la clase de mejora del conductor de 8 horas, lea la publicación del DMV [Un programa de DI de un tipo diferente de curso intensivo](http://www.dmv.state.va.us/webdoc/pdf/dmv114.pdf)
