@@ -16,7 +16,7 @@ Nuestro curso de mejora del conductor utiliza el [National Traffic Safety Instit
 
  **Menores de 21 años:**  Para los menores de 21 años, debe tomar la clase de mejora del conductor después de cada infracción hasta que tenga más de 21 años.
 
- **Costo:**  La clase es de $ 80. Las clases se imparten los sábados por la mañana y, previa solicitud, los días de semana y domingos, llame al mismo precio o envíe un mensaje de texto al 804-256-3147.
+ **Costo:**  La clase es de $ 100. Las clases se imparten los sábados por la mañana y, previa solicitud, los días de semana y domingos, llame al mismo precio o envíe un mensaje de texto al 804-256-3147.
 
 ##### **\*\*\*\***[Registrar aquí](https://abigailsdrivingschool.setmore.com/)
 
