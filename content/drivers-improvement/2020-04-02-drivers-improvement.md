@@ -22,6 +22,8 @@ Our driver improvement course uses the [National Traffic Safety Institute](https
 
 For details on the 8 hour driver improvement class read DMV's publication [A Different Kind of Crash Course DI Program](http://www.dmv.state.va.us/webdoc/pdf/dmv114.pdf)
 
-###### **[Register Today! ](https://lakesideandabigailsbooking.setmore.com/)In Classroom**
+March 2022 - No English - In Class Driver Improvement Clinic. 
 
-[ONLINE Driver Improvement Clinic ](https://www.va-drivercourses.com/clickIn.php?school=263)-  Click and follow instructions
+See schedule for Available In Class and register [HERE](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/cadc3aab06f7bdac6b235f9206c1eb64a9e8e59970)
+
+**\*\*\*\*NEW AND VERY CONVENIENT:** Please register for the [ONLINE Driver Improvement Clinic ](https://www.va-drivercourses.com/clickIn.php?school=263)-  Click and follow instructions.
