@@ -84,6 +84,28 @@ On the day of testing, you must bring the following to the test site:
 * Saturday 8 am To 12 pm
 * Sunday 8 am To 12pm
 
+## Online Virginia Driver's Manual Re-examination Course
+
+## **\*\***COMING SOON!!***
+
+We partnered with with the **3A Method Driving Schools** to provide our students with the online classroom **Virginia Driver’s Manual Course**.
+
+You are required to take this course because you have failed the learner’s permit test three times. The learner's permit MUST be taken at the DMV. No exceptions. 
+
+* Affordable! 
+* Free Unlimited Retakes of Final Exam.
+* Instant Final Exam Results.
+
+***Vendor:*** 3 A Method Driving Schools
+
+***Fee:*** $125
+
+***Schedule: Online:*** self-paced
+
+***Certificate:*** DTS8 E will be issued to allow student to re-take the learner's permit test at the DMV. 
+
+**Registration page forthcoming;**
+
 “DMV is committed to promoting transportation safety through the certification of quality driver training programs. If you have comments or concerns about this course, call our toll-free number: **1-877-885-5790**.”
 
 ![](/assets/ndti-logo-docx.png)
