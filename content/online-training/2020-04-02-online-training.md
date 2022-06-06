@@ -62,7 +62,7 @@ On the day of testing, you must bring the following to the test site:
 
 **Online Testing Fee**
 
-**Price: $150 or $450 package for Behind the Wheel and Online Class to meet State Mandate.** 
+**Price: $150 or $500 package for Behind the Wheel and Online Class to meet State Mandate.** 
 
 **Online Testing Hours:**
 
@@ -86,7 +86,7 @@ On the day of testing, you must bring the following to the test site:
 
 ## Online Virginia Driver's Manual Re-examination Course
 
-## **\*\***COMING SOON!!***
+## **\*\***COMING SOON!!\*\**
 
 We partnered with with the **3A Method Driving Schools** to provide our students with the online classroom **Virginia Driver’s Manual Course**.
 
