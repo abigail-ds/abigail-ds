@@ -7,7 +7,7 @@ We have partnered up with [National Driver Training](https://www.nationaldrivert
 
 To sign up please register at  [Virginia Online Driver Education](https://dev.nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23).
 
-**Fee:** Online class only - $150
+**Fee:** Online class only - $200 - *Click link above, you might be to get a discount. Not guaranteed. 
 
 **Tech Support:** 1-800 942 2050
 
@@ -62,7 +62,7 @@ On the day of testing, you must bring the following to the test site:
 
 **Online Testing Fee**
 
-**Price: $150 or $500 package for Behind the Wheel and Online Class to meet State Mandate.** 
+**Price: $200 or $500 package for Behind the Wheel and Online Class to meet State Mandate.** 
 
 **Online Testing Hours:**
 
