@@ -7,7 +7,11 @@ We have partnered up with [National Driver Training](https://www.nationaldrivert
 
 To sign up please register at  [Virginia Online Driver Education](https://dev.nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23).
 
-**Fee:** Online class only - $200 - *Click link above, you might be to get a discount. Not guaranteed. 
+**Fee:** $150
+
+\*\*If you register both for in-class delivered online and the behind the wheel with us - total fee will be **$500.** Separate registration is **$150** for online, and **$400** for behind the wheel - **$550 total.** 
+
+*\*\*\*\*\*\*\*\*\*\*\*\*\*\**Register for both together at the [registration page.](https://abigailsdrivingschool.com/en/registration)* 
 
 **Tech Support:** 1-800 942 2050
 
