@@ -12,11 +12,17 @@ If you fail the two-part knowledge exam three times, you must complete a Driverâ
 
 **Course Details:**Â The eight-hour course is available to all persons at least 18 years or older and to persons under 18 if they previously completed the high-school driver education program. The course will go through the Virginia Driverâ€™s Manual, through an interactive participation and short quizzes - we will help students gain the confidence and knowledge they need to pass their test at the DMV.
 
-## **Schedule:**Â English Temporary Unavailable
+**Fee:** $125 - English Version 
 
-## **Spanish Driver Manual - Re-examination Class - [Register here!!!](https://lakesideandabigailsbooking.setmore.com/)**
+**Schedule:** The class is held once a month and per request through private sessions. 
 
-## \---------------------
+* **General Schedule** - [Register here](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/cac19a708ce6bd741df756e8650a1da02bb077f82a)
+
+**Fee:** $200 - Spanish Version
+
+**Schedule:** The class is held once a month and per request through private sessions. 
+
+* **General Schedule** - [Register here](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/cab937cf87e649bebb650bc6ce120d21e27e2e125a)
 
 ## Online Virginia Driver's Manual Re-examination Course
 
@@ -24,7 +30,7 @@ If you fail the two-part knowledge exam three times, you must complete a Driverâ
 
 ***Vendor:*** 3 A Method Driving Schools
 
-***Fee:*** $125
+***Fee:*** $110
 
 ***Schedule: Online:*** self-paced
 
