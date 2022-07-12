@@ -3,7 +3,7 @@ title: Entrenamiento en linea
 ---
  **Bienvenido al curso de educación vial de Virginia** 
 
-##### **¡Regístrese hoy**! [National Driver Training](<Sign-Up Link: https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23>) 
+##### **¡Regístrese hoy**! [National Driver Training](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23)
 
  **Soporte técnico: 1-800-942-2050** 
 
