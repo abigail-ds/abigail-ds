@@ -10,15 +10,13 @@ string: Eight-Hour Driver Improvement Clinic
 
 See schedule for Available In Class and register [HERE](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/cadc3aab06f7bdac6b235f9206c1eb64a9e8e59970)
 
-#### NIGHT SCHOOL - In Person Driver Improvement
-
-Schedule private session Driver Improvement class 
+**NIGHT SCHOOL** -  Schedule private session Driver Improvement class 
 
 **Fee:** $75
 
 **Registration:** Text or call -804-823-7681
 
-**Days:** Tuesday, Wednesday and Thursday
+**Days:** Tuesday and Thursday
 
 **Hours:** 6pm - 2am - No Break - snack and coffee free
 
