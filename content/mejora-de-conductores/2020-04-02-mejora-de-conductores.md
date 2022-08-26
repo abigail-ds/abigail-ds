@@ -16,13 +16,13 @@ Nuestro curso de mejora del conductor utiliza el [National Traffic Safety Instit
 
 #### Razones por las cuales tomarías esta clase:
 
- **Voluntariamente:**  Si el curso se toma voluntariamente, recibirá hasta cinco puntos de manejo seguro para su registro de manejo.
+**Voluntariamente:**  Si el curso se toma voluntariamente, recibirá hasta cinco puntos de manejo seguro para su registro de manejo.
 
- **Tribunal:**  Si el tribunal le asigna que tome este curso, no recibirá ningún punto de conducción segura a menos que tenga un documento judicial que indique lo contrario. Sin embargo, te ayudará con un boleto.
+**Tribunal:**  Si el tribunal le asigna que tome este curso, no recibirá ningún punto de conducción segura a menos que tenga un documento judicial que indique lo contrario. Sin embargo, te ayudará con un boleto.
 
- **DMV:**  Si el DMV le indica que tome la clase, recibirá puntos de manejo dependiendo de su registro actual. Verifique con el DMV de Virginia.
+**DMV:**  Si el DMV le indica que tome la clase, recibirá puntos de manejo dependiendo de su registro actual. Verifique con el DMV de Virginia.
 
- **Menores de 21 años:**  Para los menores de 21 años, debe tomar la clase de mejora del conductor después de cada infracción hasta que tenga más de 21 años.
+**Menores de 21 años:**  Para los menores de 21 años, debe tomar la clase de mejora del conductor después de cada infracción hasta que tenga más de 21 años.
 
 **Duración de la clase para conductores mayores de 55 años:**  Según el Código Administrativo de Virginia 24VAC20-40-30 (B), las ocho horas de clase se pueden dividir durante al menos un período de dos días para las personas de 55 años o más. . Esto garantizará flexibilidad para su horario y le permitirá tener tiempo para digerir y comprender toda la información de seguridad aprendida.
 
