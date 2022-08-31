@@ -23,8 +23,6 @@ If you fail the two-part knowledge exam three times, you must complete a Driverâ
 * **Fee:** $200 - English Version 
 * **Schedule**: Text 804-823-7681 or email, abigailsinstructor@gmail.com
 
-
-
 ## Online Virginia Driver's Manual Re-examination Course
 
 ## **\*\***COMING SOON!!\*\**
