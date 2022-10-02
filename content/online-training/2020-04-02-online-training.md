@@ -3,15 +3,19 @@ title: Online Training
 ---
 **Welcome to Virginia’s Driver Education Course**
 
-We have partnered up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education .
+We have partnered up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education. 
 
-To sign up please register at  [Virginia Online Driver Education](https://dev.nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23).
+**[A﻿dults ](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23)**- **$130**
+
+**[Virginia Teen Driver Education + 90 Minute Course](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=91) - $160**
+
+To sign up please register at  Virginia Online Driver Education.
 
 **Fee:** $150
 
 \*\*If you register both for in-class delivered online and the behind the wheel with us - total fee will be **$500.** Separate registration is **$150** for online, and **$400** for behind the wheel - **$550 total.** 
 
-*\*\*\*\*\*\*\*\*\*\*\*\*\*\**Register for both together at the [registration page.](https://abigailsdrivingschool.com/en/registration)* 
+\*\*\*\*\*\*\*\*\*\*\*\*\*\***Register for both together at the [registration page.](https://abigailsdrivingschool.com/en/registration)* 
 
 **Tech Support:** 1-800 942 2050
 
