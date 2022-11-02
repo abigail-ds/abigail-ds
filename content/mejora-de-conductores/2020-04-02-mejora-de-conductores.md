@@ -4,7 +4,7 @@ string: Clínica de mejora del conductor de ocho horas
 ---
 #### Clase De Mejora Del Conductor - Curso por internet
 
-#### \*\*\*\*\*\*\*\*Clase nueva y MUY fácil!!! *$50* - [Registrarse aqui](https://www.va-drivercourses.com/clickIn.php?school=263)
+#### \*\*\*\*\*\*\*\*Clase nueva y MUY fácil!!! *$75* - [Registrarse aqui](https://www.va-drivercourses.com/clickIn.php?school=263)
 
 #### **Clase de la mañana:** Sábado Clases 10am-7pm - *$100* -[ Registrarse aqui](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/b151d266-8069-430d-96f6-8a31e46739e4)
 
