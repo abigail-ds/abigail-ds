@@ -6,7 +6,7 @@ string: Eight-Hour Driver Improvement Clinic
 
 **\*\*\*\*NEW AND VERY CONVENIENT:** Please register for the [ONLINE Driver Improvement Clinic ](https://www.va-drivercourses.com/clickIn.php?school=263)-  Click and follow instructions.
 
-#### In Person Driver Improvement
+#### In Person Driver Improvement - Private Session Only
 
 See schedule for Available In Class and register [HERE](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/cadc3aab06f7bdac6b235f9206c1eb64a9e8e59970)
 
