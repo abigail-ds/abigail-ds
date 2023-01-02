@@ -1,6 +1,8 @@
 ---
 title: Online Training
 ---
+***T﻿EMPORARILY CLOSED - DO NOT REGISTER FOR ONLINE DRIVERS EDUCATION*** 
+
 **Welcome to Virginia’s Driver Education Course**
 
 We have partnered up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education. 
