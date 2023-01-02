@@ -5,9 +5,9 @@ title: Online Training
 
 We have partnered up with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education. 
 
-**[A﻿dults ](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23)**- **$130**
+**[A﻿dults ](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23)**- **$125**
 
-**[Virginia Teen Driver Education + 90 Minute Course](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=91) - $160**
+**[Virginia Teen Driver Education + 90 Minute Course](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=91) - $105**
 
 **Tech Support:** 1-800 942 2050
 
