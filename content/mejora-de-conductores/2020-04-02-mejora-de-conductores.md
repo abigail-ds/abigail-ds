@@ -2,17 +2,11 @@
 title: Mejora de Conductores
 string: Clínica de mejora del conductor de ocho horas
 ---
-#### Clase De Mejora Del Conductor - Curso por internet
+### Clase De Mejora Del Conductor - Curso por internet
 
-#### \*\*\*\*\*\*\*\*Clase nueva y MUY fácil!!! *$75* - [Registrarse aqui](https://www.va-drivercourses.com/clickIn.php?school=263)
+### \*\*\*\*\*\*\*\*Clase nueva y MUY fácil!!! *$75* - [Registrarse aqui](https://www.va-drivercourses.com/clickIn.php?school=263)
 
-#### **Clase de la mañana:** Sábado Clases 10am-7pm - *$100* -[ Registrarse aqui](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/b151d266-8069-430d-96f6-8a31e46739e4)
-
-###### **Clase de la tarde: Lunes y Miercoles - 6PM - 2AM - $75 - SIN DESCANSO - texto para registrarse - 804-823-7681**
-
-#### Programa:
-
-Nuestro curso de mejora del conductor utiliza el [National Traffic Safety Institute](https://ntsi.com/about-ntsi/) (NTSI) Programa de manejo defensivo. NTSI es uno de los primeros programas de manejo defensivo establecido en 1974. La escuela de manejo de Abigail sigue la creencia de NTSI de que valores + actitud = comportamiento. Es a través de la responsabilidad personal que tiene el potencial de modificar los comportamientos de manejo.
+### **Clase de la mañana:** Sábado Clases 10am-7pm - *$100* -[ ](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/b151d266-8069-430d-96f6-8a31e46739e4)Pedimos disculpas porque ya no brindamos mejoras al conductor dentro de la clase. Solo puede tomarlo [en línea](https://www.va-drivercourses.com/clickIn.php?school=263) con nuestra escuela o puede visitar el sitio web del DMV para obtener una lista.
 
 #### Razones por las cuales tomarías esta clase:
 
