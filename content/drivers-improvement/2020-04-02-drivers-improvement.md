@@ -6,7 +6,7 @@ string: Eight-Hour Driver Improvement Clinic
 
 **\*\*\*\*NEW AND VERY CONVENIENT:** Please register for the [ONLINE Driver Improvement Clinic ](https://www.va-drivercourses.com/clickIn.php?school=263)-  Click and follow instructions.
 
-#### In Person Driver Improvement - No Longer Providing In Class
+#### In Person Driver Improvement - We apologize we do not provide driver improvement inside the class anymore. You can only take it online with our school or you can visit the [DMV's website](https://www.dmv.virginia.gov/#/) to get a list. 
 
 See schedule for Available In Class and register [HERE](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/cadc3aab06f7bdac6b235f9206c1eb64a9e8e59970)
 
@@ -29,8 +29,6 @@ See schedule for Available In Class and register [HERE](https://booking.setmore.
 **DMV:** If instructed by the DMV to take the class, you will receive driving points depending on your current record. Verify with Virginia DMV.
 
 **Under 21:** For those under the age of 21, you must take the driver improvement class after each infraction until you are over 21.
-
-
 
 **Length of class for drivers aged 55 years and older:** Per Virginia Administrative Code 24VAC20-40-30 (B) the eight hours of class time can be divided over at least a two-day period for individuals 55 years and older. This will guarantee flexibility for your schedule and allow you to get time to digest and understand all the safety information learned.
 
