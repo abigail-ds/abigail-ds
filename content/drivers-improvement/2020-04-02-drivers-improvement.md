@@ -2,23 +2,11 @@
 title: Drivers Improvement
 string: Eight-Hour Driver Improvement Clinic
 ---
-##### Online Driver Improvement $75 - **DMV records updated within 24 hours and certificate is emailed for your record or to deliver to court.** 
+##### Online Driver Improvement $75 - **DMV records updated within 24 hours and certificate is emailed for your record or to deliver to court.**
 
 **\*\*\*\*NEW AND VERY CONVENIENT:** Please register for the [ONLINE Driver Improvement Clinic ](https://www.va-drivercourses.com/clickIn.php?school=263)-  Click and follow instructions.
 
-#### In Person Driver Improvement - We apologize we do not provide driver improvement inside the class anymore. You can only take it online with our school or you can visit the [DMV's website](https://www.dmv.virginia.gov/#/) to get a list. 
-
-See schedule for Available In Class and register [HERE](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/cadc3aab06f7bdac6b235f9206c1eb64a9e8e59970)
-
-**NIGHT SCHOOL** -  Schedule private session Driver Improvement class 
-
-**Fee:** $75
-
-**Registration:** Text or call -804-823-7681
-
-**Days:** Tuesday and Thursday
-
-**Hours:** 6pm - 2am - No Break - snack and coffee free
+#### In Person Driver Improvement - We apologize we do not provide driver improvement inside the class anymore. You can only take it online with our school or you can visit the [DMV's website](https://www.dmv.virginia.gov/#/) to get a list.
 
 #### Reasons for why you would take this class:
 
