@@ -1,7 +1,7 @@
 ---
 title: Entrenamiento en linea
 ---
- **Bienvenido al curso de educación vial de Virginia** 
+##### ***CERRADO TEMPORALMENTE - NO REGISTRARSE PARA LA EDUCACIÓN DE CONDUCTORES EN LÍNEA***
 
 ##### **¡Regístrese hoy**! [National Driver Training](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=23)
 
