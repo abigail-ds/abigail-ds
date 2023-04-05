@@ -20,8 +20,6 @@ Si no aprueba el examen de conocimientos de dos partes tres veces, debe completa
 
 **2 -** Entre las 9 a. m. y las 5 p. m., llame al **804-256-3147**, seleccione 2 para español, dígale al personal que desea inscribirse en la clase para personas que no aprobaron la prueba del permiso de aprendiz en el DMV tres veces.
 
-**3 -**  Envíe un mensaje de texto al **804-823-7681 -** Envía tu nombre, número de celular y la clase que deseas.
-
-
+**3 -**  Envíe un mensaje de texto al **[804-799-1773](<<a href=“tel:804-799-1773”>804-799-1773</a>>)** Envía tu nombre, número de celular y la clase que deseas.
 
 **\*﻿\*\*\*\*\**Si no podemos proporcionar la clase, lo derivaremos a la escuela de manejo de Lakeside. Tiene derecho a seleccionar la escuela que desee. Visite el sitio [web del DMV de Virginia](https://www.dmv.virginia.gov/#/) para conocer otras opciones.\*\*\*\*\*\***
