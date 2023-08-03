@@ -14,13 +14,9 @@ If you fail the two-part knowledge exam three times, you must complete a Driverâ
 
 **Availability:** No longer unavailable.
 
-## Online Virginia Driver's Manual Re-examination Course
+## [Online Virginia Driver's Manual Re-examination Course](https://www.va-drivercourses.com/clickIn.php?schoolID=311)
 
-## **\*\***COMING SOON!!\*\**
-
-***Vendor:*** Forthcoming
-
-***Fee:*** Unknown
+***Fee:*** $85
 
 ***Schedule: Online:*** self-paced
 
