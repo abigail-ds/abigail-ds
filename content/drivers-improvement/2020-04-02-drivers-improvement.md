@@ -2,7 +2,7 @@
 title: Drivers Improvement
 string: Eight-Hour Driver Improvement Clinic
 ---
-##### Online Driver Improvement $75 - **DMV records updated within 24 hours and certificate is emailed for your record or to deliver to court.**
+##### Online Driver Improvement $100 **DMV records updated within 24 hours and certificate is emailed for your record or to deliver to court.**
 
 **\*\*\*\*NEW AND VERY CONVENIENT:** Please register for the [ONLINE Driver Improvement Clinic ](https://www.va-drivercourses.com/clickIn.php?school=263)-  Click and follow instructions.
 
