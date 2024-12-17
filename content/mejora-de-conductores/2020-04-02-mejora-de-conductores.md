@@ -6,7 +6,7 @@ string: Clínica de mejora del conductor de ocho horas
 
 ### \*\*\*\*\*\*\*\*Clase nueva y MUY fácil!!! *$100* - [Registrarse aqui](https://www.va-drivercourses.com/clickIn.php?school=263)
 
-### **Clase de la mañana:** Sábado Clases 10am-7pm - *$100* -[ ](https://booking.setmore.com/scheduleappointment/2c7d92a2-3463-4a40-8c6f-342980b8a0bf/class/b151d266-8069-430d-96f6-8a31e46739e4)Pedimos disculpas porque ya no brindamos mejoras al conductor dentro de la clase. Solo puede tomarlo [en línea](https://www.va-drivercourses.com/clickIn.php?school=263) con nuestra escuela o puede visitar el sitio web del DMV para obtener una lista.
+### Solo puede tomarlo [en línea](https://www.va-drivercourses.com/clickIn.php?school=263) con nuestra escuela o puede visitar el sitio [web del DMV](https://www.dmv.virginia.gov/) para obtener una lista.
 
 #### Razones por las cuales tomarías esta clase:
 
