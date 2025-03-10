@@ -4,8 +4,6 @@ string: Virginia Drivers Manual
 ---
 # ***O﻿NLY $150 ->*[HERE](https://checkout.square.site/merchant/85BWEQRS81PYA/checkout/VZXUO2BMHOWTO3HVLGBSQLWG)**
 
-## ***Paused until Further Notice from DMV***
-
 ## Retaking the Knowledge Exam Program
 
 If you fail the two-part knowledge exam three times, you must complete a Driver’s Manual/Re-examination Class at a Virginia approved Driver Training School program.  You must present the Certificate at the DMV to be eligible to take the test again. The course completion date must be after the date of the third exam failure.
