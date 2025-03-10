@@ -2,6 +2,8 @@
 title: Virginia Drivers Manual
 string: Virginia Drivers Manual
 ---
+# ***O﻿NLY $150 ->*[HERE](https://checkout.square.site/merchant/85BWEQRS81PYA/checkout/VZXUO2BMHOWTO3HVLGBSQLWG)**
+
 ## ***Paused until Further Notice from DMV***
 
 ## Retaking the Knowledge Exam Program
