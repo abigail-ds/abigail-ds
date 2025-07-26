@@ -13,7 +13,7 @@ You are required to take this course because you have failed the learner’s per
 
 ***Vendor:*** 3 A Method Driving Schools
 
-***Fee:*** $125
+***Fee:*** $150
 
 ***Schedule: Online:*** self-paced
 
