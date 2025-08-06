@@ -2,7 +2,7 @@
 title: Virginia Drivers Manual
 string: Virginia Drivers Manual
 ---
-# ***O﻿NLY $150 ->*HERE**
+# ***O﻿NLY $150 ->*[HERE](https://square.link/u/Q4PC8Kuf)**
 
 ## Retaking the Knowledge Exam Program
 
