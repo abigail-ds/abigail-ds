@@ -6,4 +6,4 @@ string: " Curso manual del conductor"
 
 Realice nuestro curso en línea sobre el manual del conductor para personas que no aprobaron el examen escrito en el DMV de Virginia por solo **$150.** Le enviaremos el certificado por correo electrónico una vez que lo haya completado.
 
-# *Tómalo [AQUÍ](https://square.link/u/Q4PC8Kuf)*
+# *Tómalo [AQUÍ](https://square.link/u/6g4a5eSZ)*
