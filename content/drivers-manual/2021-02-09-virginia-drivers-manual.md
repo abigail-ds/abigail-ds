@@ -1,6 +1,6 @@
 ---
-title: Virginia Drivers Manual
-string: Virginia Drivers Manual
+title: Drivers Manual
+string: Drivers Manual
 ---
 # ***O﻿NLY $150 ->*[HERE](https://square.link/u/O4nU4fi6)**
 
