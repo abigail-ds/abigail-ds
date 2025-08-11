@@ -12,4 +12,4 @@ If you fail the two-part knowledge exam three times, you must complete a Driver�
 
 ***Certificate:*** DTS8 E will be issued to allow student to re-take the learner's permit test at the DMV.
 
-I﻿f you have a problem please contact Mr. Mohamed via text at 804-823-7681
+I﻿f you have a problem please contact Mr. Mohamed via text at 804-823-7730
