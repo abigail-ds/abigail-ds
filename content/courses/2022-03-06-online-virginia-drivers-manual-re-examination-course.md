@@ -19,4 +19,4 @@ You are required to take this course because you have failed the learner’s per
 
 ***Certificate:*** DTS8 E will be issued to allow student to re-take the learner's permit test at the DMV. 
 
-**S﻿ign up [here](https://www.va-drivercourses.com/clickIn.php?schoolID=311)!**
+**[S﻿ign up here!](https://checkout.square.site/merchant/85BWEQRS81PYA/checkout/X7A4QMQ5O2CGBGJF5KYKE6CK)**
