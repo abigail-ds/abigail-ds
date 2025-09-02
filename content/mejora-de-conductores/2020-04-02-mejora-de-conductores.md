@@ -2,6 +2,12 @@
 title: Mejora de Conductores
 string: Clínica de mejora del conductor de ocho horas
 ---
+<!--StartFragment-->
+
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-991522116"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-991522116'); </script>
+
+<!--EndFragment-->
+
 ### Clase De Mejora Del Conductor - Curso por internet
 
 ### \*\*\*\*\*\*\*\*Clase nueva y MUY fácil!!! *$100* - [Registrarse aqui](https://square.link/u/fOtd8oUp)
