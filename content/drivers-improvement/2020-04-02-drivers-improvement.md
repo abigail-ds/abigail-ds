@@ -2,12 +2,6 @@
 title: Drivers Improvement
 string: Eight-Hour Driver Improvement Clinic
 ---
-<!--StartFragment-->
-
-<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-991522116"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-991522116'); </script>
-
-<!--EndFragment-->
-
 ##### Online Driver Improvement $100 **DMV records updated within 24 hours and certificate is emailed for your record or to deliver to court.**
 
 **\*\*\*\*NEW AND VERY CONVENIENT:** Please register for the [ONLINE Driver Improvement Clinic](https://checkout.square.site/merchant/85BWEQRS81PYA/checkout/TKBYHZJIH7WZFMRGWOZ3RNGP) -  Click and follow instructions.
