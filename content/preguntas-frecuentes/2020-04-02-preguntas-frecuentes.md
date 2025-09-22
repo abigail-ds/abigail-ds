@@ -1,76 +1,99 @@
 ---
 title: Preguntas Frecuentes
 ---
-#### ¿Cómo se solicita un permiso de aprendizaje en Virginia?
+# **Escuela de Conducción Abigail – Preguntas Frecuentes**
 
-Visite la página [Solicitud de un permiso de aprendizaje](https://www.dmv.virginia.gov/drivers/#applying_learners.asp) en el sitio web del Departamento de Vehículos Motorizados de Virginia.
+¡Bienvenido a nuestra página de Preguntas Frecuentes! A continuación, encontrará respuestas a las preguntas más frecuentes sobre nuestros programas, precios y políticas.
 
-#### ¿Cómo se obtiene una licencia en Virginia?
+- - -
 
-Visite la página [Solicitud de licencia de conducir](https://www.dmv.virginia.gov/drivers/#applying.asp) en el sitio web del Departamento de Vehículos Motorizados de Virginia.
+**¿Qué es la Escuela de Conducción Abigail?**\
+La Escuela de Conducción Abigail es un proveedor de capacitación y perfeccionamiento para conductores con licencia del DMV de Virginia. Ofrecemos talleres de perfeccionamiento para conductores, clases de reexamen y un Programa de Mejoramiento para Conductores enfocado en Virginia, diseñado para ayudar a los conductores a cumplir con los requisitos del DMV, los tribunales y el seguro, y a convertirse en conductores más seguros.
 
-#### ¿Cuál es el trato con los puntos de conducción?
+**¿Dónde se encuentran?**\
+Nuestra sede está en Richmond, Virginia, pero atendemos a estudiantes de todo el estado a través de nuestros programas en línea.
 
-Las siguientes infracciones se agrupan según el número de puntos de demérito del DMV asignados a cada infracción. El número de años que la condena permanece en su registro del DMV está entre paréntesis al lado de cada violación. Un asterisco (*) indica que la condena permanece en su registro de forma permanente.
+**¿Quién es el propietario de la Escuela de Conducción Abigail?**\
+Nuestra escuela es propiedad de Mohamed G. Abbamin, MPA, quien cuenta con más de una década de experiencia en educación vial y es el autor del [Programa de Mejoramiento del Conductor Enfocado en Virginia](https://drivertraining4virginia.com/virginia-focused-driver-improvement-program/).
 
-** [Violaciones de seis puntos](https://www.dmv.virginia.gov/drivers/#points_6.asp)**  \
-** [Infracciones de cuatro puntos](https://www.dmv.virginia.gov/drivers/#points_4.asp)**  \
-** [Infracciones de tres puntos](https://www.dmv.virginia.gov/drivers/#points_3.asp)** 
+- - -
 
-#### ¿Abigail's Driving School honrará la educación de los conductores de clase de otra escuela?
+## **Programas y Cursos**
 
-Sí, siempre que tenga prueba de haber completado la parte de su clase antes de inscribirse en la Escuela de conducción de Abigail.
+**¿Qué cursos ofrecen?**
 
-#### ¿Por qué su precio es más alto que otras escuelas?
+* **Centro de Mejoramiento del Conductor (DIC):** Programa aprobado por el DMV, el tribunal o la aseguradora.
+* **Clase de Reexamen:** Para estudiantes que han reprobado el examen teórico del DMV tres veces.
+* **Programa de Educación para la Conducción Imprudente y Agresiva (RADEP):** Para conductores multados por conducción imprudente o agresiva. Consulte [Capacitación para Conductores en Virginia](https://drivertraining4virginia.com/general/) para obtener más información.
 
-Estás pagando por la calidad. Nuestro modelo de negocio se centra en la calidad en lugar de la cantidad. No estamos compitiendo para ver quién puede capacitar a la mayoría de los estudiantes, sino que estamos en un negocio que busca producir conductores calificados en la Commonwealth.
+**¿Sus clases están aprobadas por el DMV?**\
+Sí, todos los programas están totalmente aprobados por el DMV de Virginia.
 
-#### ¿Tiene plan de pago?
+**¿Puedo tomar el curso en línea?**\
+Por supuesto. Puede completar el curso en línea, a su propio ritmo, desde cualquier lugar de Virginia.
 
-No, no lo hacemos, sin embargo, las decisiones de pago se deciden de forma individual. Requerimos un depósito de $ 50 cuando se registra. Requerimos como mínimo el 50% del saldo restante el primer día de clase.
+**¿Cuánto duran las clases?**
 
-#### ¿Vas a emitir mi licencia?
+* Taller de Mejoramiento Vial: 8 horas (requerido por el DMV de Virginia)
+* Clase de Reexamen: 8 horas
+* Programa RADEP: 4 horas
 
- **Adolescente:**  Si usted es un adolescente y ha cumplido con los requisitos estatales para el período de retención del permiso, la edad y las horas de conducción, emitiremos su TDL 180 (licencia de conducir temporal por 180 días) una vez que lo haya completado al volante y aula.
+- - -
 
- **Adulto:**  Si completa el programa de exención de 60 días, emitimos DTS D, un documento que lo califica para ir al DMV para que pueda cambiar su permiso de aprendizaje por una licencia de conducir.
+## **Inscripción y programación**
 
-#### ¿Necesito tener habilidades básicas de manejo?
+**¿Cómo me inscribo?**\
+Puede inscribirse en línea a través de nuestras [páginas de cursos](https://driving-school-102691.square.site/classes-clases) o llamar al Sr. Mohamed al 804-823-7730.
 
-Antes de inscribirse, le recomendamos tener un mínimo de 15 horas de manejo. ¿Por qué? ¿Quiere perder $ 400 más conduciendo en un estacionamiento? Estamos asegurados, todos nuestros autos tienen un sistema de doble freno y letreros de conductor estudiantil. Queremos que se sienta cómodo manejando en la carretera.
+**¿Cuándo puedo comenzar mi clase en línea?**\
+Inmediatamente después de la inscripción y el pago.
 
-#### **¿Emite el permiso de aprendizaje? ¿Me puede decir cómo es mi historial de manejo?**
+**¿Ofrecen clases por la tarde o en fin de semana?**\
+Todas las clases son a su propio ritmo y puede tomarlas en línea cuando lo desee.
 
-No, debe comunicarse con la [DMV - Cuenta MyDMV](https://www.dmv.virginia.gov/onlineServices/#index.html)
+- - -
 
-#### ¿Recogerás y dejarás en las clases detrás del volante?
+## **Precios y Pago**
 
-Sí, recogemos y dejamos. Tenga en cuenta que no brindamos servicios en áreas a más de 10 millas de nuestra oficina central, es decir, Hopewell, Goochland, Midlothian, etc.
+**¿Cuánto cuesta la Clínica de Mejoramiento del Conductor?**\
+Nuestra Clínica de Mejoramiento del Conductor cuesta **$100** por estudiante.
 
-#### Incluso si tenía una licencia en el pasado, ¿tengo que esperar 60 días?
+**¿Cuánto cuesta la Clase de Reevaluación?**\
+La Clase de Reevaluación cuesta **$150**
 
-Póngase en contacto con el [DMV](https://www.dmv.virginia.gov/#/) para obtener preguntas específicas como esta.
+**¿Ofrecen tarifas grupales o corporativas?**\
+Sí. Contáctenos para obtener precios con descuento para operadores de flotas, capacitación corporativa y grupos de 5 o más estudiantes.
 
-#### ¿Aceptará un permiso de otro estado?
+- - -
 
-No, obtenga su permiso de aprendizaje antes de inscribirse en nuestro curso de educación para conductores en la clase y / o detrás del volante.
+## **Finalización e Informe**
 
-#### ¿Qué tan pronto puedo comenzar?
+**¿Cómo sabrá el DMV que completé el curso?**\
+Enviamos su finalización electrónicamente al DMV, generalmente dentro de las 24 horas. También recibirá un certificado para sus registros.
 
-La hora / fecha de inicio es por orden de llegada.
+**¿Puedo obtener un descuento en el seguro?**\
+Sí, la mayoría de las aseguradoras ofrecen descuentos por completar una Clínica de Mejoramiento del Conductor aprobada por el DMV. Contacta a tu aseguradora para confirmar.
 
-#### Si tomo un curso de reexamen en clase debido a que no apruebo el examen de permiso de aprendizaje, y no apruebo nuevamente en el DMV, ¿puedo tomar el curso nuevamente sin pagar?
+- - -
 
-Por supuesto.
+## **Información legal y judicial**
 
-#### ¿Tiene descuentos?
+**¿Me ayudará esto con mi multa de tráfico?**\
+En muchos casos, sí. La mejora voluntaria en la conducción puede ayudar a reducir puntos o anular las multas. Confirma primero con el tribunal.
 
-Desafortunadamente, no ofrecemos descuentos a menos que esté afiliado a una organización sin fines de lucro específica y / o reciba servicios de un proveedor de servicios. Se requiere prueba y validación.
+**¿Recomiendas algún abogado?**\
+Sí. Para obtener asesoramiento legal o representación judicial en materia de tráfico, recomendamos a los estudiantes a:
 
-#### ¿Necesito un seguro de automóvil?
+**Pablo Fantl, Abogado**\
+📍 7033 Old Jahnke Road, Richmond, VA 23225\
+📞 (804) 474-0923
 
-De acuerdo con el [Virgina DMV](https://www.dmv.virginia.gov/vehicles/#insurance.asp), debe certificar que su vehículo está cubierto por los requisitos mínimos de seguro o pagar la tarifa de vehículo motorizado sin seguro. Su compañía de seguros debe estar autorizada para realizar negocios en Virginia. Consulte esta extensa guía sobre seguros de automóviles para encontrar comparaciones, información útil y aspectos a tener en cuenta al buscar el seguro de automóvil adecuado para usted.
+- - -
 
-* **Enlace al DMV de Virginia:**  <https://www.dmv.virginia.gov/vehicles/#insurance.asp>
-* **Enlace a información sobre tarifas de vehículos motorizados sin seguro:**  <https://www.dmv.virginia.gov/vehicles/#uninsured_fee.asp>
-* **Enlace a la Guía sobre seguros de automóviles** : <https://www.consumersadvocate.org/car-insurance>
+## **Soporte técnico**
+
+**¿Qué pasa si tengo problemas con el curso en línea?**\
+Nuestro equipo está disponible por teléfono y correo electrónico para ayudarte con el inicio de sesión, las lecciones y los exámenes.
+
+**¿Qué necesito para la clase en línea?**\
+Una computadora, tableta o teléfono inteligente con acceso a internet. No se requiere software adicional.
