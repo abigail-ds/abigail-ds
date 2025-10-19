@@ -2,7 +2,7 @@
 title: Virginia Drivers Manual
 string: drivers-manual
 ---
-# ***O﻿NLY $150 ->*[HERE](https://square.link/u/O4nU4fi6)**
+# ***O﻿NLY $150 ->*[HERE](https://online.abigailsdrivingschool.com/shop/3x-fail/)**
 
 \*﻿\*PLEASE USE [GOOGLE CHROME](https://www.google.com/chrome/)
 
