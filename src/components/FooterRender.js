@@ -72,7 +72,7 @@ const FooterRender = ({ props, intl }) => {
                 <span>
                   <b>{intl.formatMessage({ id: "contact.contact_hours" })}: </b>
                 </span>
-                {data.footer.contact_hours}
+                {data.footer.frontmatter.contact_hours}
               </li>
             </ul>
             <div className="social-media">

@@ -1,0 +1,260 @@
+.faq-page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 56px 0 72px;
+  color: #243e40;
+  font-weight: 400;
+}
+.faq-page .faq-eyebrow {
+  color: #006b56;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin: 0 0 12px;
+}
+.faq-page h1 {
+  font-size: clamp(2.5rem, 5vw, 3.8rem);
+  line-height: 1.15;
+  margin: 0 0 20px;
+  color: #00353f;
+  text-transform: none;
+}
+.faq-intro {
+  max-width: 720px;
+  font-size: 1.1rem;
+  line-height: 1.75;
+}
+.faq-page a {
+  color: #006b56 !important;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.faq-page a:focus-visible,
+.faq-page summary:focus-visible {
+  outline: 3px solid #006b56;
+  outline-offset: 4px;
+}
+.faq-page .faq-jump-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  height: auto;
+  line-height: 1.5;
+  margin: 28px 0 42px;
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+}
+.faq-page .faq-jump-nav a {
+  display: inline-block;
+  padding: 10px 14px;
+  border: 1px solid #cbded8;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  background: #f4f9f7;
+  text-decoration: none;
+}
+.faq-page .faq-jump-nav a:hover {
+  background: #e6f3ee;
+}
+.faq-page h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.65rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0 0 16px;
+  scroll-margin-top: 30px;
+}
+.faq-group {
+  margin-bottom: 44px;
+}
+.faq-page details {
+  border: 1px solid #d8e4df;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  overflow-wrap: anywhere;
+}
+.faq-page details[open] {
+  background: #f5faf7;
+}
+.faq-page summary {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px;
+  cursor: pointer;
+  list-style: none;
+  font-size: 1.04rem;
+  font-weight: 600;
+  line-height: 1.6;
+}
+.faq-page summary::-webkit-details-marker {
+  display: none;
+}
+.faq-page summary::after {
+  content: "+";
+  flex: 0 0 22px;
+  font-size: 1.35rem;
+  line-height: 1.25;
+  color: #006b56;
+  text-align: center;
+}
+.faq-page details[open] > summary::after {
+  content: "−";
+}
+.faq-page summary:hover {
+  background: #edf6f1;
+}
+.faq-answer {
+  padding: 0 20px 22px;
+  line-height: 1.8;
+}
+.faq-answer p {
+  margin: 12px 0 0;
+}
+.faq-answer p:first-child {
+  margin-top: 0;
+}
+.faq-page .faq-answer ul {
+  margin: 0;
+  padding-left: 22px;
+}
+.faq-page .faq-answer ul > li {
+  list-style-type: disc;
+  margin-bottom: 12px;
+}
+.faq-page .faq-answer ul > li:last-child {
+  margin-bottom: 0;
+}
+.faq-fees {
+  width: 100%;
+  border-collapse: collapse;
+}
+.faq-fees caption {
+  text-align: left;
+  padding-bottom: 12px;
+  font-weight: 600;
+}
+.faq-fees th,
+.faq-fees td {
+  padding: 12px 8px;
+  border-bottom: 1px solid #d8e4df;
+}
+.faq-fees thead th {
+  color: #006b56;
+  font-size: 0.9rem;
+}
+.faq-fees tbody th {
+  font-weight: 400;
+}
+.faq-fees td:last-child {
+  font-weight: 600;
+  white-space: nowrap;
+}
+.faq-help {
+  background: #00353f;
+  border-top: 5px solid #01b37b;
+  border-radius: 8px;
+  padding: 32px;
+  color: #fff;
+  scroll-margin-top: 30px;
+}
+.faq-help h2 {
+  color: #fff;
+}
+.faq-help > p {
+  line-height: 1.75;
+  max-width: 680px;
+}
+.faq-page .faq-help a {
+  color: #91f0d5 !important;
+}
+.faq-page .faq-cta {
+  display: inline-block;
+  padding: 13px 20px;
+  margin: 10px 0 24px;
+  background: #006b56;
+  border: 1px solid #91f0d5;
+  border-radius: 5px;
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: 600;
+}
+.faq-page .faq-cta:hover {
+  background: #005544;
+}
+.faq-help a:focus-visible {
+  outline-color: #91f0d5;
+}
+.faq-contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  line-height: 1.6;
+}
+.faq-contact-links a {
+  overflow-wrap: anywhere;
+}
+.faq-help .faq-contact-hours {
+  margin-bottom: 0;
+  font-size: 0.95rem;
+}
+@media (max-width: 600px) {
+  .faq-page {
+    padding: 32px 0 48px;
+  }
+  .faq-page h1 {
+    font-size: 2.4rem;
+  }
+  .faq-page h2 {
+    font-size: 1.45rem;
+  }
+  .faq-page .faq-jump-nav {
+    gap: 8px;
+    margin-bottom: 32px;
+  }
+  .faq-page .faq-jump-nav a {
+    padding: 9px 11px;
+  }
+  .faq-page summary {
+    padding: 16px;
+    gap: 12px;
+  }
+  .faq-answer {
+    padding: 0 16px 18px;
+  }
+  .faq-fees th,
+  .faq-fees td {
+    padding: 10px 5px;
+    font-size: 0.9rem;
+  }
+  .faq-help {
+    padding: 24px 20px;
+  }
+  .faq-contact-links {
+    flex-direction: column;
+    gap: 12px;
+  }
+}
+@media print {
+  .faq-jump-nav,
+  .faq-cta {
+    display: none !important;
+  }
+  .faq-page details > .faq-answer {
+    display: block !important;
+  }
+  .faq-page details {
+    break-inside: avoid;
+  }
+  .faq-help {
+    background: white;
+    color: #243e40;
+  }
+  .faq-help h2 {
+    color: #243e40;
+  }
+}
