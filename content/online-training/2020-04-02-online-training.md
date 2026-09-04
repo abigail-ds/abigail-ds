@@ -1,59 +1,74 @@
+
 ---
-title: Privacy Policy
+title: Online Programs
 ---
-<!--StartFragment-->
 
-**Privacy Policy**
+# Online Programs
 
-Effective Date: June 2025
+Complete your training online with Abigail's Driving School. Choose the program that fits your needs below.
 
-Abigail's Driving School respects your privacy and is committed to protecting any personal information you share with us. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our website or interact with our services.
+## 8HR Online Driver Improvement
 
-**Information We Collect**
+Complete the 8-hour Driver Improvement Clinic online at your convenience.
 
-We may collect personal information from you directly when you visit our website, enroll in our courses, or communicate with us. This information may include:
+This course may help you satisfy a court order, fulfill a DMV requirement, earn safe-driving points, or qualify for an insurance benefit.
 
-* Name, address, email address, and phone number
-* Driver's license information (for course registration)
-* Payment information (for processing course fees)
+**$100**
 
-**How We Use Your Information**
+[Enroll Online](https://online.abigailsdrivingschool.com/)
 
-We use the information we collect for the following purposes:
+---
 
-* To enroll you in our driver improvement courses and provide related services
-* To communicate with you, including responding to inquiries and sending updates about our services
-* To process payments and invoices
-* To comply with legal and regulatory requirements
+## 3X Fail – Driver's Manual Course
 
-**Disclosure of Information**
+An 8-hour course for individuals who need to complete the Virginia Driver's Manual Course after failing the learner's permit examination three times.
 
-We do not sell, trade, or otherwise transfer your personal information to outside parties without your consent, except as necessary for providing our services or as required by law.
+**$149**
 
-**Data Security**
+[Enroll Online](https://online.abigailsdrivingschool.com/)
 
-We implement reasonable security measures to protect your personal information from unauthorized access, use, alteration, or disclosure.
+---
 
-**Your Rights**
+## 12HR Reckless/Aggressive – RADEP
 
-You have the right to:
+A 12-hour program consisting of the 8-hour Driver Improvement Clinic plus the 4-hour RADEP course for qualifying reckless or aggressive driving referrals.
 
-* Access your personal information that we hold
-* Correct any inaccurate information
-* Request deletion of your information, subject to legal obligations
+**$180**
 
-**Third-Party Links**
+[Enroll Online](https://online.abigailsdrivingschool.com/)
 
-Our website may contain links to third-party websites or services. We are not responsible for the privacy practices or content of these third-party sites.
+---
 
-**Changes to This Policy**
+## 4HR Reckless/Aggressive – RADEP
 
-We may update this Privacy Policy periodically to reflect changes in our practices and legal requirements. We will notify you of any significant changes by posting a prominent notice on our website or by contacting you directly.
+A 4-hour RADEP course for individuals who have been referred for reckless or aggressive driving and have already completed the required 8-hour Driver Improvement course.
 
-**Contact Us**
+**$90**
 
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at 804-823-7730.
+[Enroll Online](https://online.abigailsdrivingschool.com/)
 
-<!--EndFragment-->
+---
 
-![]()
+## 30HR Virginia Online Driver's Education
+
+Complete Virginia's 30-hour online driver education program from your computer, tablet, or other compatible device.
+
+The program includes the required online coursework and the 90-minute parent/teen component for applicable students.
+
+**$150**
+
+[Enroll in Online Driver Education](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=91)
+---
+
+## Ready to Get Started?
+
+Select your course and complete your registration through Abigail's Driving School's online learning system.
+
+[View All Online Courses](https://online.abigailsdrivingschool.com/)
+```
+
+This mirrors the products you are actually selling rather than creating a generic two-course page. Your online site confirms those course descriptions, prices, and offerings. ([Abigail's Driving School][1])
+
+**Do not commit yet.** Paste this into the blank GitHub editor, then click **Preview** and show me the screen. We will make sure it looks right before publishing anything.
+
+[1]: https://online.abigailsdrivingschool.com/ "Abigails Driving School – Virginia Driving School – Driver's Ed. & Driver Improvement"
