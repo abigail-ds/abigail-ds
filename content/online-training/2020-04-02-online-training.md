@@ -1,4 +1,7 @@
 ---
+title: Online Training
+---
+
 # Online Programs
 
 Complete your training online with Abigail's Driving School. Choose the program that fits your needs below.

@@ -104,16 +104,12 @@ const FooterRender = ({ props, intl }) => {
                 <span>
                   <b>{intl.formatMessage({ id: "contact.address" })}: </b>
                   <br />
-                  6002 W. Broad St., Suite 203
+                  6802 Paragon Pl, Suite 410
                   <br />
                   Richmond, VA 23230
                 </span>
                 <br />
-                <span>
-                  (Office Open Per Appointment)
-                  <br />
-                  **Next to Mekong Restaurant
-                </span>
+                <span>(Office Open Per Appointment)</span>
               </li>
               <li>
                 <span>

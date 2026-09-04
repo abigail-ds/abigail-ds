@@ -29,7 +29,6 @@ const Training = ({ intl }) => {
       }
     }
   `)
-  const path = typeof window !== "undefined" ? window.location.pathname : ""
   return (
     <Layout>
       <SEO lang={intl.locale} title={intl.formatMessage({ id: "faq.title" })} />
@@ -39,7 +38,7 @@ const Training = ({ intl }) => {
       />
       <Paragraph
         title={intl.formatMessage({ id: "training.pagetitle" })}
-        message={path.match("/en/") ? data.training.html : data.trainingEs.html}
+        message={intl.locale === "en" ? data.training.html : data.trainingEs.html}
       />
     </Layout>
   )
