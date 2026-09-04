@@ -28,9 +28,6 @@ const MobileMenu = props => {
           about={intl.formatMessage({
             id: "home.menu_items.about",
           })}
-          services={intl.formatMessage({
-            id: "home.menu_items.services",
-          })}
           driversImp={intl.formatMessage({
             id: "home.menu_items.drivers_imp",
           })}

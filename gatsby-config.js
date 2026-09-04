@@ -158,12 +158,19 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-material-ui`,
-    {
-      resolve: `gatsby-plugin-netlify-identity`,
-      options: {
-        url: `https://your-identity-instance-here.netlify.com/`, // required!
-      },
-    },
+    // Local previews can skip the placeholder Identity service.
+    // Production builds always include the Netlify integration.
+    ...(process.env.NODE_ENV === "development" &&
+    process.env.ABIGAIL_LOCAL_PREVIEW === "1"
+      ? []
+      : [
+          {
+            resolve: `gatsby-plugin-netlify-identity`,
+            options: {
+              url: `https://your-identity-instance-here.netlify.com/`, // required!
+            },
+          },
+        ]),
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
