@@ -7,7 +7,7 @@ title: Privacy Policy
 
 Effective Date: June 2025
 
-Abigail's Driving School, an affiliate of Driver Training 4 Virginia, respects your privacy and is committed to protecting any personal information you share with us. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our website or interact with our services.
+Abigail's Driving School respects your privacy and is committed to protecting any personal information you share with us. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our website or interact with our services.
 
 **Information We Collect**
 
