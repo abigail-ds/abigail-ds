@@ -1,7 +1,7 @@
 ---
 title: Driver Improvement Clinic
 string: Driver Improvement Clinic | Clínica de mejora del conductor
-text: $80
+text: $100
 price: 100
 number: ""
 ---

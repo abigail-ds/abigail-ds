@@ -64,10 +64,10 @@
     "course": {
       "title": "My course name",
       "description": "The driver improvement clinic educates and refreshes both new and experienced drivers about defensive driving techniques in order to minimize risk. We are State of Virginia DMV Approved and Licensed. Program: Our driver improvement course uses the National Traffic Safety Institute (NTSI) Defensive Driving Program. NTSI is one of the first defensive driving programs established in 1974. Abigail's Driving School follows NTSI's belief that values + attitude = behavior. It is through personal responsibility that has the potential to modify driving behaviors.",
-      "price": "$80",
+      "price": "$100",
       "topics": "List",
       "requirements": "Under 21: For those under the age of 21, you must take the driver improvement class after each infraction until you are over 21.",
-      "regulations": "Voluntarily: If the course is taken voluntarily, you will receive up to five safe driving points towards your driving record. Court: If the court assigns you to take this course you will not receive any safe driving points unless you have a court document stating otherwise. However, it will help you with a ticket. DMV: If instructed by the DMV to take the class, you will receive driving points depending on your current record. Verify with Virginia DMV. Cost: The class is $80. Classes are held on Saturday mornings and upon request on weekdays and Sundays, same price call or text 804-256-3147. Length of class for drivers aged 55 years and older: Per Virginia Administrative Code 24VAC20-40-30 (B) the eight hours of class time can be divided over at least a two-day period for individuals 55 years and older. This will guarantee flexibility for your schedule and also allow you to get time to digest and understand all the safety information learned. For details on the 8 hour driver improvement class read DMV's publication A Different Kind of Crash Course DI Program"
+      "regulations": "Take the 8-hour Virginia Driver Improvement Clinic online for $100. The course may satisfy a DMV or court requirement, add safe-driving points when taken voluntarily, or support an insurance discount. Call or text 804-823-7730 for help."
     }
   },
   "drivers_improvement": {
@@ -77,10 +77,10 @@
     "course": {
       "title": "Eight-Hour Driver Improvement Clinic",
       "description": "The driver improvement clinic educates and refreshes both new and experienced drivers about defensive driving techniques in order to minimize risk. We are State of Virginia DMV Approved and Licensed. Program: Our driver improvement course uses the National Traffic Safety Institute (NTSI) Defensive Driving Program. NTSI is one of the first defensive driving programs established in 1974. Abigail's Driving School follows NTSI's belief that values + attitude = behavior. It is through personal responsibility that has the potential to modify driving behaviors.",
-      "price": "$80",
+      "price": "$100",
       "topics": "List",
       "requirements": "Under 21: For those under the age of 21, you must take the driver improvement class after each infraction until you are over 21.",
-      "regulations": "Voluntarily: If the course is taken voluntarily, you will receive up to five safe driving points towards your driving record. Court: If the court assigns you to take this course you will not receive any safe driving points unless you have a court document stating otherwise. However, it will help you with a ticket. DMV: If instructed by the DMV to take the class, you will receive driving points depending on your current record. Verify with Virginia DMV. Cost: The class is $80. Classes are held on Saturday mornings and upon request on weekdays and Sundays, same price call or text 804-256-3147. Length of class for drivers aged 55 years and older: Per Virginia Administrative Code 24VAC20-40-30 (B) the eight hours of class time can be divided over at least a two-day period for individuals 55 years and older. This will guarantee flexibility for your schedule and also allow you to get time to digest and understand all the safety information learned. For details on the 8 hour driver improvement class read DMV's publication A Different Kind of Crash Course DI Program"
+      "regulations": "Take the 8-hour Virginia Driver Improvement Clinic online for $100. The course may satisfy a DMV or court requirement, add safe-driving points when taken voluntarily, or support an insurance discount. Call or text 804-823-7730 for help."
     }
   },
   "drivers_manual": {
@@ -90,10 +90,10 @@
     "course": {
       "title": "Eight-Hour Driver Improvement Clinic",
       "description": "The driver improvement clinic educates and refreshes both new and experienced drivers about defensive driving techniques in order to minimize risk. We are State of Virginia DMV Approved and Licensed. Program: Our driver improvement course uses the National Traffic Safety Institute (NTSI) Defensive Driving Program. NTSI is one of the first defensive driving programs established in 1974. Abigail's Driving School follows NTSI's belief that values + attitude = behavior. It is through personal responsibility that has the potential to modify driving behaviors.",
-      "price": "$80",
+      "price": "$149",
       "topics": "List",
       "requirements": "Under 21: For those under the age of 21, you must take the driver improvement class after each infraction until you are over 21.",
-      "regulations": "Voluntarily: If the course is taken voluntarily, you will receive up to five safe driving points towards your driving record. Court: If the court assigns you to take this course you will not receive any safe driving points unless you have a court document stating otherwise. However, it will help you with a ticket. DMV: If instructed by the DMV to take the class, you will receive driving points depending on your current record. Verify with Virginia DMV. Cost: The class is $80. Classes are held on Saturday mornings and upon request on weekdays and Sundays, same price call or text 804-256-3147. Length of class for drivers aged 55 years and older: Per Virginia Administrative Code 24VAC20-40-30 (B) the eight hours of class time can be divided over at least a two-day period for individuals 55 years and older. This will guarantee flexibility for your schedule and also allow you to get time to digest and understand all the safety information learned. For details on the 8 hour driver improvement class read DMV's publication A Different Kind of Crash Course DI Program"
+      "regulations": "This 8-hour Virginia Driver's Manual Course is for students who failed the knowledge exam three times. Tuition is $149. Call or text 804-823-7730 for help."
     }
   },
   "registration": {
@@ -122,7 +122,9 @@
     "esPhone": "Spanish",
     "email": "Email",
     "hours": "Hours",
-    "contact_hours": "Customer Contact Hours",
+    "office_hours": "Office hours",
+    "office_schedule": "Tuesday and Friday, 10 AM - 1 PM (appointment required)",
+    "contact_hours": "Phone and text customer service hours",
     "address": "Address",
     "service_area": "Service Area"
   },

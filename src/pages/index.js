@@ -12,6 +12,18 @@ import SimpleSlider from "../components/SimpleSlider"
 
 const IndexPage = () => {
   const intl = useIntl()
+  const seo =
+    intl.locale === "es"
+      ? {
+          title: "Escuela de manejo en Richmond, Virginia",
+          description:
+            "Escuela de manejo con licencia del DMV de Virginia. Programas en línea de mejora del conductor, Manual 3X Fail, RADEP y educación vial.",
+        }
+      : {
+          title: "Driving School in Richmond, Virginia",
+          description:
+            "Virginia DMV-licensed driving school in Richmond offering online Driver Improvement, 3X Fail Driver's Manual, RADEP, and driver education programs.",
+        }
   const data = useStaticQuery(graphql`
     query {
       home: markdownRemark(fileAbsolutePath: { regex: "/home/" }) {
@@ -44,8 +56,8 @@ const IndexPage = () => {
       <Hero herotitle={intl.formatMessage({ id: "home.herotitle" })} />
       <SEO
         lang={intl.locale}
-        title={intl.formatMessage({ id: "home.title" })}
-        keywords={[`driving school`, `richmond virginia`, `drivers education`]}
+        title={seo.title}
+        description={seo.description}
       />
       <div className="brand-section">
         <div className="row side" style={{ display: "flex" }}>
@@ -54,7 +66,10 @@ const IndexPage = () => {
               title={intl.formatMessage({ id: "home.pagetitle" })}
               message={path.match("/es/") ? data.homeEs.html : data.home.html}
             />
-            <Image visual={data.accreditedLogo.childImageSharp.fixed} />
+            <Image
+              alt="Accreditation emblem for Abigail's Driving School"
+              visual={data.accreditedLogo.childImageSharp.fixed}
+            />
             <SimpleSlider
               title={intl.formatMessage({
                 id: "home.testimonials.testimonial_title",

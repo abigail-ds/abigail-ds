@@ -4,9 +4,21 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Form from "../components/form"
 import CardRender from "../components/CardRender"
-import { useStaticQuery } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 
 const Registration = ({ intl }) => {
+  const seo =
+    intl.locale === "es"
+      ? {
+          title: "Inscripción de la escuela de manejo",
+          description:
+            "Comuníquese con Abigail's Driving School para confirmar el programa correcto y los próximos pasos de inscripción.",
+        }
+      : {
+          title: "Driving School Registration",
+          description:
+            "Contact Abigail's Driving School to confirm the correct Virginia driving program and registration steps.",
+        }
   const data = useStaticQuery(graphql`
     query {
       products: allMarkdownRemark(
@@ -38,7 +50,8 @@ const Registration = ({ intl }) => {
       />
       <SEO
         lang={intl.locale}
-        title={intl.formatMessage({ id: "registration.title" })}
+        title={seo.title}
+        description={seo.description}
       />
 
       <Form googleForm={data.formEs.html} />

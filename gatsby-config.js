@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Abigails Driving School`,
-    description: `The only english and spanish language driving school provider in the Richmond metropolitan area`,
-    author: `@gatsbyjs`,
+    title: `Abigail's Driving School`,
+    siteUrl: `https://abigailsdrivingschool.com`,
+    description: `Virginia DMV-licensed driving school in Richmond offering online driver improvement, 3X Fail Driver's Manual, RADEP, and driver education programs.`,
+    author: `Abigail's Driving School`,
   },
   plugins: [
     {
@@ -174,11 +175,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Abigail's Driving School`,
+        short_name: `Abigail's`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#ffffff`,
+        theme_color: `#00434a`,
         display: `minimal-ui`,
         icon: `src/images/abigail-icon.png`, // This path is relative to the root of the site.
       },

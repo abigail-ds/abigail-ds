@@ -16,7 +16,11 @@ import Img from "gatsby-image"
 const Image = props => {
   return (
     <div>
-      <Img fluid={props.visual} fixed={props.visual} />
+      <Img
+        alt={props.alt || props.src || ""}
+        fluid={props.visual}
+        fixed={props.visual}
+      />
     </div>
   )
 }

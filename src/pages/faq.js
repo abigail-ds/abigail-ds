@@ -9,7 +9,7 @@ const copy = {
   en: {
     eyebrow: "Student support",
     description:
-      "Choose the right course, understand the requirements, and know what to expect before you register.",
+      "Answers about Virginia Driver Improvement, 3X Fail, RADEP, driver education, pricing, certificates, and registration.",
     navigation: "FAQ topics",
     topics: [
       "Choosing a Course",
@@ -21,12 +21,12 @@ const copy = {
     helpText:
       "Tell us what you need to complete. We can help you check the course, format, and next steps before you register.",
     programs: "View Online Programs",
-    hours: "Customer contact hours",
+    hours: "Phone and text customer service hours",
   },
   es: {
     eyebrow: "Ayuda para estudiantes",
     description:
-      "Elija el curso adecuado, conozca los requisitos y sepa qué esperar antes de inscribirse.",
+      "Respuestas sobre mejora del conductor, 3X Fail, RADEP, educación vial, precios, certificados e inscripción en Virginia.",
     navigation: "Temas de preguntas frecuentes",
     topics: [
       "Elegir un curso",
@@ -38,7 +38,7 @@ const copy = {
     helpText:
       "Cuéntenos qué necesita completar. Le ayudamos a revisar el curso, la modalidad y los pasos antes de inscribirse.",
     programs: "Ver programas en línea",
-    hours: "Horario de atención",
+    hours: "Horario de atención por teléfono y mensaje de texto",
   },
 }
 const topicIds = ["choosing", "registration", "completion", "support"]

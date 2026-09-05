@@ -1,6 +1,6 @@
 ---
-phone: 804-256-3147
-string: 804-256-3147
+phone: 804-823-7730
+string: 804-823-7730
 title: Footer Information
 en-phone: 804-823-7730
 es-phone: 703-637-8250

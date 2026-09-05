@@ -83,6 +83,7 @@ const CardRender = props => {
                 objectFit: "cover",
               }}
               src={heroImg}
+              alt={props.pagetitle + " at Abigail's Driving School"}
             ></img>
           </Col>
           <Col
