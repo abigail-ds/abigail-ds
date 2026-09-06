@@ -8,6 +8,7 @@ import { injectIntl } from "gatsby-plugin-intl"
 // import "react-netlify-identity-widget/styles.css" // delete if you want to bring your own CSS
 import Header from "./header"
 import FooterRender from "./FooterRender"
+import ContactActions from "./ContactActions"
 import "./layout.css"
 
 const Layout = ({ children, intl }) => {
@@ -50,6 +51,7 @@ const Layout = ({ children, intl }) => {
       <footer>
         <FooterRender />
       </footer>
+      <ContactActions />
     </>
   )
 }

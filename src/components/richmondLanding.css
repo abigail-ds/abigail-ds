@@ -1,0 +1,256 @@
+.richmond-landing {
+  margin: 0 calc(50% - 50vw);
+}
+
+.richmond-landing h2 {
+  color: #00353f;
+  font-family: Oswald;
+  font-size: 2.35rem;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.richmond-hero {
+  background: linear-gradient(125deg, #00353f 0%, #075a60 100%);
+  color: white;
+  padding: 72px max(10%, calc((100vw - 1180px) / 2));
+}
+
+.richmond-hero h1 {
+  font-size: 3.65rem;
+  line-height: 1.12;
+  margin: 10px 0 18px;
+  max-width: 850px;
+}
+
+.richmond-kicker {
+  color: #50e3c2;
+  font-size: 0.86rem;
+  font-weight: 600;
+  letter-spacing: 0.09em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.richmond-lead {
+  font-size: 1.18rem;
+  line-height: 1.75;
+  max-width: 780px;
+}
+
+.richmond-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 26px;
+}
+
+.richmond-actions a,
+.richmond-local > a {
+  align-items: center;
+  border: 2px solid #50e3c2;
+  border-radius: 5px;
+  color: #50e3c2 !important;
+  display: inline-flex;
+  font-weight: 600;
+  justify-content: center;
+  min-height: 46px;
+  padding: 10px 19px;
+  text-transform: uppercase;
+}
+
+.richmond-actions .richmond-action-primary {
+  background: #01b37b;
+  border-color: #01b37b;
+  color: white !important;
+}
+
+.richmond-trust,
+.richmond-courses,
+.richmond-local,
+.richmond-faq,
+.richmond-final-cta {
+  padding: 60px max(10%, calc((100vw - 1180px) / 2));
+}
+
+.richmond-trust {
+  align-items: start;
+  background: #e4f2ef;
+  display: grid;
+  gap: 55px;
+  grid-template-columns: 1.15fr 0.85fr;
+}
+
+.richmond-trust p,
+.richmond-courses > p,
+.richmond-local p,
+.richmond-faq p,
+.richmond-final-cta p {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.richmond-trust ul {
+  margin: 0;
+}
+
+.richmond-trust li {
+  font-weight: 600;
+  list-style: none;
+  margin: 0 0 16px;
+  padding-left: 30px;
+  position: relative;
+}
+
+.richmond-trust li::before {
+  color: #01a873;
+  content: "✓";
+  font-size: 1.1rem;
+  font-weight: 700;
+  left: 0;
+  position: absolute;
+}
+
+.richmond-courses {
+  background: white;
+}
+
+.richmond-course-grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 30px 0;
+}
+
+.richmond-course {
+  border: 1px solid #c9ded9;
+  border-radius: 7px;
+  box-shadow: 0 6px 18px rgba(0, 53, 63, 0.08);
+  padding: 24px;
+}
+
+.richmond-course h3 {
+  color: #00353f;
+  font-size: 1.35rem;
+  line-height: 1.3;
+  margin: 6px 0 12px;
+}
+
+.richmond-course p {
+  line-height: 1.6;
+}
+
+.richmond-price {
+  color: #018e64;
+  font-size: 1.2rem !important;
+  font-weight: 700;
+  margin: 0;
+}
+
+.richmond-text-link {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.richmond-local {
+  align-items: center;
+  background: #00353f;
+  color: white;
+  display: flex;
+  gap: 35px;
+  justify-content: space-between;
+}
+
+.richmond-local h2 {
+  color: white;
+}
+
+.richmond-local > a {
+  flex: 0 0 auto;
+}
+
+.richmond-faq {
+  background: #f7faf9;
+}
+
+.richmond-faq details {
+  background: white;
+  border: 1px solid #c9ded9;
+  border-radius: 5px;
+  margin-bottom: 12px;
+  max-width: 900px;
+  padding: 18px 20px;
+}
+
+.richmond-faq summary {
+  color: #00353f;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.richmond-faq details p {
+  margin-bottom: 0;
+}
+
+.richmond-final-cta {
+  background: #e4f2ef;
+  text-align: center;
+}
+
+.richmond-final-cta p {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+}
+
+.richmond-final-cta .richmond-actions {
+  justify-content: center;
+}
+
+.richmond-final-cta .richmond-actions a:not(.richmond-action-primary) {
+  border-color: #00353f;
+  color: #00353f !important;
+}
+
+@media only screen and (max-width: 960px) {
+  .richmond-hero,
+  .richmond-trust,
+  .richmond-courses,
+  .richmond-local,
+  .richmond-faq,
+  .richmond-final-cta {
+    padding: 45px 7%;
+  }
+
+  .richmond-hero h1 {
+    font-size: 2.8rem !important;
+  }
+
+  .richmond-trust {
+    gap: 28px;
+    grid-template-columns: 1fr;
+  }
+
+  .richmond-course-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .richmond-landing h2 {
+    font-size: 2rem;
+  }
+
+  .richmond-course-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .richmond-actions a {
+    width: 100%;
+  }
+
+  .richmond-local {
+    align-items: stretch;
+    flex-direction: column;
+  }
+}

@@ -22,9 +22,20 @@ const Hero = props => {
       <div className="hero-content container">
         <h1>Abigail's Driving School</h1>
         <h5>{props.herotitle}</h5>
-        <Link to="/about" className="btn hero-btn">
-          ABOUT US
-        </Link>
+        <div className="hero-actions">
+          <Link
+            to="/online-training"
+            className="hero-action hero-action-primary"
+          >
+            {props.enrollLabel}
+          </Link>
+          <a
+            className="hero-action hero-action-secondary"
+            href={`tel:${props.phone}`}
+          >
+            {props.callLabel}
+          </a>
+        </div>
       </div>
       <BackgroundImage
         className="img-container"

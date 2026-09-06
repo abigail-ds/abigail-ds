@@ -9,6 +9,7 @@ import Hero from "../components/hero"
 import SideBar from "../components/SideBar"
 import Paragraph from "../components/paragraphSection"
 import SimpleSlider from "../components/SimpleSlider"
+import LocalIntro from "../components/LocalIntro"
 
 const IndexPage = () => {
   const intl = useIntl()
@@ -53,12 +54,13 @@ const IndexPage = () => {
   const path = typeof window !== "undefined" ? window.location.pathname : ""
   return (
     <Layout>
-      <Hero herotitle={intl.formatMessage({ id: "home.herotitle" })} />
-      <SEO
-        lang={intl.locale}
-        title={seo.title}
-        description={seo.description}
+      <Hero
+        herotitle={intl.formatMessage({ id: "home.herotitle" })}
+        enrollLabel={intl.locale === "es" ? "VER CURSOS" : "VIEW COURSES"}
+        callLabel={intl.locale === "es" ? "LLAMAR AHORA" : "CALL NOW"}
+        phone={intl.locale === "es" ? "+17036378250" : "+18048237730"}
       />
+      <SEO lang={intl.locale} title={seo.title} description={seo.description} />
       <div className="brand-section">
         <div className="row side" style={{ display: "flex" }}>
           <div class="col s12 m12 l5">
@@ -93,6 +95,7 @@ const IndexPage = () => {
           </div>
         </div>
       </div>
+      <LocalIntro />
     </Layout>
   )
 }

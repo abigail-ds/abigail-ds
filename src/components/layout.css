@@ -5,6 +5,7 @@
 }
 
 body {
+  overflow-x: hidden;
   color: #414042;
   font-family: "Open Sans";
   font-weight: 300;
