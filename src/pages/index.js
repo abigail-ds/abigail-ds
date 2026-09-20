@@ -8,7 +8,6 @@ import SEO from "../components/seo"
 import Hero from "../components/hero"
 import SideBar from "../components/SideBar"
 import Paragraph from "../components/paragraphSection"
-import SimpleSlider from "../components/SimpleSlider"
 import LocalIntro from "../components/LocalIntro"
 
 const IndexPage = () => {
@@ -71,11 +70,6 @@ const IndexPage = () => {
             <Image
               alt="Accreditation emblem for Abigail's Driving School"
               visual={data.accreditedLogo.childImageSharp.fixed}
-            />
-            <SimpleSlider
-              title={intl.formatMessage({
-                id: "home.testimonials.testimonial_title",
-              })}
             />
           </div>
           <div className="col l5 m12 s12">
