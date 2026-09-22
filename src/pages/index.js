@@ -9,6 +9,7 @@ import Hero from "../components/hero"
 import SideBar from "../components/SideBar"
 import Paragraph from "../components/paragraphSection"
 import LocalIntro from "../components/LocalIntro"
+import PopularCourses from "../components/PopularCourses"
 
 const IndexPage = () => {
   const intl = useIntl()
@@ -89,6 +90,7 @@ const IndexPage = () => {
           </div>
         </div>
       </div>
+      <PopularCourses />
       <LocalIntro />
     </Layout>
   )

@@ -1,0 +1,101 @@
+.popular-courses {
+  padding: 64px 0;
+  text-align: center;
+}
+
+.popular-courses-kicker {
+  color: #007d73;
+  font-family: Oswald, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  margin: 0 0 8px;
+}
+
+.popular-courses h2 {
+  color: #00434a;
+  font-family: Oswald, sans-serif;
+  font-size: 2.4rem;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.popular-courses-intro {
+  margin: 16px auto 30px;
+  max-width: 720px;
+}
+
+.popular-courses-grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  text-align: left;
+}
+
+.popular-course-card {
+  border: 1px solid #cfe4e0;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 67, 74, 0.09);
+  display: flex;
+  flex-direction: column;
+  padding: 26px;
+}
+
+.popular-course-card h3 {
+  color: #00434a;
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 4px 0 12px;
+}
+
+.popular-course-card > p:not(.popular-course-price) {
+  flex-grow: 1;
+}
+
+.popular-course-price {
+  color: #01a873;
+  font-family: Oswald, sans-serif;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.popular-course-enroll {
+  background: #01a873;
+  border-radius: 4px;
+  color: #fff !important;
+  display: block;
+  font-family: Oswald, sans-serif;
+  font-weight: 600;
+  margin-top: 18px;
+  padding: 12px 16px;
+  text-align: center;
+}
+
+.popular-courses-footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+  margin-top: 26px;
+}
+
+.popular-courses-footer a {
+  font-family: Oswald, sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 800px) {
+  .popular-courses {
+    padding: 44px 0;
+  }
+
+  .popular-courses h2 {
+    font-size: 2rem;
+  }
+
+  .popular-courses-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,11 +1,13 @@
 import React from "react"
-import { Link } from "gatsby-plugin-intl"
+import { Link, useIntl } from "gatsby-plugin-intl"
 import { useStaticQuery, graphql } from "gatsby"
 import HorizontalRule from "./HorizontalRule"
 
 import "./SideBar.css"
 
 const SideBar = props => {
+  const intl = useIntl()
+  const spanish = intl.locale === "es"
   const data = useStaticQuery(graphql`
     query {
       phone: markdownRemark(fileAbsolutePath: { regex: "/footer/" }) {
@@ -21,8 +23,8 @@ const SideBar = props => {
       <div style={{ marginBottom: "20px" }}>
         <h3>{props.title}</h3>
         <p>{props.message}</p>
-        <Link to="/registration" class="btn hero-btn">
-          REGISTER HERE!
+        <Link to="/online-training" className="btn hero-btn">
+          {spanish ? "VER CURSOS EN LÍNEA" : "VIEW ONLINE COURSES"}
         </Link>
       </div>
       <HorizontalRule altColor={"horizontal-line"} />

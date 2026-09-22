@@ -14,7 +14,7 @@ Este curso puede ayudarle a cumplir una orden judicial o un requisito del DMV, o
 
 **$100**
 
-[Inscríbase en línea](https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/)
+[Inscríbase en línea](https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=driver_improvement)
 
 ---
 
@@ -24,7 +24,7 @@ Curso de 8 horas para quienes deben completar el Curso del Manual del Conductor 
 
 **$149**
 
-[Inscríbase en línea](https://online.abigailsdrivingschool.com/shop/3x-fail/)
+[Inscríbase en línea](https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=three_time_fail)
 
 ---
 
@@ -34,7 +34,7 @@ Programa de 12 horas que combina la Clínica de Mejora del Conductor de 8 horas 
 
 **$180**
 
-[Inscríbase en línea](https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/)
+[Inscríbase en línea](https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=radep_12_hour)
 
 ---
 
@@ -44,7 +44,7 @@ Curso RADEP de 4 horas para personas remitidas por conducción imprudente o agre
 
 **$90**
 
-[Inscríbase en línea](https://online.abigailsdrivingschool.com/shop/4hr-radep-reckless-aggressive-driver-education-program-addition/)
+[Inscríbase en línea](https://online.abigailsdrivingschool.com/shop/4hr-radep-reckless-aggressive-driver-education-program-addition/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=radep_4_hour)
 
 ---
 

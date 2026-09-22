@@ -14,7 +14,7 @@ This course may help you satisfy a court order, fulfill a DMV requirement, earn 
 
 **$100**
 
-[Enroll Online](https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/)
+[Enroll Online](https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=driver_improvement)
 
 ---
 
@@ -24,7 +24,7 @@ An 8-hour course for individuals who need to complete the Virginia Driver's Manu
 
 **$149**
 
-[Enroll Online](https://online.abigailsdrivingschool.com/shop/3x-fail/)
+[Enroll Online](https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=three_time_fail)
 
 ---
 
@@ -34,7 +34,7 @@ A 12-hour program consisting of the 8-hour Driver Improvement Clinic plus the 4-
 
 **$180**
 
-[Enroll Online](https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/)
+[Enroll Online](https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=radep_12_hour)
 
 ---
 
@@ -44,7 +44,7 @@ A 4-hour RADEP course for individuals who have been referred for reckless or agg
 
 **$90**
 
-[Enroll Online](https://online.abigailsdrivingschool.com/shop/4hr-radep-reckless-aggressive-driver-education-program-addition/)
+[Enroll Online](https://online.abigailsdrivingschool.com/shop/4hr-radep-reckless-aggressive-driver-education-program-addition/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=radep_4_hour)
 
 ---
 
