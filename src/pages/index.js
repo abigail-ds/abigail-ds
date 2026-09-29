@@ -16,14 +16,14 @@ const IndexPage = () => {
   const seo =
     intl.locale === "es"
       ? {
-          title: "Escuela de manejo en Richmond, Virginia",
+          title: "Abigail's Driving School | Escuela de manejo en Richmond, VA",
           description:
-            "Escuela de manejo con licencia del DMV de Virginia. Programas en línea de mejora del conductor, Manual 3X Fail, RADEP y educación vial.",
+            "Abigail's Driving School es una escuela de manejo en Richmond con licencia del DMV de Virginia. Cursos de mejora del conductor, Manual 3X Fail, RADEP y educación vial.",
         }
       : {
-          title: "Driving School in Richmond, Virginia",
+          title: "Abigail's Driving School | Richmond, VA",
           description:
-            "Virginia DMV-licensed driving school in Richmond offering online Driver Improvement, 3X Fail Driver's Manual, RADEP, and driver education programs.",
+            "Abigail's Driving School is a Virginia DMV-licensed driving school in Richmond offering Driver Improvement, 3X Fail, RADEP, and driver education programs.",
         }
   const data = useStaticQuery(graphql`
     query {

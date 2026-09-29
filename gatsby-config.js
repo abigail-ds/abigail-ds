@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Abigail's Driving School`,
     siteUrl: `https://abigailsdrivingschool.com`,
-    description: `Virginia DMV-licensed driving school in Richmond offering online driver improvement, 3X Fail Driver's Manual, RADEP, and driver education programs.`,
+    description: `Abigail's Driving School is a Virginia DMV-licensed driving school in Richmond offering Driver Improvement, 3X Fail, RADEP, and driver education programs.`,
     author: `Abigail's Driving School`,
   },
   plugins: [

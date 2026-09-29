@@ -13,7 +13,10 @@ const businessStructuredData = {
   "@type": "DrivingSchool",
   "@id": "https://abigailsdrivingschool.com/#driving-school",
   name: "Abigail's Driving School",
-  url: "https://abigailsdrivingschool.com/",
+  alternateName: "Abigails Driving School",
+  url: "https://abigailsdrivingschool.com/en/",
+  description:
+    "Virginia DMV-licensed driving school serving Richmond, Henrico, and Chesterfield with English and Spanish support.",
   telephone: "+1-804-823-7730",
   email: "abigailsInstructor@gmail.com",
   foundingDate: "2012",
@@ -74,6 +77,11 @@ function SEO({ description, lang, meta, noindex, title }) {
   )
   const { pathname } = useLocation()
   const metaDescription = description || site.siteMetadata.description
+  const fullTitle = title
+    .toLowerCase()
+    .includes(site.siteMetadata.title.toLowerCase())
+    ? title
+    : `${title} | ${site.siteMetadata.title}`
   const normalizedPath = pathname.endsWith("/") ? pathname : pathname + "/"
   const canonicalUrl = site.siteMetadata.siteUrl + normalizedPath
   const localeIndependentPath = normalizedPath.replace(
@@ -86,11 +94,11 @@ function SEO({ description, lang, meta, noindex, title }) {
   return (
     <Helmet
       htmlAttributes={{ lang }}
-      title={title}
-      titleTemplate={"%s | " + site.siteMetadata.title}
+      title={fullTitle}
       meta={[
         { name: "description", content: metaDescription },
-        { property: "og:title", content: title },
+        { property: "og:title", content: fullTitle },
+        { property: "og:site_name", content: site.siteMetadata.title },
         { property: "og:description", content: metaDescription },
         { property: "og:type", content: "website" },
         { property: "og:url", content: canonicalUrl },
@@ -99,7 +107,7 @@ function SEO({ description, lang, meta, noindex, title }) {
           content: lang === "es" ? "es_US" : "en_US",
         },
         { name: "twitter:card", content: "summary" },
-        { name: "twitter:title", content: title },
+        { name: "twitter:title", content: fullTitle },
         { name: "twitter:description", content: metaDescription },
       ]
         .concat(noindex ? [{ name: "robots", content: "noindex, nofollow" }] : [])
