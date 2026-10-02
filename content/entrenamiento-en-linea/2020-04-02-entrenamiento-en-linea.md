@@ -6,13 +6,23 @@ title: Programas en línea
 
 Complete su capacitación en línea con Abigail's Driving School. Elija el programa que mejor se adapte a sus necesidades.
 
+**¿No sabe qué curso elegir?** [Llame al 703-637-8250](tel:+17036378250) o [envíenos un texto](sms:+17036378250), de 9 a. m. a 4 p. m. Tenga a mano su aviso del DMV o tribunal para que podamos ayudarle a identificar el programa adecuado.
+
+## Inscríbase, pague y comience su curso
+
+1. Elija su curso para abrir la página de inscripción.
+2. Cree su cuenta de estudiante y complete el pago en el portal del curso.
+3. Acceda al curso después del pago. Guarde sus datos de acceso para continuar más tarde.
+
+Revise el total antes de pagar. El pago del curso de mejora del conductor de 8 horas actualmente incluye $2.50 de procesamiento: **$102.50 en total**. Confirme los cargos de otros programas al pagar.
+
 ## Mejora del conductor en línea de 8 horas
 
 Complete la Clínica de Mejora del Conductor de 8 horas en línea y a su propio ritmo.
 
 Este curso puede ayudarle a cumplir una orden judicial o un requisito del DMV, obtener puntos de manejo seguro o calificar para un beneficio de seguro.
 
-**$100**
+**Curso: $100 · Procesamiento: $2.50 · Total al pagar: $102.50**
 
 [Inscríbase en línea](https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=driver_improvement)
 

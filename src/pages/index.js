@@ -61,6 +61,7 @@ const IndexPage = () => {
         phone={intl.locale === "es" ? "+17036378250" : "+18048237730"}
       />
       <SEO lang={intl.locale} title={seo.title} description={seo.description} />
+      <PopularCourses />
       <div className="brand-section">
         <div className="row side" style={{ display: "flex" }}>
           <div class="col s12 m12 l5">
@@ -90,7 +91,6 @@ const IndexPage = () => {
           </div>
         </div>
       </div>
-      <PopularCourses />
       <LocalIntro />
     </Layout>
   )

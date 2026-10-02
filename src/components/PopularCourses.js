@@ -38,7 +38,7 @@ const PopularCourses = () => {
           {
             key: "improvement",
             name: "Mejora del conductor de 8 horas",
-            price: "$100",
+            price: "$100 + $2.50 de procesamiento",
             detail:
               "Para ciertos requisitos del DMV o tribunal, puntos de manejo seguro o posibles beneficios de seguro.",
           },
@@ -70,7 +70,7 @@ const PopularCourses = () => {
           {
             key: "improvement",
             name: "8-Hour Driver Improvement",
-            price: "$100",
+            price: "$100 + $2.50 processing",
             detail:
               "For certain DMV or court requirements, safe-driving points, or possible insurance benefits.",
           },
@@ -110,17 +110,30 @@ const PopularCourses = () => {
               href={courseUrls[course.key]}
               onClick={() => trackCourse(course.key)}
             >
-              {copy.enroll}
+              {spanish ? `Inscribirme: ${course.name}` : `Enroll: ${course.name}`}
             </a>
           </article>
         ))}
       </div>
+      <p className="popular-courses-intro">
+        {spanish
+          ? "Cómo comenzar: elija su curso, cree su cuenta y pague en nuestro portal de cursos. Después del pago, acceda al curso en línea. Guarde sus datos de acceso para continuar más tarde. Revise el total antes de pagar."
+          : "How to start: choose your course, create your account and pay in our course portal. After payment, access your online course. Save your login details so you can return later. Review the total before paying."}
+      </p>
       <div className="popular-courses-footer">
         <Link to="/online-training">{copy.compare}</Link>
         <a href={`tel:${spanish ? "+17036378250" : "+18048237730"}`}>
           {copy.support}
         </a>
+        <a href={`sms:${spanish ? "+17036378250" : "+18048237730"}`}>
+          {spanish ? "AYUDA POR TEXTO" : "TEXT FOR COURSE HELP"}
+        </a>
       </div>
+      <p className="popular-courses-intro">
+        {spanish
+          ? "Atención por teléfono y texto: 9 a. m.–4 p. m. Para requisitos judiciales o del DMV, confirme el curso indicado en su aviso antes de inscribirse."
+          : "Phone and text support: 9 a.m.–4 p.m. For court or DMV requirements, confirm the course named in your notice before enrolling."}
+      </p>
     </section>
   )
 }
