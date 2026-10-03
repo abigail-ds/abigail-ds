@@ -12,6 +12,7 @@
   margin: 0 0 8px;
 }
 
+.popular-courses h1,
 .popular-courses h2 {
   color: #00434a;
   font-family: Oswald, sans-serif;
@@ -91,6 +92,7 @@
     padding: 44px 0;
   }
 
+  .popular-courses h1,
   .popular-courses h2 {
     font-size: 2rem;
   }

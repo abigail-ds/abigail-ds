@@ -10,6 +10,7 @@ import SideBar from "../components/SideBar"
 import Paragraph from "../components/paragraphSection"
 import LocalIntro from "../components/LocalIntro"
 import PopularCourses from "../components/PopularCourses"
+import BehindTheWheel from "../components/BehindTheWheel"
 
 const IndexPage = () => {
   const intl = useIntl()
@@ -62,6 +63,7 @@ const IndexPage = () => {
       />
       <SEO lang={intl.locale} title={seo.title} description={seo.description} />
       <PopularCourses />
+      <BehindTheWheel />
       <div className="brand-section">
         <div className="row side" style={{ display: "flex" }}>
           <div class="col s12 m12 l5">
