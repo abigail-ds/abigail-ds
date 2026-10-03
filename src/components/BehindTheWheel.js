@@ -7,6 +7,11 @@ const BehindTheWheel = ({ fullPage = false }) => {
   const Heading = fullPage ? "h1" : "h2"
   const phone = spanish ? "+17036378250" : "+18048237730"
   const bookingUrl = "https://abigailsdrivingschoolonline.setmore.com/mohamed"
+  const serviceIds = [
+    "e854ffd1-0270-404b-b6c0-cbe62fea5d1b",
+    "c4b3e5a6-6c5c-480d-92ca-f23f3471e1c5",
+    "a40ce5e1-4e93-415b-a764-6c113a5f7b6a",
+  ]
   const courses = spanish
     ? [
         ["Clase privada de manejo", "$75", "60 minutos de instrucción individual para adultos y adolescentes elegibles con permiso válido. Práctica de control del vehículo, estacionamiento y manejo en carretera. No sustituye el programa completo de educación vial."],
@@ -30,11 +35,18 @@ const BehindTheWheel = ({ fullPage = false }) => {
         {spanish ? "Elija su programa y reserve su primera visita en Setmore. Confirmaremos los requisitos y coordinaremos las visitas restantes del programa." : "Choose your program and book your first visit in Setmore. We will confirm eligibility and coordinate the remaining program visits."}
       </p>
       <div className="popular-courses-grid">
-        {courses.map(([name, price, detail]) => (
+        {courses.map(([name, price, detail], index) => (
           <article className="popular-course-card" key={name}>
             <p className="popular-course-price">{price}</p>
+            {index === 2 && <p className="popular-courses-kicker">{spanish ? "PAQUETE OPCIONAL" : "OPTIONAL BUNDLE"}</p>}
             <h3>{name}</h3>
             <p>{detail}</p>
+            {index === 2 && <p>{spanish ? "Después de reservar, comuníquese con nosotros para organizar su inscripción en la teoría en línea. Reservar en Setmore no crea una cuenta del curso; la teoría debe completarse antes de la primera visita de manejo." : "After booking, contact us to arrange online classroom enrollment. Your Setmore booking does not create a course account; classroom study must be completed before your first driving visit."}</p>}
+            <a className="popular-course-enroll"
+              href={`${bookingUrl}?step=time-slot&products=${serviceIds[index]}&type=service&staff=r0c7f1634164174507&staffSelected=false`}
+              aria-label={spanish ? `Reservar: ${name}` : `Sign up: ${name}`}>
+              {spanish ? "RESERVAR ESTE PROGRAMA" : "SIGN UP FOR THIS OPTION"}
+            </a>
           </article>
         ))}
       </div>

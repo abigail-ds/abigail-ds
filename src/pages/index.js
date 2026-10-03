@@ -9,8 +9,7 @@ import Hero from "../components/hero"
 import SideBar from "../components/SideBar"
 import Paragraph from "../components/paragraphSection"
 import LocalIntro from "../components/LocalIntro"
-import PopularCourses from "../components/PopularCourses"
-import BehindTheWheel from "../components/BehindTheWheel"
+import ProgramPaths from "../components/ProgramPaths"
 
 const IndexPage = () => {
   const intl = useIntl()
@@ -62,8 +61,7 @@ const IndexPage = () => {
         phone={intl.locale === "es" ? "+17036378250" : "+18048237730"}
       />
       <SEO lang={intl.locale} title={seo.title} description={seo.description} />
-      <PopularCourses />
-      <BehindTheWheel />
+      <ProgramPaths />
       <div className="brand-section">
         <div className="row side" style={{ display: "flex" }}>
           <div class="col s12 m12 l5">

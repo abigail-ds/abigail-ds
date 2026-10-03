@@ -42,6 +42,10 @@
   padding: 26px;
 }
 
+.program-paths-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .popular-course-card h3 {
   color: #00434a;
   font-size: 1.45rem;
