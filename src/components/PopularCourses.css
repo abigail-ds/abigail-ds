@@ -46,6 +46,17 @@
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
+.program-help {
+  border-top: 1px solid #cfe4e0;
+  margin-top: 20px;
+  padding-top: 14px;
+}
+
+.program-help p { margin: 0 0 10px; }
+.program-help > div { display: flex; flex-wrap: wrap; gap: 16px; }
+.program-help a { color: #007d73; font-weight: 600; text-decoration: underline; }
+.program-help small { display: block; margin-top: 10px; }
+
 .popular-course-card h3 {
   color: #00434a;
   font-size: 1.45rem;

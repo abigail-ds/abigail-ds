@@ -1,6 +1,7 @@
 import React from "react"
 import { Link, useIntl } from "gatsby-plugin-intl"
 import "./PopularCourses.css"
+import ProgramHelp from "./ProgramHelp"
 
 const BehindTheWheel = ({ fullPage = false }) => {
   const spanish = useIntl().locale === "es"
@@ -47,6 +48,7 @@ const BehindTheWheel = ({ fullPage = false }) => {
               aria-label={spanish ? `Reservar: ${name}` : `Sign up: ${name}`}>
               {spanish ? "RESERVAR ESTE PROGRAMA" : "SIGN UP FOR THIS OPTION"}
             </a>
+            <ProgramHelp program={serviceIds[index]} />
           </article>
         ))}
       </div>
