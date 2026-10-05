@@ -23,5 +23,6 @@ export default function ProgramPaths() {
         <ProgramHelp program="behind_the_wheel" />
       </article>
     </div>
+    <div className="popular-courses-footer"><Link to="/re-examination">{spanish ? "3X FAIL: CLASES PRIVADAS Y EN LÍNEA" : "3X FAIL: PRIVATE AND ONLINE CLASSES"}</Link></div>
   </section>
 }

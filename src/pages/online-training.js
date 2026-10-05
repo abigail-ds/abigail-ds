@@ -1,5 +1,5 @@
 import React from "react"
-import { injectIntl } from "gatsby-plugin-intl"
+import { injectIntl, Link } from "gatsby-plugin-intl"
 import { useStaticQuery, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -56,6 +56,9 @@ const Training = ({ intl }) => {
         title={intl.formatMessage({ id: "training.pagetitle" })}
         message={intl.locale === "en" ? data.training.html : data.trainingEs.html}
       />
+      <p style={{ textAlign: "center", margin: "30px 0" }}>
+        <Link to="/re-examination">{intl.locale === "es" ? "¿Necesita el curso 3X Fail? Compare clases privadas y el curso en línea." : "Need the 3X Fail course? Compare private classes and the online option."}</Link>
+      </p>
     </Layout>
   )
 }
