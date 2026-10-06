@@ -33,7 +33,7 @@ const PopularCourses = () => {
           "Compare el propósito y el precio antes de pagar. Si no sabe cuál curso necesita, llámenos o envíenos un mensaje de texto.",
         enroll: "INSCRIBIRSE AHORA",
         compare: "COMPARAR TODOS LOS CURSOS",
-        support: "Ayuda en español: 703-637-8250",
+        support: "Llamar: 804-256-3147 (opción 2)",
         courses: [
           {
             key: "improvement",
@@ -65,7 +65,7 @@ const PopularCourses = () => {
           "Compare the purpose and price before paying. If you are unsure which course you need, call or text us first.",
         enroll: "ENROLL NOW",
         compare: "COMPARE ALL COURSES",
-        support: "Course help: 804-823-7730",
+        support: "Call: 804-256-3147 (press 1)",
         courses: [
           {
             key: "improvement",
@@ -122,11 +122,11 @@ const PopularCourses = () => {
       </p>
       <div className="popular-courses-footer">
         <Link to="/online-training">{copy.compare}</Link>
-        <a href={`tel:${spanish ? "+17036378250" : "+18048237730"}`}>
+        <a href="tel:+18042563147">
           {copy.support}
         </a>
         <a href={`sms:${spanish ? "+17036378250" : "+18048237730"}`}>
-          {spanish ? "AYUDA POR TEXTO" : "TEXT FOR COURSE HELP"}
+          {spanish ? "TEXTO EN ESPAÑOL" : "TEXT IN ENGLISH"}
         </a>
       </div>
       <p className="popular-courses-intro">

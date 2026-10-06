@@ -39,8 +39,9 @@ export default function ReExaminationPage() {
       <p className="popular-courses-intro">{es ? "Ambas instructoras enseñan en 6802 Paragon Pl, Suite 410, Richmond, VA 23230. Elija su instructora y reserve una fecha disponible en Setmore. Comuníquese con nosotros si necesita ayuda con los requisitos o el pago." : "Both instructors teach at 6802 Paragon Pl, Suite 410, Richmond, VA 23230. Choose your instructor and book an available date in Setmore. Contact us if you need help with eligibility or payment."}</p>
       <p className="popular-courses-intro">{es ? "¿Menor de 18 años? Comuníquese con nosotros antes de inscribirse para revisar su comprobante de educación vial teórica. El curso debe completarse después del tercer intento fallido. Este curso es para el examen de conocimientos." : "Under 18? Contact us before enrolling so we can review your classroom driver-education completion. The course must be completed after your third failed attempt. This course is for the knowledge exam."} <a href="https://www.dmv.virginia.gov/licenses-ids/training/three-exam-failures">{es ? "Ver requisitos del DMV" : "See DMV requirements"}</a></p>
       <div className="popular-courses-footer">
-        <a href="tel:+18048237730">{es ? "Inglés" : "English"}: 804-823-7730</a>
-        <a href="tel:+17036378250">{es ? "Español" : "Spanish"}: 703-637-8250</a>
+        <a href="tel:+18042563147">{es ? "Llamar: 804-256-3147 (opción 2)" : "Call: 804-256-3147 (press 1)"}</a>
+<a href="sms:+18048237730">Text in English: 804-823-7730</a>
+        <a href="sms:+17036378250">Texto en español: 703-637-8250</a>
       </div>
     </section>
   </Layout>

@@ -58,7 +58,7 @@ const IndexPage = () => {
         herotitle={intl.formatMessage({ id: "home.herotitle" })}
         enrollLabel={intl.locale === "es" ? "VER CURSOS" : "VIEW COURSES"}
         callLabel={intl.locale === "es" ? "LLAMAR AHORA" : "CALL NOW"}
-        phone={intl.locale === "es" ? "+17036378250" : "+18048237730"}
+        phone="+18042563147"
       />
       <SEO lang={intl.locale} title={seo.title} description={seo.description} />
       <ProgramPaths />

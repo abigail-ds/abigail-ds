@@ -28,16 +28,17 @@ const SideBar = props => {
         </Link>
       </div>
       <HorizontalRule altColor={"horizontal-line"} />
-      <h6 style={{ fontWeight: "600", paddingTop: "20px" }}>{props.caption}</h6>
+      <p><a href="tel:+18042563147">Call: 804-256-3147</a><br />Press 1 for English; 2 for Spanish.</p>
+<h6 style={{ fontWeight: "600", paddingTop: "20px" }}>{props.caption}</h6>
       <p>
-        <span style={{ fontWeight: "600" }}>English: </span>
-        <a href={`tel:${data.phone.frontmatter.en_phone}`}>
+        <span style={{ fontWeight: "600" }}>Text in English: </span>
+        <a href={`sms:${data.phone.frontmatter.en_phone}`}>
           {data.phone.frontmatter.en_phone}
         </a>
       </p>
       <p>
-        <span style={{ fontWeight: "600" }}>Español: </span>
-        <a href={`tel:${data.phone.frontmatter.es_phone}`}>
+        <span style={{ fontWeight: "600" }}>Texto en español: </span>
+        <a href={`sms:${data.phone.frontmatter.es_phone}`}>
           {data.phone.frontmatter.es_phone}
         </a>
       </p>

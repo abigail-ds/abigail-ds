@@ -17,7 +17,7 @@ const businessStructuredData = {
   url: "https://abigailsdrivingschool.com/en/",
   description:
     "Virginia DMV-licensed driving school serving Richmond, Henrico, and Chesterfield with English and Spanish support.",
-  telephone: "+1-804-823-7730",
+  telephone: "+1-804-256-3147",
   email: "abigailsInstructor@gmail.com",
   foundingDate: "2012",
   address: {
@@ -47,7 +47,7 @@ const businessStructuredData = {
   contactPoint: [
     {
       "@type": "ContactPoint",
-      telephone: "+1-804-823-7730",
+      telephone: "+1-804-256-3147",
       contactType: "customer service",
       availableLanguage: ["English", "Spanish"],
     },

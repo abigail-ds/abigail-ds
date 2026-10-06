@@ -12,8 +12,8 @@ export default function ProgramHelp({ program }) {
   return <div className="program-help">
     <p>{spanish ? "¿Tiene preguntas antes de inscribirse?" : "Questions before you sign up?"}</p>
     <div>
-      <a href={`tel:${phone}`} onClick={() => track("call")}>{spanish ? "LLAMAR EN ESPAÑOL" : "CALL FOR HELP"}</a>
-      <a href={`sms:${phone}`} onClick={() => track("text")}>{spanish ? "AYUDA POR TEXTO" : "TEXT FOR HELP"}</a>
+      <a href="tel:+18042563147" onClick={() => track("call")}>{spanish ? "LLAMAR · OPCIÓN 2" : "CALL · PRESS 1"}</a>
+      <a href={`sms:${phone}`} onClick={() => track("text")}>{spanish ? "TEXTO EN ESPAÑOL" : "TEXT IN ENGLISH"}</a>
     </div>
     <small>{spanish ? "Atención por teléfono y texto: 9 a. m.–4 p. m." : "Phone and text support: 9 a.m.–4 p.m."}</small>
   </div>

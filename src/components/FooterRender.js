@@ -41,19 +41,20 @@ const FooterRender = ({ props, intl }) => {
         <div className="row">
           <div className="col s12 m6">
             <ul className="contact-list">
+<li><b>{intl.locale === "es" ? "Llamar" : "Call"}: </b><a href="tel:+18042563147">804-256-3147</a><br /><small>{intl.locale === "es" ? "Oprima 1 para inglés; 2 para español." : "Press 1 for English; 2 for Spanish."}</small></li>
               <li>
                 <span>
-                  <b>{intl.formatMessage({ id: "contact.enPhone" })}: </b>
+                  <b>{"Text in English"}: </b>
                 </span>
-                <a href={`tel:${data.footer.frontmatter.en_phone}`}>
+                <a href={`sms:${data.footer.frontmatter.en_phone}`}>
                   {data.footer.frontmatter.en_phone}
                 </a>
               </li>
               <li>
                 <span>
-                  <b>{intl.formatMessage({ id: "contact.esPhone" })}: </b>
+                  <b>{"Texto en español"}: </b>
                 </span>
-                <a href={`tel:${data.footer.frontmatter.es_phone}`}>
+                <a href={`sms:${data.footer.frontmatter.es_phone}`}>
                   {data.footer.frontmatter.es_phone}
                 </a>
               </li>

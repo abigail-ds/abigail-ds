@@ -13,7 +13,7 @@ const RichmondDrivingSchoolPage = () => {
   const intl = useIntl()
   const spanish = intl.locale === "es"
   const phone = spanish ? "+17036378250" : "+18048237730"
-  const displayPhone = spanish ? "703-637-8250" : "804-823-7730"
+  const displayPhone = "804-256-3147"
 
   const copy = spanish
     ? {
@@ -234,7 +234,7 @@ const RichmondDrivingSchoolPage = () => {
             >
               {copy.enroll}
             </a>
-            <a href={`tel:${phone}`}>{copy.call}</a>
+            <a href="tel:+18042563147">{copy.call}</a>
             <a href={`sms:${phone}`}>{copy.text}</a>
           </div>
         </header>
@@ -308,7 +308,7 @@ const RichmondDrivingSchoolPage = () => {
             >
               {copy.enroll}
             </a>
-            <a href={`tel:${phone}`}>{copy.call}</a>
+            <a href="tel:+18042563147">{copy.call}</a>
           </div>
         </section>
       </article>

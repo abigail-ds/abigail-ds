@@ -25,14 +25,15 @@ const ContactActions = () => {
 
   return (
     <nav className="mobile-contact-actions" aria-label="Contact and enrollment">
-      <a href={`tel:${phone}`} onClick={() => trackAction("call")}>
+      <a href="tel:+18042563147" onClick={() => trackAction("call")}>
         <span aria-hidden="true">☎</span>
         {labels.call}
       </a>
-      <a href={`sms:${phone}`} onClick={() => trackAction("text")}>
+      <a href="sms:+18048237730" onClick={() => trackAction("text")}>
         <span aria-hidden="true">✉</span>
-        {labels.text}
+        Text EN
       </a>
+      <a href="sms:+17036378250" onClick={() => trackAction("text_es")}><span aria-hidden="true">✉</span>Texto ES</a>
       <a
         href={enrollmentUrl}
         target="_blank"
@@ -47,3 +48,4 @@ const ContactActions = () => {
 }
 
 export default ContactActions
+
