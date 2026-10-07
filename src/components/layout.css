@@ -15,6 +15,65 @@ a {
   color: #26a69a !important;
 }
 
+a.course-enroll-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 76px;
+  min-width: 280px;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 20px 40px;
+  border-radius: 5px;
+  background: #007c60;
+  color: #fff !important;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.4;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a.course-enroll-button:hover {
+  background: #005f49;
+}
+
+a.course-enroll-button:focus-visible {
+  outline: 3px solid #414042;
+  outline-offset: 3px;
+}
+
+.course-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  margin: 20px 0;
+}
+
+a.course-learn-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 10px 22px;
+  border: 2px solid #007c60;
+  border-radius: 5px;
+  color: #007c60 !important;
+  font-size: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a.course-learn-button:hover {
+  background: #e4f2ef;
+}
+
+a.course-learn-button:focus-visible {
+  outline: 3px solid #414042;
+  outline-offset: 3px;
+}
+
 h1 {
   text-decoration: none;
   font-family: Oswald;

@@ -24,7 +24,7 @@ This course may help you satisfy a court order, fulfill a DMV requirement, earn 
 
 **Tuition: $100 · Processing: $2.50 · Checkout total: $102.50**
 
-[Enroll Online](https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=driver_improvement)
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Learn More</a></div>
 
 ---
 
@@ -34,7 +34,7 @@ An 8-hour course for individuals who need to complete the Virginia Driver's Manu
 
 **$149**
 
-[Enroll Online](https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=three_time_fail)
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Learn More</a></div>
 
 ---
 
@@ -44,7 +44,7 @@ A 12-hour program consisting of the 8-hour Driver Improvement Clinic plus the 4-
 
 **$180**
 
-[Enroll Online](https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=radep_12_hour)
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Learn More</a></div>
 
 ---
 
@@ -54,7 +54,7 @@ A 4-hour RADEP course for individuals who have been referred for reckless or agg
 
 **$90**
 
-[Enroll Online](https://online.abigailsdrivingschool.com/shop/4hr-radep-reckless-aggressive-driver-education-program-addition/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=course_catalog&utm_content=radep_4_hour)
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/4hr-radep-reckless-aggressive-driver-education-program-addition/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/4hr-radep-reckless-aggressive-driver-education-program-addition/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Learn More</a></div>
 
 ---
 
@@ -66,7 +66,7 @@ The program includes the required online coursework and the 90-minute parent/tee
 
 **$150**
 
-[Enroll in Online Driver Education](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1081&pid=91)
+<div class="course-actions"><a class="course-enroll-button" href="https://nationaldrivertraining.com/aff-landing.php?age=Teen&amp;state=VA&amp;affid=1081&amp;pid=91">Enroll Now</a> <a class="course-learn-button" href="https://nationaldrivertraining.com/aff-landing.php?age=Teen&amp;state=VA&amp;affid=1081&amp;pid=91">Learn More</a></div>
 
 ---
 
