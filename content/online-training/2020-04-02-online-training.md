@@ -34,7 +34,7 @@ An 8-hour course for individuals who need to complete the Virginia Driver's Manu
 
 **$149**
 
-<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Learn More</a></div>
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Learn More</a> <a class="course-learn-button" href="/en/re-examination/">Prefer an in-person class?</a></div>
 
 ---
 

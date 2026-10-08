@@ -34,7 +34,7 @@ Curso de 8 horas para quienes deben completar el Curso del Manual del Conductor 
 
 **$149**
 
-<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Inscríbase ahora</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Más información</a></div>
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Inscríbase ahora</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Más información</a> <a class="course-learn-button" href="/es/re-examination/">¿Prefiere una clase presencial?</a></div>
 
 ---
 
