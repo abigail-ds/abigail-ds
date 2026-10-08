@@ -64,7 +64,7 @@ Complete Virginia's 30-hour online driver education program from your computer, 
 
 The program includes the required online coursework and the 90-minute parent/teen component for applicable students.
 
-**$150**
+**$130**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://nationaldrivertraining.com/aff-landing.php?age=Teen&amp;state=VA&amp;affid=1081&amp;pid=91">Enroll Now</a> <a class="course-learn-button" href="https://nationaldrivertraining.com/aff-landing.php?age=Teen&amp;state=VA&amp;affid=1081&amp;pid=91">Learn More</a></div>
 

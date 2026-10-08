@@ -64,7 +64,7 @@ Complete el programa de educación vial en línea de Virginia de 30 horas desde 
 
 El programa incluye el curso en línea requerido y el componente de 90 minutos para padres y adolescentes cuando corresponda.
 
-**$150**
+**$130**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://nationaldrivertraining.com/aff-landing.php?age=Teen&amp;state=VA&amp;affid=1081&amp;pid=91">Inscríbase ahora</a> <a class="course-learn-button" href="https://nationaldrivertraining.com/aff-landing.php?age=Teen&amp;state=VA&amp;affid=1081&amp;pid=91">Más información</a></div>
 
