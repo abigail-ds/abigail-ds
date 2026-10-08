@@ -56,8 +56,9 @@ const IndexPage = () => {
     <Layout>
       <Hero
         herotitle={intl.formatMessage({ id: "home.herotitle" })}
-        enrollLabel={intl.locale === "es" ? "VER CURSOS" : "VIEW COURSES"}
-        callLabel={intl.locale === "es" ? "LLAMAR AHORA" : "CALL NOW"}
+        description={intl.locale === "es" ? "Explore cursos en línea, clases privadas presenciales y manejo práctico en Richmond. Elija su programa y reciba ayuda en su idioma preferido." : "Explore online courses, private in-person classes, and behind-the-wheel training in Richmond. Choose your program and get help in your preferred language."}
+        enrollLabel={intl.locale === "es" ? "ENCUENTRE SU CURSO" : "FIND YOUR COURSE"}
+        callLabel={intl.locale === "es" ? "LLAME PARA RECIBIR AYUDA" : "CALL FOR HELP"}
         phone="+18042563147"
       />
       <SEO lang={intl.locale} title={seo.title} description={seo.description} />
