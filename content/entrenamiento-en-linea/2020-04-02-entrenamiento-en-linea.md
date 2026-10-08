@@ -58,7 +58,7 @@ Curso RADEP de 4 horas para personas remitidas por conducción imprudente o agre
 
 ---
 
-## Educación vial en línea de Virginia de 30 horas
+## Educación vial en línea de Virginia de 30 horas — National Driver Training
 
 Complete el programa de educación vial en línea de Virginia de 30 horas desde una computadora, tableta u otro dispositivo compatible.
 
@@ -70,6 +70,19 @@ El programa incluye el curso en línea requerido y el componente de 90 minutos p
 
 ---
 
+## Educación vial en línea de Virginia de 30 horas — EZ Drive
+
+**$200 · Opción interactiva**
+
+Elija educación vial en línea con juegos, videos y lectura con audio. Seleccione el programa para adolescentes o adultos según sus requisitos de inscripción. Este es el curso teórico en línea; el manejo práctico se ofrece por separado.
+
+Revise los requisitos, los idiomas disponibles del curso y el total al pagar. Abigail’s ofrece atención al cliente en inglés y español.
+
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/bundle/teen-drivers-ed">Inscríbase — Adolescentes</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/teen-driver-education">Más información — Adolescentes</a></div>
+
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/va-drivers-ed?audience=adult">Inscríbase — Adultos</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/adult-driver-education">Más información — Adultos</a></div>
+
+---
 ## ¿Listo para comenzar?
 
 Elija su curso y complete la inscripción mediante el sistema de aprendizaje en línea de Abigail's Driving School.

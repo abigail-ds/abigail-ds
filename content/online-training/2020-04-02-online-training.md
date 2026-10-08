@@ -58,7 +58,7 @@ A 4-hour RADEP course for individuals who have been referred for reckless or agg
 
 ---
 
-## 30HR Virginia Online Driver's Education
+## 30HR Virginia Online Driver's Education — National Driver Training
 
 Complete Virginia's 30-hour online driver education program from your computer, tablet, or other compatible device.
 
@@ -70,6 +70,19 @@ The program includes the required online coursework and the 90-minute parent/tee
 
 ---
 
+## 30HR Virginia Online Driver’s Education — EZ Drive
+
+**$200 · Interactive option**
+
+Choose interactive online driver education with games, videos and audio read-along. Select the teen or adult program that matches your eligibility. This is online classroom education; behind-the-wheel training is separate.
+
+Review course requirements, available course languages and the final checkout total before paying. English and Spanish customer support is available from Abigail’s.
+
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/bundle/teen-drivers-ed">Enroll Now — Teen</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/teen-driver-education">Learn More — Teen</a></div>
+
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/va-drivers-ed?audience=adult">Enroll Now — Adult</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/adult-driver-education">Learn More — Adult</a></div>
+
+---
 ## Ready to Get Started?
 
 Select your course and complete your registration through Abigail's Driving School's online learning system.
