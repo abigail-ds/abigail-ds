@@ -5,11 +5,11 @@ import "./PopularCourses.css"
 
 const courseUrls = {
   improvement:
-    "https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=homepage_courses&utm_content=driver_improvement",
+    "https://online.abigailsdrivingschool.com/enroll/va-driver-improvement?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=homepage_courses&utm_content=driver_improvement",
   manual:
-    "https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=homepage_courses&utm_content=three_time_fail",
+    "https://online.abigailsdrivingschool.com/enroll/driver-manual?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=homepage_courses&utm_content=three_time_fail",
   radep:
-    "https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=homepage_courses&utm_content=radep_12_hour",
+    "https://online.abigailsdrivingschool.com/enroll/bundle/12hr-radep?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=homepage_courses&utm_content=radep_12_hour",
 }
 
 const trackCourse = course => {

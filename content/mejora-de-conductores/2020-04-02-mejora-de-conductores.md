@@ -10,7 +10,7 @@ string: Clínica de mejora del conductor de ocho horas
 
 ### Clase De Mejora Del Conductor - Curso por internet
 
-### \*\*\*\*\*\*\*\*Clase nueva y MUY fácil!!! *$100* - [Registrarse aqui](https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/)
+### \*\*\*\*\*\*\*\*Clase nueva y MUY fácil!!! *$100* - [Registrarse aqui](https://online.abigailsdrivingschool.com/enroll/va-driver-improvement)
 
 ### Solo puede tomarlo en línea con nuestra escuela o puede visitar el sitio [web del DMV](https://www.dmv.virginia.gov/) para obtener una lista.
 

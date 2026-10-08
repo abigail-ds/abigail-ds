@@ -24,7 +24,7 @@ This course may help you satisfy a court order, fulfill a DMV requirement, earn 
 
 **Tuition: $95 · Processing: $2.50 · Checkout total: $97.50**
 
-<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Learn More</a></div>
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/va-driver-improvement?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/virginia-driver-improvement?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Learn More</a></div>
 
 ---
 
@@ -34,7 +34,7 @@ An 8-hour course for individuals who need to complete the Virginia Driver's Manu
 
 **$149**
 
-<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/3x-fail/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Learn More</a> <a class="course-learn-button" href="/en/re-examination/">Prefer an in-person class?</a></div>
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/driver-manual?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/drivers-manual?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Learn More</a> <a class="course-learn-button" href="/en/re-examination/">Prefer an in-person class?</a></div>
 
 ---
 
@@ -44,7 +44,7 @@ A 12-hour program consisting of the 8-hour Driver Improvement Clinic plus the 4-
 
 **$180**
 
-<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/12hr-radep-reckless-aggressive-driver-education-program/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Learn More</a></div>
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/bundle/12hr-radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Learn More</a></div>
 
 ---
 
@@ -54,7 +54,7 @@ A 4-hour RADEP course for individuals who have been referred for reckless or agg
 
 **$90**
 
-<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/4hr-radep-reckless-aggressive-driver-education-program-addition/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/4hr-radep-reckless-aggressive-driver-education-program-addition/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Learn More</a></div>
+<div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/4hr-radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Learn More</a></div>
 
 ---
 

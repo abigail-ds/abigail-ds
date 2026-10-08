@@ -35,7 +35,7 @@ export default function ReExaminationPage() {
           <p className="popular-course-price">{price}</p>
           <h2 style={{ fontSize: "1.5rem" }}>{name}</h2>
           <p><strong>{language}</strong><br />{schedule}</p>
-          <a className="popular-course-enroll" href={instructor === "online" ? "https://online.abigailsdrivingschool.com/shop/3x-fail/" : bookingLinks[instructor]}>{action}</a>
+          <a className="popular-course-enroll" href={instructor === "online" ? "https://online.abigailsdrivingschool.com/enroll/driver-manual" : bookingLinks[instructor]}>{action}</a>
         </article>)}
       </div>
       <h2 style={{ marginTop: "40px" }}>{es ? "Clases privadas por cita" : "Private classes by appointment"}</h2>
