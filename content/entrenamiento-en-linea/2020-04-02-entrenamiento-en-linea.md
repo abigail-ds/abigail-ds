@@ -14,7 +14,7 @@ Complete su capacitación en línea con Abigail's Driving School. Elija el progr
 2. Cree su cuenta de estudiante y complete el pago en el portal del curso.
 3. Acceda al curso después del pago. Guarde sus datos de acceso para continuar más tarde.
 
-Revise el total antes de pagar. El pago del curso de mejora del conductor de 8 horas actualmente incluye $2.50 de procesamiento: **$102.50 en total**. Confirme los cargos de otros programas al pagar.
+Revise el total antes de pagar. El pago del curso de mejora del conductor de 8 horas actualmente incluye $2.50 de procesamiento: **$97.50 en total**. Confirme los cargos de otros programas al pagar.
 
 ## Mejora del conductor en línea de 8 horas
 
@@ -22,7 +22,7 @@ Complete la Clínica de Mejora del Conductor de 8 horas en línea y a su propio 
 
 Este curso puede ayudarle a cumplir una orden judicial o un requisito del DMV, obtener puntos de manejo seguro o calificar para un beneficio de seguro.
 
-**Curso: $100 · Procesamiento: $2.50 · Total al pagar: $102.50**
+**Curso: $95 · Procesamiento: $2.50 · Total al pagar: $97.50**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Inscríbase ahora</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Más información</a></div>
 

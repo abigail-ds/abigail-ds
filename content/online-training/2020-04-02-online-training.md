@@ -14,7 +14,7 @@ Complete your training online with Abigail's Driving School. Choose the program 
 2. Create your student account and complete payment in the course portal.
 3. Access your course after payment. Save your login details to return and continue later.
 
-Review the final total before paying. The 8-hour Driver Improvement checkout currently includes a $2.50 processing fee, for a total of **$102.50**. Confirm any fees for other programs at their checkout.
+Review the final total before paying. The 8-hour Driver Improvement checkout currently includes a $2.50 processing fee, for a total of **$97.50**. Confirm any fees for other programs at their checkout.
 
 ## 8HR Online Driver Improvement
 
@@ -22,7 +22,7 @@ Complete the 8-hour Driver Improvement Clinic online at your convenience.
 
 This course may help you satisfy a court order, fulfill a DMV requirement, earn safe-driving points, or qualify for an insurance benefit.
 
-**Tuition: $100 · Processing: $2.50 · Checkout total: $102.50**
+**Tuition: $95 · Processing: $2.50 · Checkout total: $97.50**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/shop/virginia-driver-improvement-course/?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Learn More</a></div>
 
