@@ -25,8 +25,8 @@ export const onClientEntry = () => {
   })
 }
 
-export const onRouteUpdate = () => {
-  if (typeof window.gtag === "function") {
+export const onRouteUpdate = ({ prevLocation }) => {
+  if (prevLocation && typeof window.gtag === "function") {
     window.gtag("event", "page_view", {
       page_path: window.location.pathname,
       page_location: window.location.origin + window.location.pathname,
