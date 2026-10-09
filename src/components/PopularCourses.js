@@ -12,16 +12,6 @@ const courseUrls = {
     "https://online.abigailsdrivingschool.com/enroll/bundle/12hr-radep?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=homepage_courses&utm_content=radep_12_hour",
 }
 
-const trackCourse = course => {
-  if (typeof window !== "undefined" && window.dataLayer) {
-    window.dataLayer.push({
-      event: "course_enrollment_click",
-      course,
-      placement: "homepage",
-    })
-  }
-}
-
 const PopularCourses = () => {
   const intl = useIntl()
   const spanish = intl.locale === "es"
@@ -38,21 +28,21 @@ const PopularCourses = () => {
           {
             key: "improvement",
             name: "Mejora del conductor de 8 horas",
-            price: "$100 + $2.50 de procesamiento",
+            price: "$95 + $3.33 de procesamiento · Total: $98.33",
             detail:
               "Para ciertos requisitos del DMV o tribunal, puntos de manejo seguro o posibles beneficios de seguro.",
           },
           {
             key: "manual",
             name: "Curso del Manual – 3X Fail",
-            price: "$149",
+            price: "$149 + $5.22 de procesamiento · Total: $154.22",
             detail:
               "Curso de ocho horas para quienes reprobaron tres veces el examen de conocimientos de Virginia.",
           },
           {
             key: "radep",
             name: "Programa RADEP de 12 horas",
-            price: "$180",
+            price: "$180 + $6.30 de procesamiento · Total: $186.30",
             detail:
               "Combina la clínica de ocho horas con cuatro horas de educación sobre conducción imprudente o agresiva.",
           },
@@ -70,21 +60,21 @@ const PopularCourses = () => {
           {
             key: "improvement",
             name: "8-Hour Driver Improvement",
-            price: "$100 + $2.50 processing",
+            price: "$95 + $3.33 processing · Total: $98.33",
             detail:
               "For certain DMV or court requirements, safe-driving points, or possible insurance benefits.",
           },
           {
             key: "manual",
             name: "3X Fail Driver's Manual Course",
-            price: "$149",
+            price: "$149 + $5.22 processing · Total: $154.22",
             detail:
               "An eight-hour course for students who failed the Virginia knowledge exam three times.",
           },
           {
             key: "radep",
             name: "12-Hour RADEP Program",
-            price: "$180",
+            price: "$180 + $6.30 processing · Total: $186.30",
             detail:
               "Combines the eight-hour clinic with four hours of reckless or aggressive driving education.",
           },
@@ -108,7 +98,6 @@ const PopularCourses = () => {
             <a
               className="popular-course-enroll"
               href={courseUrls[course.key]}
-              onClick={() => trackCourse(course.key)}
             >
               {spanish ? `Inscribirme: ${course.name}` : `Enroll: ${course.name}`}
             </a>

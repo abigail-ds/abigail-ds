@@ -14,7 +14,7 @@ Complete su capacitación en línea con Abigail's Driving School. Elija el progr
 2. Cree su cuenta de estudiante y complete el pago en el portal del curso.
 3. Acceda al curso después del pago. Guarde sus datos de acceso para continuar más tarde.
 
-Revise el total antes de pagar. El pago del curso de mejora del conductor de 8 horas actualmente incluye $2.50 de procesamiento: **$97.50 en total**. Confirme los cargos de otros programas al pagar.
+Revise el total antes de pagar. El pago del curso de mejora del conductor de 8 horas actualmente incluye 3.5% de procesamiento ($3.33): **$98.33 en total**. Confirme los cargos de otros programas al pagar.
 
 ## Mejora del conductor en línea de 8 horas
 
@@ -22,7 +22,7 @@ Complete la Clínica de Mejora del Conductor de 8 horas en línea y a su propio 
 
 Este curso puede ayudarle a cumplir una orden judicial o un requisito del DMV, obtener puntos de manejo seguro o calificar para un beneficio de seguro.
 
-**Curso: $95 · Procesamiento: $2.50 · Total al pagar: $97.50**
+**Curso: $95 · Procesamiento: $3.33 · Total al pagar: $98.33**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/va-driver-improvement?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Inscríbase ahora</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/virginia-driver-improvement?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Más información</a></div>
 
@@ -32,7 +32,7 @@ Este curso puede ayudarle a cumplir una orden judicial o un requisito del DMV, o
 
 Curso de 8 horas para quienes deben completar el Curso del Manual del Conductor de Virginia después de reprobar tres veces el examen para el permiso de aprendizaje.
 
-**$149**
+**Curso: $149 · Procesamiento: $5.22 · Total al pagar: $154.22**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/driver-manual?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Inscríbase ahora</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/drivers-manual?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Más información</a> <a class="course-learn-button" href="/es/re-examination/">¿Prefiere una clase presencial?</a></div>
 
@@ -42,7 +42,7 @@ Curso de 8 horas para quienes deben completar el Curso del Manual del Conductor 
 
 Programa de 12 horas que combina la Clínica de Mejora del Conductor de 8 horas con el curso RADEP de 4 horas para las remisiones que correspondan.
 
-**$180**
+**Curso: $180 · Procesamiento: $6.30 · Total al pagar: $186.30**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/bundle/12hr-radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Inscríbase ahora</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Más información</a></div>
 

@@ -14,7 +14,7 @@ Complete your training online with Abigail's Driving School. Choose the program 
 2. Create your student account and complete payment in the course portal.
 3. Access your course after payment. Save your login details to return and continue later.
 
-Review the final total before paying. The 8-hour Driver Improvement checkout currently includes a $2.50 processing fee, for a total of **$97.50**. Confirm any fees for other programs at their checkout.
+Review the final total before paying. The 8-hour Driver Improvement checkout currently includes a 3.5% processing fee ($3.33), for a total of **$98.33**. Confirm any fees for other programs at their checkout.
 
 ## 8HR Online Driver Improvement
 
@@ -22,7 +22,7 @@ Complete the 8-hour Driver Improvement Clinic online at your convenience.
 
 This course may help you satisfy a court order, fulfill a DMV requirement, earn safe-driving points, or qualify for an insurance benefit.
 
-**Tuition: $95 · Processing: $2.50 · Checkout total: $97.50**
+**Tuition: $95 · Processing: $3.33 · Checkout total: $98.33**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/va-driver-improvement?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/virginia-driver-improvement?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=driver_improvement">Learn More</a></div>
 
@@ -32,7 +32,7 @@ This course may help you satisfy a court order, fulfill a DMV requirement, earn 
 
 An 8-hour course for individuals who need to complete the Virginia Driver's Manual Course after failing the learner's permit examination three times.
 
-**$149**
+**Tuition: $149 · Processing: $5.22 · Checkout total: $154.22**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/driver-manual?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/drivers-manual?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=three_time_fail">Learn More</a> <a class="course-learn-button" href="/en/re-examination/">Prefer an in-person class?</a></div>
 
@@ -42,7 +42,7 @@ An 8-hour course for individuals who need to complete the Virginia Driver's Manu
 
 A 12-hour program consisting of the 8-hour Driver Improvement Clinic plus the 4-hour RADEP course for qualifying reckless or aggressive driving referrals.
 
-**$180**
+**Tuition: $180 · Processing: $6.30 · Checkout total: $186.30**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/bundle/12hr-radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_12_hour">Learn More</a></div>
 
