@@ -1,16 +1,5 @@
 // Track intent without sending customer names, numbers, or query strings.
 export const onClientEntry = () => {
-  const measurementId = process.env.GATSBY_GA_MEASUREMENT_ID || "G-KT6NT6VN1X"
-  if (/^G-[A-Z0-9]+$/.test(measurementId || "")) {
-    window.dataLayer = window.dataLayer || []
-    window.gtag = function() { window.dataLayer.push(arguments) }
-    window.gtag("js", new Date())
-    window.gtag("config", measurementId, { send_page_view: false })
-    const script = document.createElement("script")
-    script.async = true
-    script.src = `https://www.googletagmanager.com/gtag/js?id=${measurementId}`
-    document.head.appendChild(script)
-  }
   document.addEventListener("click", event => {
     const link = event.target.closest && event.target.closest("a[href]")
     if (!link) return
