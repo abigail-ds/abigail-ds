@@ -87,7 +87,7 @@ Review course requirements, available course languages and the final checkout to
 
 ## Book your driver-education final exam
 
-**Free for students enrolled in online driver education.** One student per one-hour appointment on Mondays at **5 p.m. or 6 p.m. Eastern**, subject to availability. First dates: October 19 and 26, 2026.
+**Free for students enrolled in online driver education.** One student per one-hour appointment on the **last Monday of each month** at **5 p.m. or 6 p.m. Eastern**, subject to published availability. Available dates: **October 26 and December 28, 2026**. November 30 is unavailable because of an existing appointment.
 
 **Location:** 6802 Paragon Pl, Suite 410, Richmond, VA 23230. Complete your online coursework and confirm exam eligibility with the school before attending. This booking is for the classroom final exam.
 

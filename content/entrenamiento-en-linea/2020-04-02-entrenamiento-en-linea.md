@@ -87,7 +87,7 @@ Revise los requisitos, los idiomas disponibles del curso y el total al pagar. Ab
 
 ## Reserve su examen final de educación vial
 
-**Sin costo para estudiantes inscritos en educación vial en línea.** Citas individuales de una hora los lunes a las **5 p. m. o 6 p. m., hora del Este**, según disponibilidad. Primeras fechas: 19 y 26 de octubre de 2026.
+**Sin costo para estudiantes inscritos en educación vial en línea.** Citas individuales de una hora el **último lunes de cada mes**, a las **5 p. m. o 6 p. m., hora del Este**, según las fechas publicadas. Fechas disponibles: **26 de octubre y 28 de diciembre de 2026**. El 30 de noviembre no está disponible por una cita existente.
 
 **Lugar:** 6802 Paragon Pl, Suite 410, Richmond, VA 23230. Complete su curso en línea y confirme con la escuela que puede presentar el examen antes de asistir. Esta reserva es para el examen final del curso teórico.
 
