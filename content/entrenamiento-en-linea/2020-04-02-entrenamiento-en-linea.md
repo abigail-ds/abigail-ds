@@ -8,14 +8,6 @@ Complete su capacitación en línea con Abigail's Driving School. Elija el progr
 
 **¿No sabe qué curso elegir?** [Llame al 804-256-3147 (opción 2 para español)](tel:+18042563147) o [envíenos un texto](sms:+17036378250), de 9 a. m. a 4 p. m. Tenga a mano su aviso del DMV o tribunal para que podamos ayudarle a identificar el programa adecuado.
 
-## Inscríbase, pague y comience su curso
-
-1. Elija su curso para abrir la página de inscripción.
-2. Cree su cuenta de estudiante y complete el pago en el portal del curso.
-3. Acceda al curso después del pago. Guarde sus datos de acceso para continuar más tarde.
-
-Revise el total antes de pagar. El pago del curso de mejora del conductor de 8 horas actualmente incluye 3.5% de procesamiento ($3.33): **$98.33 en total**. Confirme los cargos de otros programas al pagar.
-
 ## Mejora del conductor en línea de 8 horas
 
 Complete la Clínica de Mejora del Conductor de 8 horas en línea y a su propio ritmo.
@@ -52,11 +44,20 @@ Programa de 12 horas que combina la Clínica de Mejora del Conductor de 8 horas 
 
 Curso RADEP de 4 horas para personas remitidas por conducción imprudente o agresiva que ya completaron el curso requerido de mejora del conductor de 8 horas.
 
-**$90**
+**Curso: $90 · Procesamiento: $3.15 · Total al pagar: $93.15**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/4hr-radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Inscríbase ahora</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Más información</a></div>
 
 ---
+
+## Compare educación vial de 30 horas
+
+| Opción | Precio anunciado | Características |
+| --- | --- | --- |
+| National Driver Training | $130; revise el total en su portal | Videos, exámenes de práctica y componente de padres/adolescentes |
+| EZ Drive | $200 + $7 de procesamiento = $207 | Juegos, videos y lectura con audio; opciones para adolescentes y adultos |
+
+Ambas opciones son cursos teóricos en línea. El manejo práctico se ofrece por separado. Revise los requisitos y el idioma del curso antes de pagar.
 
 ## Educación vial en línea de Virginia de 30 horas — National Driver Training
 
@@ -72,7 +73,7 @@ El programa incluye el curso en línea requerido y el componente de 90 minutos p
 
 ## Educación vial en línea de Virginia de 30 horas — EZ Drive
 
-**$200 · Opción interactiva**
+**Curso: $200 · Procesamiento: $7 · Total al pagar: $207**
 
 Elija educación vial en línea con juegos, videos y lectura con audio. Seleccione el programa para adolescentes o adultos según sus requisitos de inscripción. Este es el curso teórico en línea; el manejo práctico se ofrece por separado.
 
@@ -83,6 +84,15 @@ Revise los requisitos, los idiomas disponibles del curso y el total al pagar. Ab
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/va-drivers-ed?audience=adult">Inscríbase — Adultos</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/adult-driver-education">Más información — Adultos</a></div>
 
 ---
+## Inscríbase, pague y comience su curso
+
+1. Elija su curso para abrir la página de inscripción.
+2. Cree su cuenta de estudiante y complete el pago en el portal del curso.
+3. Acceda al curso después del pago. Guarde sus datos de acceso para continuar más tarde.
+
+Revise el total antes de pagar. El pago del curso de mejora del conductor de 8 horas actualmente incluye 3.5% de procesamiento ($3.33): **$98.33 en total**. Confirme los cargos de otros programas al pagar.
+
+
 ## ¿Listo para comenzar?
 
 Elija su curso y complete la inscripción mediante el sistema de aprendizaje en línea de Abigail's Driving School.

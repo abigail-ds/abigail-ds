@@ -8,7 +8,7 @@ export const onClientEntry = () => {
     if (url.protocol === "tel:") name = "call_click"
     else if (url.protocol === "sms:") name = "text_click"
     else if (url.hostname.endsWith(".setmore.com")) name = "booking_click"
-    else if (link.classList.contains("course-enroll-button") || link.classList.contains("popular-course-enroll")) name = "course_enrollment_click"
+    else if (link.classList.contains("course-enroll-button") || link.classList.contains("popular-course-enroll")) name = url.origin === window.location.origin ? "program_selection_click" : "course_enrollment_click"
     else if (link.classList.contains("course-learn-button")) name = "course_details_click"
     if (!name) return
     const parameters = {

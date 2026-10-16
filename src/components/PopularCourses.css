@@ -33,6 +33,18 @@
   text-align: left;
 }
 
+.driver-improvement-offer {
+  background: #eef8f5;
+  border: 2px solid #007d73;
+  border-radius: 8px;
+  padding: 24px;
+  margin: 0 auto 30px;
+  max-width: 760px;
+}
+.driver-improvement-offer h3 { color: #00434a; margin-top: 0; }
+.driver-improvement-offer .popular-course-enroll { max-width: 400px; margin: 16px auto; font-size: 1.5rem; }
+.driver-improvement-offer > a:last-child { text-decoration: underline; color: #007d73; }
+
 .popular-course-card {
   border: 1px solid #cfe4e0;
   border-radius: 8px;

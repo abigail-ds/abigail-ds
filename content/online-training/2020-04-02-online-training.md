@@ -8,14 +8,6 @@ Complete your training online with Abigail's Driving School. Choose the program 
 
 **Not sure which course to choose?** [Call 804-256-3147 (press 1 for English)](tel:+18042563147) or [text us](sms:+18048237730), 9 a.m.–4 p.m. Have your DMV or court notice ready so we can help you identify the right program.
 
-## Register, pay, and start your course
-
-1. Select your course below to open its registration page.
-2. Create your student account and complete payment in the course portal.
-3. Access your course after payment. Save your login details to return and continue later.
-
-Review the final total before paying. The 8-hour Driver Improvement checkout currently includes a 3.5% processing fee ($3.33), for a total of **$98.33**. Confirm any fees for other programs at their checkout.
-
 ## 8HR Online Driver Improvement
 
 Complete the 8-hour Driver Improvement Clinic online at your convenience.
@@ -52,11 +44,20 @@ A 12-hour program consisting of the 8-hour Driver Improvement Clinic plus the 4-
 
 A 4-hour RADEP course for individuals who have been referred for reckless or aggressive driving and have already completed the required 8-hour Driver Improvement course.
 
-**$90**
+**Tuition: $90 · Processing: $3.15 · Checkout total: $93.15**
 
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/4hr-radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Enroll Now</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/radep?utm_source=abigailsdrivingschool.com&amp;utm_medium=website&amp;utm_campaign=course_catalog&amp;utm_content=radep_4_hour">Learn More</a></div>
 
 ---
+
+## Compare 30-hour driver education
+
+| Option | Advertised price | Features |
+| --- | --- | --- |
+| National Driver Training | $130; review the total in its portal | Videos, practice tests and parent/teen component |
+| EZ Drive | $200 + $7 processing = $207 | Games, videos and audio read-along; teen and adult options |
+
+Both options provide online classroom education. Behind-the-wheel training is separate. Review eligibility and course language before paying.
 
 ## 30HR Virginia Online Driver's Education — National Driver Training
 
@@ -72,7 +73,7 @@ The program includes the required online coursework and the 90-minute parent/tee
 
 ## 30HR Virginia Online Driver’s Education — EZ Drive
 
-**$200 · Interactive option**
+**Tuition: $200 · Processing: $7 · Checkout total: $207**
 
 Choose interactive online driver education with games, videos and audio read-along. Select the teen or adult program that matches your eligibility. This is online classroom education; behind-the-wheel training is separate.
 
@@ -83,6 +84,15 @@ Review course requirements, available course languages and the final checkout to
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/va-drivers-ed?audience=adult">Enroll Now — Adult</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/adult-driver-education">Learn More — Adult</a></div>
 
 ---
+## Register, pay, and start your course
+
+1. Select your course below to open its registration page.
+2. Create your student account and complete payment in the course portal.
+3. Access your course after payment. Save your login details to return and continue later.
+
+Review the final total before paying. The 8-hour Driver Improvement checkout currently includes a 3.5% processing fee ($3.33), for a total of **$98.33**. Confirm any fees for other programs at their checkout.
+
+
 ## Ready to Get Started?
 
 Select your course and complete your registration through Abigail's Driving School's online learning system.

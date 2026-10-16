@@ -9,6 +9,13 @@ export default function ProgramPaths() {
     <p className="popular-courses-kicker">{spanish ? "ELIJA SU SIGUIENTE PASO" : "CHOOSE YOUR NEXT STEP"}</p>
     <h2 id="program-paths-title">{spanish ? "Cursos en línea, clases presenciales o manejo práctico" : "Online courses, in-person classes or behind-the-wheel"}</h2>
     <p className="popular-courses-intro">{spanish ? "Elija el tipo de formación que necesita para ver las opciones y registrarse." : "Choose the type of training you need to see your options and sign up."}</p>
+    <article className="driver-improvement-offer">
+      <h3>{spanish ? "Mejora del conductor en línea de 8 horas" : "8-Hour Online Driver Improvement"}</h3>
+      <p>{spanish ? "A su propio ritmo. Confirme que este curso coincide con su requisito del DMV o tribunal." : "Learn at your own pace. Confirm this course matches your DMV or court requirement."}</p>
+      <p><strong>{spanish ? "$95 + $3.33 de procesamiento · $98.33 en total" : "$95 + $3.33 processing · $98.33 total"}</strong></p>
+      <a className="popular-course-enroll" href="https://online.abigailsdrivingschool.com/enroll/va-driver-improvement?utm_source=abigailsdrivingschool.com&utm_medium=website&utm_campaign=homepage_courses&utm_content=driver_improvement">{spanish ? "INSCRÍBASE AHORA" : "ENROLL NOW"}</a>
+      <Link to="/online-training">{spanish ? "Comparar todos los cursos" : "Compare all courses"}</Link>
+    </article>
     <div className="popular-courses-grid program-paths-grid">
       <article className="popular-course-card">
         <h3>{spanish ? "Cursos en línea" : "Online Courses"}</h3>
