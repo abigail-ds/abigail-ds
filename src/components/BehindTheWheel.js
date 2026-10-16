@@ -15,12 +15,12 @@ const BehindTheWheel = ({ fullPage = false }) => {
   ]
   const courses = spanish
     ? [
-        ["Clase privada de manejo", "$75", "60 minutos de instrucción individual para adultos y adolescentes elegibles con permiso válido. Práctica de control del vehículo, estacionamiento y manejo en carretera. No sustituye el programa completo de educación vial."],
+        ["Clase privada de manejo", "$80", "60 minutos de instrucción individual para adultos y adolescentes elegibles con permiso válido. Práctica de control del vehículo, estacionamiento y manejo en carretera. No sustituye el programa completo de educación vial."],
         ["Manejo práctico: teoría completada", "$425", "Precio total por estudiante. Para estudiantes elegibles que ya completaron educación vial teórica aprobada: siete períodos de manejo y siete de observación, de 50 minutos cada uno. Se coordinan siete visitas de 100 minutos cuando corresponda."],
         ["Adultos: teoría en línea + manejo", "$549", "Precio total del paquete completo. Incluye educación vial teórica en línea y el programa de manejo y observación. La elegibilidad para la exención de adultos y los requisitos de examen se revisan antes de inscribirse."],
       ]
     : [
-        ["Private driving lesson", "$75", "60 minutes of one-to-one instruction for adults and eligible teens with a valid learner permit. Practice vehicle control, parking and road driving. Private lessons are separate from the complete driver-education program."],
+        ["Private driving lesson", "$80", "60 minutes of one-to-one instruction for adults and eligible teens with a valid learner permit. Practice vehicle control, parking and road driving. Private lessons are separate from the complete driver-education program."],
         ["Behind-the-wheel: classroom completed", "$425", "Full-program price per student. For eligible students who already completed approved classroom driver education: seven driving periods and seven observation periods, each 50 minutes. Seven 100-minute visits are coordinated where applicable."],
         ["Adults: online class + behind-the-wheel", "$549", "Complete-package price. Includes online classroom driver education and the driving and observation program. Adult-waiver eligibility and required testing arrangements are reviewed before enrollment."],
       ]
