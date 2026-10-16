@@ -84,6 +84,17 @@ Review course requirements, available course languages and the final checkout to
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/va-drivers-ed?audience=adult">Enroll Now — Adult</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/adult-driver-education">Learn More — Adult</a></div>
 
 ---
+
+## Book your driver-education final exam
+
+**Free for students enrolled in online driver education.** One student per one-hour appointment on Mondays at **5 p.m. or 6 p.m. Eastern**, subject to availability. First dates: October 19 and 26, 2026.
+
+**Location:** 6802 Paragon Pl, Suite 410, Richmond, VA 23230. Complete your online coursework and confirm exam eligibility with the school before attending. This booking is for the classroom final exam.
+
+<div class="course-actions"><a class="course-enroll-button" href="https://abigailsdrivingschoolonline.setmore.com/classes/65726c45-afb4-445e-94c1-1074d5015af0">Book Final Exam</a></div>
+
+Dates with existing commitments are unavailable. If you cannot find a date, call 804-256-3147 to arrange your exam.
+
 ## Register, pay, and start your course
 
 1. Select your course below to open its registration page.

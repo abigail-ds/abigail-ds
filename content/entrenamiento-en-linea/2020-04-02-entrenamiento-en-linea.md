@@ -84,6 +84,17 @@ Revise los requisitos, los idiomas disponibles del curso y el total al pagar. Ab
 <div class="course-actions"><a class="course-enroll-button" href="https://online.abigailsdrivingschool.com/enroll/va-drivers-ed?audience=adult">Inscríbase — Adultos</a> <a class="course-learn-button" href="https://online.abigailsdrivingschool.com/courses/adult-driver-education">Más información — Adultos</a></div>
 
 ---
+
+## Reserve su examen final de educación vial
+
+**Sin costo para estudiantes inscritos en educación vial en línea.** Citas individuales de una hora los lunes a las **5 p. m. o 6 p. m., hora del Este**, según disponibilidad. Primeras fechas: 19 y 26 de octubre de 2026.
+
+**Lugar:** 6802 Paragon Pl, Suite 410, Richmond, VA 23230. Complete su curso en línea y confirme con la escuela que puede presentar el examen antes de asistir. Esta reserva es para el examen final del curso teórico.
+
+<div class="course-actions"><a class="course-enroll-button" href="https://abigailsdrivingschoolonline.setmore.com/classes/65726c45-afb4-445e-94c1-1074d5015af0">Reservar examen final</a></div>
+
+Las fechas ocupadas no están disponibles. Si no encuentra una fecha, llame al 804-256-3147 para coordinar su examen.
+
 ## Inscríbase, pague y comience su curso
 
 1. Elija su curso para abrir la página de inscripción.
