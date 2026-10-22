@@ -67,6 +67,8 @@ const DriversImprovement = ({ intl }) => {
             ? data.driversImp.frontmatter.string
             : data.driversImpEs.frontmatter.string
         }
+        enrollUrl="https://online.abigailsdrivingschool.com/enroll/va-driver-improvement"
+        enrollLabel={intl.formatMessage({ id: "button.enroll" })}
       />
     </Layout>
   )

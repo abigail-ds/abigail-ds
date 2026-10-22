@@ -8,7 +8,8 @@
       "drivers_manual": "CURSO DEL MANUAL DEL CONDUCTOR",
       "registration": "REGISTRO",
       "faq": "PREGUNTAS",
-      "training": "PROGRAMAS EN LÍNEA"
+      "training": "PROGRAMAS EN LÍNEA",
+      "resources": "RECURSOS"
     },
     "herotitle": "Cursos de manejo que se adaptan a sus necesidades—en inglés y español",
     "title": "Abigail's Driving School",
@@ -21,6 +22,13 @@
       "caption": "¿Pregunta? Llamanos"
     },
     "mission": "Vision: To become a household name in Virginia by ensuring each student can drive safely drive out on the streets and the in real world while facing different variable and dangers from their surrounding environment. Mission: To provide a learning friendly environment that consists of decreasing anxiety through practice, reinforcement and achieving customized goals.",
+    "reviews": {
+      "kicker": "CALIFICADO POR NUESTROS ESTUDIANTES",
+      "title": "Lo que dicen nuestros estudiantes",
+      "badge_text": "5.0 en Google",
+      "badge_label": "Lea nuestras reseñas de Google (se abre en una pestaña nueva)",
+      "cta": "¿Tuvo una buena experiencia? Déjenos una reseña en Google"
+    },
     "testimonials": {
       "testimonial_title": "Testimonios",
       "slide_content1": {
@@ -129,7 +137,8 @@
     "service_area": "Área de servicio"
   },
   "button": {
-    "register": "Registrarse"
+    "register": "Registrarse",
+    "enroll": "Inscríbete"
   },
   "news": {
     "title": "Noticias"

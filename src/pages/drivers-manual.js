@@ -70,6 +70,8 @@ const DriversManual = ({ intl }) => {
             ? data.driversManual.frontmatter.string
             : data.driversManualEs.frontmatter.string
         }
+        enrollUrl="https://online.abigailsdrivingschool.com/enroll/driver-manual"
+        enrollLabel={intl.formatMessage({ id: "button.enroll" })}
       />
     </Layout>
   )

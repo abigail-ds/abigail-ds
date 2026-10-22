@@ -8,7 +8,8 @@
       "drivers_manual": "DRIVER'S MANUAL COURSE",
       "registration": "REGISTRATION",
       "faq": "FAQ",
-      "training": "ONLINE PROGRAMS"
+      "training": "ONLINE PROGRAMS",
+      "resources": "RESOURCES"
     },
     "herotitle": "Driving courses that fit your needs—in English and Spanish",
     "title": "Abigail's Driving School - English",
@@ -21,6 +22,13 @@
       "caption": "Question? Give us a call"
     },
     "mission": "Vision: To become a household name in Virginia by ensuring each student can drive safely drive out on the streets and the in real world while facing different variable and dangers from their surrounding environment. Mission: To provide a learning friendly environment that consists of decreasing anxiety through practice, reinforcement and achieving customized goals.",
+    "reviews": {
+      "kicker": "RATED BY OUR STUDENTS",
+      "title": "What students say about Abigail's",
+      "badge_text": "5.0 on Google",
+      "badge_label": "Read our Google reviews (opens in a new tab)",
+      "cta": "Had a good experience? Leave us a Google review"
+    },
     "testimonials": {
       "testimonial_title": "Testimonials",
       "slide_content1": {
@@ -129,7 +137,8 @@
     "service_area": "Service Area"
   },
   "button": {
-    "register": "Register"
+    "register": "Register",
+    "enroll": "Enroll Now"
   },
   "news": {
     "title": "News"
