@@ -10,18 +10,21 @@ const BehindTheWheel = ({ fullPage = false }) => {
   const bookingUrl = "https://abigailsdrivingschoolonline.setmore.com/mohamed"
   const serviceIds = [
     "e854ffd1-0270-404b-b6c0-cbe62fea5d1b",
+    "8a692761-fa11-4d10-9653-ad927d7cb175",
     "c4b3e5a6-6c5c-480d-92ca-f23f3471e1c5",
     "a40ce5e1-4e93-415b-a764-6c113a5f7b6a",
   ]
   const courses = spanish
     ? [
         ["Clase privada de manejo", "$80", "60 minutos de instrucción individual para adultos y adolescentes elegibles con permiso válido. Práctica de control del vehículo, estacionamiento y manejo en carretera. No sustituye el programa completo de educación vial."],
-        ["Manejo práctico: teoría completada", "$425", "Precio total por estudiante. Para estudiantes elegibles que ya completaron educación vial teórica aprobada: siete períodos de manejo y siete de observación, de 50 minutos cada uno. Se coordinan siete visitas de 100 minutos cuando corresponda."],
+        ["Paquete de 5 lecciones de manejo", "$375", "Cinco lecciones privadas de 60 minutos a $75 por hora, nuestra mejor tarifa por lección. Reserve su primera visita en Setmore y luego reserve las sesiones restantes en los horarios disponibles."],
+        ["Programa de manejo práctico — 7 sesiones", "$425", "Precio total por estudiante. Para estudiantes elegibles que ya completaron educación vial teórica aprobada: siete períodos de manejo y siete de observación, de 50 minutos cada uno. Se coordinan siete visitas de 100 minutos cuando corresponda."],
         ["Adultos: teoría en línea + manejo", "$549", "Precio total del paquete completo. Incluye educación vial teórica en línea y el programa de manejo y observación. La elegibilidad para la exención de adultos y los requisitos de examen se revisan antes de inscribirse."],
       ]
     : [
         ["Private driving lesson", "$80", "60 minutes of one-to-one instruction for adults and eligible teens with a valid learner permit. Practice vehicle control, parking and road driving. Private lessons are separate from the complete driver-education program."],
-        ["Behind-the-wheel: classroom completed", "$425", "Full-program price per student. For eligible students who already completed approved classroom driver education: seven driving periods and seven observation periods, each 50 minutes. Seven 100-minute visits are coordinated where applicable."],
+        ["5 Driving Lessons Package", "$375", "Five 60-minute private lessons at $75 per hour — our best per-lesson rate. Book your first visit in Setmore, then book the remaining sessions from open slots."],
+        ["Behind-the-Wheel Program — 7 Sessions", "$425", "Full-program price per student. For eligible students who already completed approved classroom driver education: seven driving periods and seven observation periods, each 50 minutes. Seven 100-minute visits are coordinated where applicable."],
         ["Adults: online class + behind-the-wheel", "$549", "Complete-package price. Includes online classroom driver education and the driving and observation program. Adult-waiver eligibility and required testing arrangements are reviewed before enrollment."],
       ]
   return (
@@ -32,17 +35,17 @@ const BehindTheWheel = ({ fullPage = false }) => {
         {spanish ? "¿Ya completó la teoría de educación vial? Prepare su siguiente paso con horarios por la mañana y algunas tardes." : "Already completed classroom driver education? Plan your next step with morning and selected evening availability."}
       </p>
       <p className="popular-courses-intro" role="note">
-        <strong>{spanish ? "Reservas abiertas para el 2 de noviembre de 2026 en adelante." : "Bookings are open for November 2, 2026 onward."}</strong>{" "}
+        <strong>{spanish ? "Las reservas están abiertas ahora." : "Booking is open now."}</strong>{" "}
         {spanish ? "Elija su programa y reserve su primera visita en Setmore. Confirmaremos los requisitos y coordinaremos las visitas restantes del programa." : "Choose your program and book your first visit in Setmore. We will confirm eligibility and coordinate the remaining program visits."}
       </p>
       <div className="popular-courses-grid">
         {courses.map(([name, price, detail], index) => (
           <article className="popular-course-card" key={name}>
             <p className="popular-course-price">{price}</p>
-            {index === 2 && <p className="popular-courses-kicker">{spanish ? "PAQUETE OPCIONAL" : "OPTIONAL BUNDLE"}</p>}
+            {index === 3 && <p className="popular-courses-kicker">{spanish ? "PAQUETE OPCIONAL" : "OPTIONAL BUNDLE"}</p>}
             <h3>{name}</h3>
             <p>{detail}</p>
-            {index === 2 && <p>{spanish ? "Después de reservar, comuníquese con nosotros para organizar su inscripción en la teoría en línea. Reservar en Setmore no crea una cuenta del curso; la teoría debe completarse antes de la primera visita de manejo." : "After booking, contact us to arrange online classroom enrollment. Your Setmore booking does not create a course account; classroom study must be completed before your first driving visit."}</p>}
+            {index === 3 && <p>{spanish ? "Después de reservar, comuníquese con nosotros para organizar su inscripción en la teoría en línea. Reservar en Setmore no crea una cuenta del curso; la teoría debe completarse antes de la primera visita de manejo." : "After booking, contact us to arrange online classroom enrollment. Your Setmore booking does not create a course account; classroom study must be completed before your first driving visit."}</p>}
             <a className="popular-course-enroll"
               href={`${bookingUrl}?step=time-slot&products=${serviceIds[index]}&type=service&staff=r0c7f1634164174507&staffSelected=false`}
               aria-label={spanish ? `Reservar: ${name}` : `Sign up: ${name}`}>

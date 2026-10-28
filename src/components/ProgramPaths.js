@@ -31,7 +31,7 @@ export default function ProgramPaths() {
       </article>
       <article className="popular-course-card">
         <h3>{spanish ? "Manejo práctico" : "Behind-the-Wheel"}</h3>
-        <p>{spanish ? "Clases privadas de $80 y el programa de manejo práctico de $425. Vea también el paquete opcional para adultos de $549. Elija su opción y reserve su primera visita en Setmore desde el 2 de noviembre de 2026." : "$80 private driving lessons and the $425 behind-the-wheel program. Also explore the optional $549 adult package. Choose your option and book your first visit in Setmore from November 2, 2026."}</p>
+        <p>{spanish ? "Clases privadas de $80 y el programa de manejo práctico de $425. Vea también el paquete opcional para adultos de $549. Elija su opción y reserve su primera visita en Setmore hoy." : "$80 private driving lessons and the $425 behind-the-wheel program. Also explore the optional $549 adult package. Choose your option and book your first visit in Setmore today."}</p>
         <Link className="popular-course-enroll" to="/behind-the-wheel">{spanish ? "VER OPCIONES DE MANEJO" : "VIEW DRIVING OPTIONS"}</Link>
         <ProgramHelp program="behind_the_wheel" />
       </article>
