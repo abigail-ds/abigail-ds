@@ -114,8 +114,8 @@ const Faq = ({ intl }) => {
           <div className="faq-contact-links">
             <a href={`tel:${contact.en_phone}`}>English: {contact.en_phone}</a>
             <a href={`tel:${contact.es_phone}`}>Español: {contact.es_phone}</a>
-            <a href="mailto:abigailsInstructor@gmail.com">
-              abigailsInstructor@gmail.com
+            <a href="mailto:abigailsinstructor@gmail.com">
+              abigailsinstructor@gmail.com
             </a>
           </div>
           {contact.contact_hours && (

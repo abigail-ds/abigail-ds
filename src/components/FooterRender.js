@@ -62,7 +62,7 @@ const FooterRender = ({ props, intl }) => {
                 <span>
                   <b>{intl.formatMessage({ id: "contact.email" })}: </b>
                 </span>
-                abigailsInstructor@gmail.com
+                abigailsinstructor@gmail.com
               </li>
               <li>
                 <span>

@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 
 export default function BookingPolicy() {
   const es = useIntl().locale === "es"
-  return <Layout><SEO lang={es ? "es" : "en"} title={es ? "Política de reservas" : "Booking policy"} /><main style={{maxWidth: 800, margin: "40px auto", padding: 24}}>
+  return <Layout><SEO lang={es ? "es" : "en"} title={es ? "Política de reservas" : "Booking policy"} description={es ? "Cancele o cambie su cita en Setmore con al menos 24 horas de anticipación. Para pagos o reembolsos, comuníquese con la escuela antes de reservar." : "Cancel or reschedule your Setmore appointment at least 24 hours before it starts. For payment or refund questions, contact the school before booking."} /><main style={{maxWidth: 800, margin: "40px auto", padding: 24}}>
     <h1>{es ? "Política de reservas" : "Booking policy"}</h1>
     <p>{es ? "Cancele o cambie su cita en Setmore con al menos 24 horas de anticipación. Para solicitar ayuda dentro de las 24 horas, comuníquese con la escuela." : "Cancel or reschedule your Setmore appointment at least 24 hours before its start time. For assistance within 24 hours, contact the school."}</p>
     <p>{es ? "Si tiene preguntas sobre pagos o reembolsos, comuníquese con la escuela antes de reservar." : "For payment or refund questions, contact the school before booking."}</p>

@@ -18,7 +18,7 @@ const businessStructuredData = {
   description:
     "Virginia DMV-licensed driving school serving Richmond, Henrico, and Chesterfield with English and Spanish support.",
   telephone: "+1-804-256-3147",
-  email: "abigailsInstructor@gmail.com",
+  email: "abigailsinstructor@gmail.com",
   foundingDate: "2012",
   address: {
     "@type": "PostalAddress",
@@ -36,12 +36,63 @@ const businessStructuredData = {
       name: "Chesterfield County, Virginia",
     },
   ],
-  openingHoursSpecification: [
+    openingHoursSpecification: [
     {
       "@type": "OpeningHoursSpecification",
-      dayOfWeek: ["https://schema.org/Tuesday", "https://schema.org/Friday"],
+      dayOfWeek: ["https://schema.org/Monday"],
+      opens: "06:00",
+      closes: "09:00",
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["https://schema.org/Monday"],
+      opens: "16:00",
+      closes: "21:00",
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["https://schema.org/Tuesday"],
+      opens: "06:00",
+      closes: "09:00",
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["https://schema.org/Tuesday"],
       opens: "10:00",
       closes: "13:00",
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["https://schema.org/Tuesday"],
+      opens: "19:00",
+      closes: "21:00",
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["https://schema.org/Friday"],
+      opens: "06:00",
+      closes: "09:00",
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["https://schema.org/Friday"],
+      opens: "10:00",
+      closes: "13:00",
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["https://schema.org/Friday"],
+      opens: "18:00",
+      closes: "21:00",
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: [
+        "https://schema.org/Saturday",
+        "https://schema.org/Sunday",
+      ],
+      opens: "09:00",
+      closes: "18:00",
     },
   ],
   contactPoint: [
@@ -103,12 +154,20 @@ function SEO({ description, lang, meta, noindex, title }) {
         { property: "og:type", content: "website" },
         { property: "og:url", content: canonicalUrl },
         {
+          property: "og:image",
+          content: "https://abigailsdrivingschool.com/icons/icon-512x512.png",
+        },
+        {
           property: "og:locale",
           content: lang === "es" ? "es_US" : "en_US",
         },
-        { name: "twitter:card", content: "summary" },
+        { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:title", content: fullTitle },
         { name: "twitter:description", content: metaDescription },
+        {
+          name: "twitter:image",
+          content: "https://abigailsdrivingschool.com/icons/icon-512x512.png",
+        },
       ]
         .concat(noindex ? [{ name: "robots", content: "noindex, nofollow" }] : [])
         .concat(meta)}
