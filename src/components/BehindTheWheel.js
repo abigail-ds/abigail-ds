@@ -56,7 +56,7 @@ const BehindTheWheel = ({ fullPage = false }) => {
         ))}
       </div>
       <p className="popular-courses-intro">
-        {spanish ? "Horario: lunes a viernes, 6–9 a. m.; lunes, 4–9 p. m.; martes, 7–9 p. m.; miércoles a viernes, 6–9 p. m. Sábados y domingos alternos, 9 a. m.–6 p. m., comenzando el 7–8 de noviembre. Horario del este. La disponibilidad depende del programa, emparejamiento de estudiantes y lugar de encuentro." : "Availability: Monday–Friday, 6–9 a.m.; Monday, 4–9 p.m.; Tuesday, 7–9 p.m.; Wednesday–Friday, 6–9 p.m. Alternating Saturdays and Sundays, 9 a.m.–6 p.m., starting November 7–8. All times Eastern. Scheduling depends on the program, student pairing and meeting location."}
+        {spanish ? "Horario: lunes, martes y viernes, 6–9 a. m.; lunes, 4–9 p. m.; martes, 7–9 p. m.; viernes, 6–9 p. m. Sábados y domingos alternos, 9 a. m.–6 p. m., comenzando el 7–8 de noviembre. Horario del este. La disponibilidad depende del programa, emparejamiento de estudiantes y lugar de encuentro." : "Availability: Monday, Tuesday and Friday, 6–9 a.m.; Monday, 4–9 p.m.; Tuesday, 7–9 p.m.; Friday, 6–9 p.m. Alternating Saturdays and Sundays, 9 a.m.–6 p.m., starting November 7–8. All times Eastern. Scheduling depends on the program, student pairing and meeting location."}
       </p>
       {fullPage && <>
         <h2>{spanish ? "Cómo comenzar" : "How to get started"}</h2>
