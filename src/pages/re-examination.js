@@ -9,18 +9,18 @@ export default function ReExaminationPage() {
   const es = intl.locale === "es"
   const title = es ? "Clases presenciales" : "In-Person Classes"
   const options = es ? [
-    ["Clase privada entre semana", "$175", "Inglés o español", "Lunes a viernes, 9 a. m.–5 p. m.", "Reservar clase entre semana", "Zuhra"],
-    ["Clase privada de fin de semana", "$200", "Español", "Sábado o domingo, desde las 10 a. m.", "Reservar clase de fin de semana", "Ileana"],
+    ["Clase entre semana", "$175", "Inglés o español", "Lunes a viernes, 9 a. m.–5 p. m.", "Reservar clase entre semana", "Zuhra"],
+    ["Clase de fin de semana", "$250", "Español", "Sábado o domingo, desde las 10 a. m.", "Reservar clase de fin de semana", "Ileana"],
   ] : [
-    ["Weekday private class", "$175", "English or Spanish", "Monday–Friday, 9 a.m.–5 p.m.", "Book weekday class", "Zuhra"],
-    ["Weekend private class", "$200", "Spanish", "Saturday or Sunday, starting at 10 a.m.", "Book weekend class", "Ileana"],
+    ["Weekday class", "$175", "English or Spanish", "Monday–Friday, 9 a.m.–5 p.m.", "Book weekday class", "Zuhra"],
+    ["Weekend class", "$250", "Spanish", "Saturday or Sunday, starting at 10 a.m.", "Book weekend class", "Ileana"],
   ]
   const bookingLinks = {
     Zuhra: "https://abigailsdrivingschoolonline.setmore.com/services/16ca08e8-654e-48d2-8d00-71baa3d5bb15",
     Ileana: "https://abigailsdrivingschoolonline.setmore.com/services/bbe15b9f-3d47-4689-ad85-29f7b2d0fce1",
   }
   return <Layout>
-    <SEO lang={intl.locale} title={title} description={es ? "Clases presenciales de mejora del conductor y reexamen en Richmond. Compare opciones privadas entre semana y los fines de semana." : "In-person Driver Improvement and Re-Examination classes in Richmond. Compare weekday and weekend private class options."} />
+    <SEO lang={intl.locale} title={title} description={es ? "Clases presenciales de mejora del conductor y reexamen en Richmond. Compare opciones entre semana y los fines de semana." : "In-person Driver Improvement and Re-Examination classes in Richmond. Compare weekday and weekend class options."} />
     <section className="popular-courses" aria-labelledby="re-examination-title">
       <p className="popular-courses-kicker">RICHMOND, VA</p>
       <h1 id="re-examination-title">{title}</h1>
@@ -38,7 +38,7 @@ export default function ReExaminationPage() {
           <a className="popular-course-enroll" href={instructor === "online" ? "https://online.abigailsdrivingschool.com/enroll/driver-manual" : bookingLinks[instructor]}>{action}</a>
         </article>)}
       </div>
-      <h2 style={{ marginTop: "40px" }}>{es ? "Clases privadas por cita" : "Private classes by appointment"}</h2>
+      <h2 style={{ marginTop: "40px" }}>{es ? "Clases por cita" : "Classes by appointment"}</h2>
       <p className="popular-courses-intro">{es ? "El instructor enseña en 6802 Paragon Pl, Suite 410, Richmond, VA 23230. Elija su opción de clase y reserve una fecha disponible en Setmore. Comuníquese con nosotros si necesita ayuda con los requisitos o el pago." : "The instructor teaches at 6802 Paragon Pl, Suite 410, Richmond, VA 23230. Choose your class option and book an available date in Setmore. Contact us if you need help with eligibility or payment."}</p>
       <p className="popular-courses-intro">{es ? "¿Menor de 18 años? Comuníquese con nosotros antes de inscribirse para revisar su comprobante de educación vial teórica. El curso debe completarse después del tercer intento fallido. Este curso es para el examen de conocimientos." : "Under 18? Contact us before enrolling so we can review your classroom driver-education completion. The course must be completed after your third failed attempt. This course is for the knowledge exam."} <a href="https://www.dmv.virginia.gov/licenses-ids/training/three-exam-failures">{es ? "Ver requisitos del DMV" : "See DMV requirements"}</a></p>
       <div className="popular-courses-footer">
