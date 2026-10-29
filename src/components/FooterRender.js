@@ -98,6 +98,31 @@ const FooterRender = ({ props, intl }) => {
                   @AbigailsDrivingSchool
                 </a>
               </li>
+              <li>
+                <a
+                  style={footerStyles}
+                  className="text-lighten-3"
+                  href="https://m.me/636489813077282"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <svg
+                    fill="#50E3C2"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    width="20px"
+                    height="20px"
+                  >
+                    <circle cx="12" cy="11" r="9" />
+                    <polygon points="7,19 5,22 9.5,19.5" />
+                    <polygon
+                      fill="#00434a"
+                      points="13.8,6.5 10.2,13 12.3,13 10.4,17.5 14.6,10.5 12.4,10.5"
+                    />
+                  </svg>{" "}
+                  {intl.locale === "es" ? "Escríbanos por Messenger" : "Message us on Messenger"}
+                </a>
+              </li>
             </div>
           </div>
           <div className="col s12 m6">
