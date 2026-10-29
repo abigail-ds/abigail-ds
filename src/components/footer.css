@@ -13,12 +13,20 @@ footer .contact-list a {
 
 footer .social-media {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 footer .social-media li {
   padding-right: 20px;
+  padding-bottom: 10px;
   list-style: none;
+}
+
+footer .social-media li a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
 }
 
 footer .page-footer .container > .row {
