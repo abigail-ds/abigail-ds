@@ -11,14 +11,14 @@ const DriversImprovement = ({ intl }) => {
   const seo =
     intl.locale === "es"
       ? {
-          title: "Curso de mejora del conductor de Virginia de 8 horas",
+          title: "Curso de Mejora del Conductor en Richmond, VA | Clínica de 8 horas",
           description:
-            "Curso en línea de mejora del conductor de Virginia de 8 horas para estudiantes elegibles por DMV, tribunal, seguro o asistencia voluntaria.",
+            "Clínica en línea de mejora del conductor de 8 horas en Richmond, VA para requisitos del DMV, la corte, el seguro o asistencia voluntaria. Con licencia del DMV; la finalización se reporta en 24 horas.",
         }
       : {
-          title: "Virginia 8-Hour Driver Improvement Clinic",
+          title: "Driver Improvement Clinic in Richmond, VA — 8-Hour Course",
           description:
-            "Virginia online 8-hour Driver Improvement Clinic for eligible DMV, court, insurance, and voluntary attendance.",
+            "Online 8-hour Driver Improvement Clinic in Richmond, VA for DMV, court, insurance, and voluntary attendance. DMV-licensed; completion reported to the DMV within 24 hours.",
         }
   const data = useStaticQuery(graphql`
     query {
