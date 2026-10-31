@@ -144,6 +144,9 @@ const Header = ({ siteTitle, props }) => {
               training={intl.formatMessage({
                 id: "home.menu_items.training",
               })}
+              resources={intl.formatMessage({
+                id: "home.menu_items.resources",
+              })}
             />
             <div
               style={{ marginTop: "10px" }}

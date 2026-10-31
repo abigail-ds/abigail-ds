@@ -13,6 +13,7 @@ const NavMenu = props => {
     <Link to="/online-training">{props.training}</Link>
     <Link to="/re-examination">{spanish ? "CLASES PRESENCIALES" : "IN-PERSON CLASSES"}</Link>
     <Link to="/behind-the-wheel">{spanish ? "MANEJO PRÁCTICO" : "BEHIND THE WHEEL"}</Link>
+    <Link to="/resources">{props.resources}</Link>
     <Link className="btn" to="/news">
       News
     </Link>
