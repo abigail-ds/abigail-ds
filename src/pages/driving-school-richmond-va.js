@@ -43,31 +43,31 @@ const RichmondDrivingSchoolPage = () => {
         courses: [
           {
             name: "Clínica de mejora del conductor de 8 horas",
-            price: "$100",
+            price: "$98.33",
             description:
               "Para ciertos requisitos del DMV, del tribunal, puntos de manejo seguro o posibles beneficios del seguro.",
           },
           {
             name: "Curso del Manual del Conductor 3X Fail",
-            price: "$149",
+            price: "$154.22",
             description:
               "Curso de ocho horas para estudiantes que reprobaron tres veces el examen de conocimientos de Virginia.",
           },
           {
             name: "Programa RADEP de 12 horas",
-            price: "$180",
+            price: "$186.30",
             description:
               "Combina la clínica de mejora de ocho horas con cuatro horas de educación sobre conducción temeraria o agresiva.",
           },
           {
             name: "Curso RADEP de 4 horas",
-            price: "$90",
+            price: "$93.15",
             description:
               "Para referencias calificadas que ya completaron la clínica requerida de ocho horas.",
           },
           {
             name: "Educación vial en línea de 30 horas",
-            price: "$150",
+            price: "$207",
             description:
               "Programa en línea de Virginia con el componente para padres y adolescentes cuando corresponde.",
           },
@@ -133,31 +133,31 @@ const RichmondDrivingSchoolPage = () => {
         courses: [
           {
             name: "8-Hour Driver Improvement Clinic",
-            price: "$100",
+            price: "$98.33",
             description:
               "For certain DMV or court requirements, safe-driving points, or possible insurance benefits.",
           },
           {
             name: "3X Fail Driver's Manual Course",
-            price: "$149",
+            price: "$154.22",
             description:
               "An eight-hour course for students who failed the Virginia knowledge exam three times.",
           },
           {
             name: "12-Hour RADEP Program",
-            price: "$180",
+            price: "$186.30",
             description:
               "Combines the eight-hour Driver Improvement Clinic with four hours of reckless or aggressive driving education.",
           },
           {
             name: "4-Hour RADEP Course",
-            price: "$90",
+            price: "$93.15",
             description:
               "For qualifying referrals who have already completed the required eight-hour clinic.",
           },
           {
             name: "30-Hour Online Driver Education",
-            price: "$150",
+            price: "$207",
             description:
               "Virginia online driver education with the parent and teen component when applicable.",
           },
