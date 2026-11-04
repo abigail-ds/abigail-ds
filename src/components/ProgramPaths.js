@@ -25,7 +25,7 @@ export default function ProgramPaths() {
       </article>
       <article className="popular-course-card">
         <h3>{spanish ? "Clases privadas presenciales" : "Private In-Person Classes"}</h3>
-        <p>{spanish ? "Curso de 8 horas del Manual del Conductor para estudiantes que reprobaron el examen de conocimientos tres veces. $175 entre semana en inglés o español; $200 los fines de semana en español. Por cita en Richmond." : "Eight-hour Driver’s Manual course for students who failed the knowledge exam three times. $175 weekday classes in English or Spanish; $200 weekend classes in Spanish. By appointment in Richmond."}</p>
+        <p>{spanish ? "Curso de 8 horas del Manual del Conductor para estudiantes que reprobaron el examen de conocimientos tres veces. $175 entre semana en inglés o español; $250 los fines de semana en español. Por cita en Richmond." : "Eight-hour Driver’s Manual course for students who failed the knowledge exam three times. $175 weekday classes in English or Spanish; $250 weekend classes in Spanish. By appointment in Richmond."}</p>
         <Link className="popular-course-enroll" to="/re-examination">{spanish ? "VER CLASES PRESENCIALES" : "VIEW IN-PERSON CLASSES"}</Link>
         <ProgramHelp program="re_examination" />
       </article>
