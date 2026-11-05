@@ -1,132 +1,149 @@
 import React from "react"
-import { injectIntl } from "gatsby-plugin-intl"
-import { useStaticQuery, graphql } from "gatsby"
+import Helmet from "react-helmet"
+import { injectIntl, Link } from "gatsby-plugin-intl"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import "../components/faq.css"
 
-const copy = {
-  en: {
-    eyebrow: "Student support",
-    description:
-      "Answers about Virginia Driver Improvement, 3X Fail, RADEP, driver education, pricing, certificates, and registration.",
-    navigation: "FAQ topics",
-    topics: [
-      "Choosing a Course",
-      "Registration & Payment",
-      "Completion & Certificates",
-      "Support & Location",
-    ],
-    help: "Still unsure which course to choose?",
-    helpText:
-      "Tell us what you need to complete. We can help you check the course, format, and next steps before you register.",
-    programs: "View Online Programs",
-    hours: "Phone and text customer service hours",
-  },
-  es: {
-    eyebrow: "Ayuda para estudiantes",
-    description:
-      "Respuestas sobre mejora del conductor, 3X Fail, RADEP, educación vial, precios, certificados e inscripción en Virginia.",
-    navigation: "Temas de preguntas frecuentes",
-    topics: [
-      "Elegir un curso",
-      "Inscripción y pago",
-      "Finalización y certificados",
-      "Ayuda y ubicación",
-    ],
-    help: "¿Todavía no sabe qué curso elegir?",
-    helpText:
-      "Cuéntenos qué necesita completar. Le ayudamos a revisar el curso, la modalidad y los pasos antes de inscribirse.",
-    programs: "Ver programas en línea",
-    hours: "Horario de atención por teléfono y mensaje de texto",
-  },
-}
-const topicIds = ["choosing", "registration", "completion", "support"]
+const BOOKING_URL = "https://abigailsdrivingschoolonline.setmore.com/mohamed"
+const CATALOG_URL = "https://online.abigailsdrivingschool.com/"
+const DI_ENROLL_URL =
+  "https://online.abigailsdrivingschool.com/enroll/va-driver-improvement"
+const RADEP_URL = "https://online.abigailsdrivingschool.com/radep"
+const PACKAGE_URL = `${BOOKING_URL}?step=time-slot&products=a40ce5e1-4e93-415b-a764-6c113a5f7b6a&type=service&staff=r0c7f1634164174507&staffSelected=false`
 
-const Faq = ({ intl }) => {
-  const data = useStaticQuery(graphql`
-    query {
-      faq: markdownRemark(fileAbsolutePath: { regex: "/faq/" }) {
-        frontmatter {
-          title
-        }
-        html
-      }
-      faqEs: markdownRemark(
-        fileAbsolutePath: { regex: "/preguntas-frecuentes/" }
-      ) {
-        frontmatter {
-          title
-        }
-        html
-      }
-      faqContact: markdownRemark(fileAbsolutePath: { regex: "/footer/" }) {
-        frontmatter {
-          en_phone
-          es_phone
-          contact_hours
-        }
-      }
+const QUESTION_NUMBERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+const SECTIONS = [
+  { id: "getting-licensed", titleKey: "s1_title", items: [1, 2, 3] },
+  { id: "courses-prices", titleKey: "s2_title", items: [4, 5, 6, 7, 8, 9] },
+  { id: "booking-lessons", titleKey: "s3_title", items: [10, 11, 12, 13] },
+  { id: "online-spanish", titleKey: "s4_title", items: [14, 15] },
+]
+
+const QUESTION_LINKS = {
+  1: [{ labelKey: "q1_link_label", to: "/virginia-driver-license-18-20" }],
+  2: [{ labelKey: "q2_link_label", to: "/virginia-driver-license-18-20" }],
+  3: [{ labelKey: "q3_link_label", to: "/re-examination" }],
+  4: [{ labelKey: "q4_link_label", href: DI_ENROLL_URL, external: true }],
+  6: [{ labelKey: "q6_link_label", href: RADEP_URL, external: true }],
+  7: [{ labelKey: "q7_link_label", to: "/behind-the-wheel" }],
+  8: [{ labelKey: "q8_link_label", href: BOOKING_URL, external: true }],
+  9: [{ labelKey: "q9_link_label", href: PACKAGE_URL, external: true }],
+  10: [
+    { labelKey: "q10_link_booking", href: BOOKING_URL, external: true },
+    { labelKey: "q10_link_courses", href: CATALOG_URL, external: true },
+  ],
+  11: [{ labelKey: "q11_link_label", to: "/booking-policy" }],
+  15: [{ labelKey: "q15_link_label", href: "tel:+17036378250" }],
+}
+
+const FaqPage = ({ intl }) => {
+  const t = key => intl.formatMessage({ id: `faq_page.${key}` })
+
+  const faqs = QUESTION_NUMBERS.map(n => ({
+    question: t(`q${n}_q`),
+    answer: t(`q${n}_a`),
+  }))
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map(item => ({
+      "@type": "Question",
+      name: item.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.answer,
+      },
+    })),
+  }
+
+  const renderLink = (link, index) => {
+    const label = t(link.labelKey)
+    if (link.to) {
+      return (
+        <Link key={index} to={link.to}>
+          {label}
+        </Link>
+      )
     }
-  `)
-  const isSpanish = intl.locale === "es"
-  const content = isSpanish ? data.faqEs : data.faq
-  const labels = isSpanish ? copy.es : copy.en
-  const contact = data.faqContact.frontmatter
+    if (link.external) {
+      return (
+        <a key={index} href={link.href} target="_blank" rel="noopener noreferrer">
+          {label}
+        </a>
+      )
+    }
+    return (
+      <a key={index} href={link.href}>
+        {label}
+      </a>
+    )
+  }
 
   return (
     <Layout>
-      <SEO
-        lang={intl.locale}
-        title={content.frontmatter.title}
-        description={labels.description}
-      />
+      <SEO lang={intl.locale} title={t("seo_title")} description={t("seo_description")} />
+      <Helmet>
+        <script type="application/ld+json">{JSON.stringify(faqSchema)}</script>
+      </Helmet>
       <article className="faq-page" aria-labelledby="faq-title">
         <header className="faq-heading">
-          <p className="faq-eyebrow">{labels.eyebrow}</p>
-          <h1 id="faq-title">{content.frontmatter.title}</h1>
-          <p className="faq-intro">{labels.description}</p>
+          <p className="faq-eyebrow">{t("eyebrow")}</p>
+          <h1 id="faq-title">{t("title")}</h1>
+          <p className="faq-intro">{t("intro")}</p>
         </header>
-        <nav className="faq-jump-nav" aria-label={labels.navigation}>
-          {topicIds.map((id, index) => (
-            <a href={`#${id}`} key={id}>
-              {labels.topics[index]}
+        <nav className="faq-jump-nav" aria-label={t("nav_label")}>
+          {SECTIONS.map(section => (
+            <a href={`#${section.id}`} key={section.id}>
+              {t(section.titleKey)}
             </a>
           ))}
         </nav>
-        <div
-          className="faq-content"
-          dangerouslySetInnerHTML={{ __html: content.html }}
-        />
-        <aside
-          className="faq-help"
-          id="faq-help"
-          aria-labelledby="faq-help-title"
-        >
-          <h2 id="faq-help-title">{labels.help}</h2>
-          <p>{labels.helpText}</p>
+        {SECTIONS.map(section => (
+          <section
+            className="faq-group"
+            aria-labelledby={section.id}
+            key={section.id}
+          >
+            <h2 id={section.id}>{t(section.titleKey)}</h2>
+            {section.items.map(n => (
+              <details key={n} open={n === 1}>
+                <summary>{t(`q${n}_q`)}</summary>
+                <div className="faq-answer">
+                  <p>{t(`q${n}_a`)}</p>
+                  {(QUESTION_LINKS[n] || []).map((link, index) => (
+                    <p key={index}>{renderLink(link, index)}</p>
+                  ))}
+                </div>
+              </details>
+            ))}
+          </section>
+        ))}
+        <aside className="faq-help" id="faq-help" aria-labelledby="faq-help-title">
+          <h2 id="faq-help-title">{t("help_title")}</h2>
+          <p>{t("help_text")}</p>
           <a
             className="faq-cta"
-            href="https://online.abigailsdrivingschool.com/"
+            href={CATALOG_URL}
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            {labels.programs}
+            {t("cta_programs")}
           </a>
           <div className="faq-contact-links">
-            <a href={`tel:${contact.en_phone}`}>English: {contact.en_phone}</a>
-            <a href={`tel:${contact.es_phone}`}>Español: {contact.es_phone}</a>
+            <a href="tel:+18042563147">{t("phone_en_label")}</a>
+            <a href="tel:+17036378250">{t("phone_es_label")}</a>
             <a href="mailto:abigailsinstructor@gmail.com">
               abigailsinstructor@gmail.com
             </a>
           </div>
-          {contact.contact_hours && (
-            <p className="faq-contact-hours">
-              {labels.hours}: {contact.contact_hours}
-            </p>
-          )}
+          <p className="faq-contact-hours">{t("help_hours")}</p>
         </aside>
       </article>
     </Layout>
   )
 }
 
-export default injectIntl(Faq)
+export default injectIntl(FaqPage)

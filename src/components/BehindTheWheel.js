@@ -46,6 +46,7 @@ const BehindTheWheel = ({ fullPage = false }) => {
             <h3>{name}</h3>
             <p>{detail}</p>
             {index === 3 && <p>{spanish ? "Después de reservar, comuníquese con nosotros para organizar su inscripción en la teoría en línea. Reservar en Setmore no crea una cuenta del curso; la teoría debe completarse antes de la primera visita de manejo." : "After booking, contact us to arrange online classroom enrollment. Your Setmore booking does not create a course account; classroom study must be completed before your first driving visit."}</p>}
+            {index === 3 && <p>{spanish ? "¿Tiene 18, 19 o 20 años? Las reglas de Virginia cambian el 1 de enero de 2027. " : "Are you 18, 19, or 20? Virginia's rules change on January 1, 2027. "}<Link to="/virginia-driver-license-18-20">{spanish ? "Lea nuestra guía sobre los requisitos de 2027" : "Read our guide to the 2027 requirements"}</Link></p>}
             <a className="popular-course-enroll"
               href={`${bookingUrl}?step=time-slot&products=${serviceIds[index]}&type=service&staff=r0c7f1634164174507&staffSelected=false`}
               aria-label={spanish ? `Reservar: ${name}` : `Sign up: ${name}`}>
