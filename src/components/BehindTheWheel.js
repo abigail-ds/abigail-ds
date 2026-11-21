@@ -4,7 +4,8 @@ import "./PopularCourses.css"
 import ProgramHelp from "./ProgramHelp"
 
 const BehindTheWheel = ({ fullPage = false }) => {
-  const spanish = useIntl().locale === "es"
+  const intl = useIntl()
+  const spanish = intl.locale === "es"
   const Heading = fullPage ? "h1" : "h2"
   const phone = spanish ? "+17036378250" : "+18048237730"
   const bookingUrl = "https://abigailsdrivingschoolonline.setmore.com/mohamed"
@@ -37,6 +38,10 @@ const BehindTheWheel = ({ fullPage = false }) => {
       <p className="popular-courses-intro" role="note">
         <strong>{spanish ? "Las reservas están abiertas ahora." : "Booking is open now."}</strong>{" "}
         {spanish ? "Elija su programa y reserve su primera visita en Setmore. Confirmaremos los requisitos y coordinaremos las visitas restantes del programa." : "Choose your program and book your first visit in Setmore. We will confirm eligibility and coordinate the remaining program visits."}
+      </p>
+      <p className="popular-courses-intro">
+        {intl.formatMessage({ id: "home.holiday_btw_intro" })}{" "}
+        <Link to="/holiday-behind-the-wheel">{intl.formatMessage({ id: "home.holiday_btw_link" })}</Link>
       </p>
       <div className="popular-courses-grid">
         {courses.map(([name, price, detail], index) => (
