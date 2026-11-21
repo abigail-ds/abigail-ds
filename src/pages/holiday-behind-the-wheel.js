@@ -11,6 +11,7 @@ const FORM_EMBED_URL = `${FORM_URL}?embedded=true`
 const DAY_KEYS = [1, 2, 3, 4]
 const STEP_KEYS = [1, 2, 3]
 const PROGRAM_KEYS = [1, 2, 3, 4]
+const TEEN_KEYS = [1, 2, 3]
 
 const HolidayBehindTheWheel = ({ intl }) => {
   const t = key => intl.formatMessage({ id: `holiday_btw.${key}` })
@@ -63,6 +64,15 @@ const HolidayBehindTheWheel = ({ intl }) => {
           <ul className="holiday-btw-program-list">
             {PROGRAM_KEYS.map(n => (
               <li key={n}>{t(`program_${n}`)}</li>
+            ))}
+          </ul>
+        </section>
+
+        <section className="holiday-btw-section" aria-labelledby="holiday-btw-teens-title">
+          <h2 id="holiday-btw-teens-title">{t("teens_title")}</h2>
+          <ul className="holiday-btw-program-list">
+            {TEEN_KEYS.map(n => (
+              <li key={n}>{t(`teens_${n}`)}</li>
             ))}
           </ul>
         </section>
