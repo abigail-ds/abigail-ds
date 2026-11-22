@@ -8,7 +8,7 @@ const FORM_URL =
   "https://docs.google.com/forms/d/e/1FAIpQLScXeMOKfhj6RdZcUlfUTejsfoWxUZFfexYRZF6HwSI7wQ17pg/viewform"
 const FORM_EMBED_URL = `${FORM_URL}?embedded=true`
 
-const DAY_KEYS = [1, 2, 3, 4]
+const DAY_KEYS = [1, 2, 3, 4, 5, 6]
 const STEP_KEYS = [1, 2, 3]
 const PROGRAM_KEYS = [1, 2, 3, 4]
 const TEEN_KEYS = [1, 2, 3]
