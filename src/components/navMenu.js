@@ -14,6 +14,7 @@ const NavMenu = props => {
     <Link to="/re-examination">{spanish ? "CLASES PRESENCIALES" : "IN-PERSON CLASSES"}</Link>
     <Link to="/behind-the-wheel">{spanish ? "MANEJO PRÁCTICO" : "BEHIND THE WHEEL"}</Link>
     <Link to="/resources">{props.resources}</Link>
+    <Link to="/45-hour-practice-partner">{props.practice}</Link>
     <Link className="btn" to="/news">
       News
     </Link>

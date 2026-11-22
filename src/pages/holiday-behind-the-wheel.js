@@ -1,5 +1,5 @@
 import React from "react"
-import { injectIntl } from "gatsby-plugin-intl"
+import { injectIntl, Link } from "gatsby-plugin-intl"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import "./holiday-behind-the-wheel.css"
@@ -93,6 +93,9 @@ const HolidayBehindTheWheel = ({ intl }) => {
               <li key={n}>{t(`practice_${n}`)}</li>
             ))}
           </ul>
+          <p>
+            <Link to="/45-hour-practice-partner">{t("practice_link")}</Link>
+          </p>
         </section>
 
         <section className="holiday-btw-section" aria-labelledby="holiday-btw-options-title">
