@@ -14,6 +14,7 @@ const BehindTheWheel = ({ fullPage = false }) => {
     "8a692761-fa11-4d10-9653-ad927d7cb175",
     "c4b3e5a6-6c5c-480d-92ca-f23f3471e1c5",
     "a40ce5e1-4e93-415b-a764-6c113a5f7b6a",
+    "199f8c5a-9fe4-4162-b3c3-5e733f0edd42",
   ]
   const courses = spanish
     ? [
@@ -21,12 +22,14 @@ const BehindTheWheel = ({ fullPage = false }) => {
         ["Paquete de 5 lecciones de manejo", "$375", "Cinco lecciones privadas de 60 minutos a $75 por hora, nuestra mejor tarifa por lección. Reserve su primera visita en Setmore y luego reserve las sesiones restantes en los horarios disponibles."],
         ["Programa de manejo práctico — 7 sesiones", "$425", "Precio completo del programa por estudiante, para estudiantes elegibles que ya hayan completado la educación vial en el aula aprobada. Formato estándar: siete períodos de manejo de 50 minutos y siete períodos de observación de 50 minutos, en pareja con otro estudiante, en siete visitas de 100 minutos. Si no hay un segundo estudiante disponible para formar pareja, el programa se imparte en su lugar como siete sesiones individuales de manejo de una hora."],
         ["Adultos: teoría en línea + manejo", "$549", "Precio total del paquete completo. Incluye educación vial teórica en línea y el programa de manejo y observación. La elegibilidad para la exención de adultos y los requisitos de examen se revisan antes de inscribirse."],
+        ["Adolescentes: teoría en línea + manejo", "$549", "Precio total del paquete completo para adolescentes. Incluye educación vial teórica en línea y el programa de manejo práctico: siete períodos de manejo de 50 minutos y siete períodos de observación de 50 minutos, con el examen práctico final de manejo. Se requiere un permiso de aprendizaje válido, y la teoría debe completarse antes de comenzar el manejo práctico."],
       ]
     : [
         ["Private driving lesson", "$80", "60 minutes of one-to-one instruction for adults and eligible teens with a valid learner permit. Practice vehicle control, parking and road driving. Private lessons are separate from the complete driver-education program."],
         ["5 Driving Lessons Package", "$375", "Five 60-minute private lessons at $75 per hour — our best per-lesson rate. Book your first visit in Setmore, then book the remaining sessions from open slots."],
         ["Behind-the-Wheel Program — 7 Sessions", "$425", "Full-program price per student, for eligible students who have already completed approved classroom driver education. Standard format: seven 50-minute driving periods and seven 50-minute observation periods, paired with another student in seven 100-minute visits. If no second student is available to pair with, the program is instead delivered as seven one-hour, one-on-one driving sessions."],
         ["Adults: online class + behind-the-wheel", "$549", "Complete-package price. Includes online classroom driver education and the driving and observation program. Adult-waiver eligibility and required testing arrangements are reviewed before enrollment."],
+        ["Teens: online class + behind-the-wheel", "$549", "Complete-package price for teens. Includes online classroom driver education and the behind-the-wheel program: seven 50-minute driving periods and seven 50-minute observation periods, with the final road skills test. A valid learner's permit is required, and classroom study must be completed before behind-the-wheel begins."],
       ]
   return (
     <section className="popular-courses" aria-labelledby="behind-the-wheel-title">
@@ -47,10 +50,10 @@ const BehindTheWheel = ({ fullPage = false }) => {
         {courses.map(([name, price, detail], index) => (
           <article className="popular-course-card" key={name}>
             <p className="popular-course-price">{price}</p>
-            {index === 3 && <p className="popular-courses-kicker">{spanish ? "PAQUETE OPCIONAL" : "OPTIONAL BUNDLE"}</p>}
+            {(index === 3 || index === 4) && <p className="popular-courses-kicker">{spanish ? "PAQUETE OPCIONAL" : "OPTIONAL BUNDLE"}</p>}
             <h3>{name}</h3>
             <p>{detail}</p>
-            {index === 3 && <p>{spanish ? "Después de reservar, comuníquese con nosotros para organizar su inscripción en la teoría en línea. Reservar en Setmore no crea una cuenta del curso; la teoría debe completarse antes de la primera visita de manejo." : "After booking, contact us to arrange online classroom enrollment. Your Setmore booking does not create a course account; classroom study must be completed before your first driving visit."}</p>}
+            {(index === 3 || index === 4) && <p>{spanish ? "Después de reservar, comuníquese con nosotros para organizar su inscripción en la teoría en línea. Reservar en Setmore no crea una cuenta del curso; la teoría debe completarse antes de la primera visita de manejo." : "After booking, contact us to arrange online classroom enrollment. Your Setmore booking does not create a course account; classroom study must be completed before your first driving visit."}</p>}
             {index === 3 && <p>{spanish ? "¿Tiene 18, 19 o 20 años? Las reglas de Virginia cambian el 1 de enero de 2027. " : "Are you 18, 19, or 20? Virginia's rules change on January 1, 2027. "}<Link to="/virginia-driver-license-18-20">{spanish ? "Lea nuestra guía sobre los requisitos de 2027" : "Read our guide to the 2027 requirements"}</Link></p>}
             <a className="popular-course-enroll"
               href={`${bookingUrl}?step=time-slot&products=${serviceIds[index]}&type=service&staff=r0c7f1634164174507&staffSelected=false`}
