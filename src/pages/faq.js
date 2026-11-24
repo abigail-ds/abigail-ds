@@ -10,7 +10,7 @@ const CATALOG_URL = "https://online.abigailsdrivingschool.com/"
 const DI_ENROLL_URL =
   "https://online.abigailsdrivingschool.com/enroll/va-driver-improvement"
 const RADEP_URL = "https://online.abigailsdrivingschool.com/radep"
-const PACKAGE_URL = `${BOOKING_URL}?step=time-slot&products=a40ce5e1-4e93-415b-a764-6c113a5f7b6a&type=service&staff=r0c7f1634164174507&staffSelected=false`
+const PACKAGE_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeRHbtyf-rGsrELoHaLV27Mb1c7vl2U1vsa1FHka-EU0wuoRg/viewform"
 
 const QUESTION_NUMBERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 

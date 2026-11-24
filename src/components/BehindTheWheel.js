@@ -9,6 +9,7 @@ const BehindTheWheel = ({ fullPage = false }) => {
   const Heading = fullPage ? "h1" : "h2"
   const phone = spanish ? "+17036378250" : "+18048237730"
   const bookingUrl = "https://abigailsdrivingschoolonline.setmore.com/mohamed"
+  const applicationUrl = "https://docs.google.com/forms/d/e/1FAIpQLSeRHbtyf-rGsrELoHaLV27Mb1c7vl2U1vsa1FHka-EU0wuoRg/viewform"
   const serviceIds = [
     "e854ffd1-0270-404b-b6c0-cbe62fea5d1b",
     "8a692761-fa11-4d10-9653-ad927d7cb175",
@@ -40,7 +41,7 @@ const BehindTheWheel = ({ fullPage = false }) => {
       </p>
       <p className="popular-courses-intro" role="note">
         <strong>{spanish ? "Las reservas están abiertas ahora." : "Booking is open now."}</strong>{" "}
-        {spanish ? "Elija su programa y reserve su primera visita en Setmore. Confirmaremos los requisitos y coordinaremos las visitas restantes del programa." : "Choose your program and book your first visit in Setmore. We will confirm eligibility and coordinate the remaining program visits."}
+        {spanish ? "Las lecciones individuales se reservan al instante en Setmore. Los programas de varias sesiones comienzan con una solicitud: confirmamos los requisitos y luego coordinamos su horario de sesiones con usted." : "Single lessons book instantly in Setmore. Multi-session programs start with an application: we confirm eligibility, then coordinate your session schedule with you."}
       </p>
       <p className="popular-courses-intro">
         {intl.formatMessage({ id: "home.holiday_btw_intro" })}{" "}
@@ -53,12 +54,12 @@ const BehindTheWheel = ({ fullPage = false }) => {
             {(index === 3 || index === 4) && <p className="popular-courses-kicker">{spanish ? "PAQUETE OPCIONAL" : "OPTIONAL BUNDLE"}</p>}
             <h3>{name}</h3>
             <p>{detail}</p>
-            {(index === 3 || index === 4) && <p>{spanish ? "Después de reservar, comuníquese con nosotros para organizar su inscripción en la teoría en línea. Reservar en Setmore no crea una cuenta del curso; la teoría debe completarse antes de la primera visita de manejo." : "After booking, contact us to arrange online classroom enrollment. Your Setmore booking does not create a course account; classroom study must be completed before your first driving visit."}</p>}
+            {(index === 3 || index === 4) && <p>{spanish ? "Después de solicitar, comuníquese con nosotros para organizar su inscripción en la teoría en línea. Su solicitud no crea una cuenta del curso; la teoría debe completarse antes de la primera visita de manejo." : "After applying, contact us to arrange online classroom enrollment. Your application does not create a course account; classroom study must be completed before your first driving visit."}</p>}
             {index === 3 && <p>{spanish ? "¿Tiene 18, 19 o 20 años? Las reglas de Virginia cambian el 1 de enero de 2027. " : "Are you 18, 19, or 20? Virginia's rules change on January 1, 2027. "}<Link to="/virginia-driver-license-18-20">{spanish ? "Lea nuestra guía sobre los requisitos de 2027" : "Read our guide to the 2027 requirements"}</Link></p>}
             <a className="popular-course-enroll"
-              href={`${bookingUrl}?step=time-slot&products=${serviceIds[index]}&type=service&staff=r0c7f1634164174507&staffSelected=false`}
-              aria-label={spanish ? `Reservar: ${name}` : `Sign up: ${name}`}>
-              {spanish ? "RESERVAR ESTE PROGRAMA" : "SIGN UP FOR THIS OPTION"}
+              href={index === 0 ? `${bookingUrl}?step=time-slot&products=${serviceIds[index]}&type=service&staff=r0c7f1634164174507&staffSelected=false` : applicationUrl}
+              aria-label={spanish ? (index === 0 ? `Reservar: ${name}` : `Solicitar: ${name}`) : (index === 0 ? `Sign up: ${name}` : `Apply: ${name}`)}>
+              {index === 0 ? (spanish ? "RESERVAR ESTE PROGRAMA" : "SIGN UP FOR THIS OPTION") : (spanish ? "SOLICITAR ESTE PROGRAMA" : "APPLY FOR THIS PROGRAM")}
             </a>
             <ProgramHelp program={serviceIds[index]} />
           </article>
@@ -70,9 +71,9 @@ const BehindTheWheel = ({ fullPage = false }) => {
       {fullPage && <>
         <h2>{spanish ? "Cómo comenzar" : "How to get started"}</h2>
         <ol style={{ textAlign: "left", maxWidth: "720px", margin: "20px auto" }}>
-          <li>{spanish ? "Elija práctica privada, solo manejo práctico o teoría y manejo, y reserve su primera visita en Setmore." : "Choose private practice, behind-the-wheel only, or classroom and driving, and book your first visit in Setmore."}</li>
+          <li>{spanish ? "Elija práctica privada, solo manejo práctico o teoría y manejo. Las lecciones privadas se reservan en Setmore; los programas de varias sesiones comienzan con el formulario de solicitud." : "Choose private practice, behind-the-wheel only, or classroom and driving. Private lessons book in Setmore; multi-session programs start with the application form."}</li>
           <li>{spanish ? "Revisaremos su permiso, comprobante de teoría cuando corresponda y requisitos del programa antes de confirmar la inscripción." : "We will review your learner permit, classroom completion where applicable and program requirements before confirming enrollment."}</li>
-          <li>{spanish ? "Coordinaremos su secuencia de sesiones. Si necesita teoría en línea, comuníquese con nosotros después de reservar para organizar la inscripción antes de comenzar a manejar. El precio del programa se paga una vez, no en cada visita." : "We will coordinate your session sequence. If you need online classroom study, contact us after booking to arrange enrollment before driving begins. The program price is paid once, not at every visit."}</li>
+          <li>{spanish ? "Coordinaremos su secuencia de sesiones. Si necesita teoría en línea, comuníquese con nosotros después de solicitar para organizar la inscripción antes de comenzar a manejar. El precio del programa se paga una vez, no en cada visita." : "We will coordinate your session sequence. If you need online classroom study, contact us after you apply to arrange enrollment before driving begins. The program price is paid once, not at every visit."}</li>
         </ol>
         <p className="popular-courses-intro">{spanish ? "La teoría se ofrece en línea; Setmore se utiliza para sesiones en el vehículo. Completar un curso no garantiza una licencia. Las clases privadas no son el curso de reexamen por tres fallas del examen práctico." : "Classroom study is online; Setmore is used for in-car sessions. Completing a course does not guarantee a license. Private practice lessons are not the three-road-test-failures re-examination course."}</p>
       </>}

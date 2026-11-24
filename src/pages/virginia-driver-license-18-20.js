@@ -7,8 +7,8 @@ import "./virginia-driver-license-18-20.css"
 
 const BOOKING_BASE = "https://abigailsdrivingschoolonline.setmore.com/mohamed"
 const STAFF = "r0c7f1634164174507"
-const PACKAGE_URL = `${BOOKING_BASE}?step=time-slot&products=a40ce5e1-4e93-415b-a764-6c113a5f7b6a&type=service&staff=${STAFF}&staffSelected=false`
-const BTW_URL = `${BOOKING_BASE}?step=time-slot&products=c4b3e5a6-6c5c-480d-92ca-f23f3471e1c5&type=service&staff=${STAFF}&staffSelected=false`
+const PACKAGE_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeRHbtyf-rGsrELoHaLV27Mb1c7vl2U1vsa1FHka-EU0wuoRg/viewform"
+const BTW_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeRHbtyf-rGsrELoHaLV27Mb1c7vl2U1vsa1FHka-EU0wuoRg/viewform"
 const CLASSROOM_URL =
   "https://online.abigailsdrivingschool.com/enroll/va-drivers-ed?audience=adult"
 
