@@ -65,6 +65,10 @@ const BehindTheWheel = ({ fullPage = false }) => {
           </article>
         ))}
       </div>
+      <p className="popular-courses-intro" role="note">
+        <strong>{spanish ? "¿Aún no está seguro? Comience con una lección." : "Not sure yet? Start with one lesson."}</strong>{" "}
+        {spanish ? "Reserve una lección privada individual de $80 en Setmore: si se inscribe en un programa dentro de los 30 días, los $80 se acreditan al precio del programa y la lección cuenta como su primera sesión. ¿Prefiere sin compromiso? Pague por lección: reserve lecciones individuales de $80 una a la vez en Setmore, elija un horario disponible y pague cada lección al reservarla. Las lecciones de pago por sesión son lecciones privadas; los estudiantes que necesitan el certificado del programa de manejo práctico para su licencia deben completar el programa completo." : "Book a single $80 private lesson in Setmore \u2014 if you enroll in a program within 30 days, the $80 is credited toward the program price and the lesson counts as your first session. Prefer no commitment? Pay as you go: book single $80 lessons one at a time in Setmore, choose an available time, and pay for each lesson when you book. Pay-as-you-go lessons are private lessons; students who need the behind-the-wheel program certificate for licensing must complete the full program."}
+      </p>
       <p className="popular-courses-intro">
         {spanish ? "Horario: lunes, martes y viernes, 6–9 a. m.; lunes, 4–9 p. m.; martes, 7–9 p. m.; viernes, 6–9 p. m. Sábados y domingos alternos, 9 a. m.–6 p. m., comenzando el 7–8 de noviembre. Horario del este. La disponibilidad depende del programa, emparejamiento de estudiantes y lugar de encuentro." : "Availability: Monday, Tuesday and Friday, 6–9 a.m.; Monday, 4–9 p.m.; Tuesday, 7–9 p.m.; Friday, 6–9 p.m. Alternating Saturdays and Sundays, 9 a.m.–6 p.m., starting November 7–8. All times Eastern. Scheduling depends on the program, student pairing and meeting location."}
       </p>
